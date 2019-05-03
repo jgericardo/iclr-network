@@ -1,0 +1,31 @@
+2015,Poster,Multiple Object Recognition with Visual Attention.,Jimmy Ba; Volodymyr Mnih; Koray Kavukcuoglu
+2015,Oral,Neural Machine Translation by Jointly Learning to Align and Translate.,Dzmitry Bahdanau; Kyunghyun Cho; Yoshua Bengio
+2015,Oral,Reweighted Wake-Sleep.,Jörg Bornschein; Yoshua Bengio
+2015,Poster,Semantic Image Segmentation with Deep Convolutional Nets and Fully Connected CRFs.,Liang-Chieh Chen; George Papandreou; Iasonas Kokkinos; Kevin Murphy; Alan L. Yuille
+2015,Poster,Transformation Properties of Learned Visual Representations.,Taco S. Cohen; Max Welling
+2015,Poster,Generative Modeling of Convolutional Neural Networks.,Jifeng Dai; Ying Nian Wu
+2015,Poster,Scheduled denoising autoencoders.,Krzysztof J. Geras; Charles A. Sutton
+2015,Poster,Explaining and Harnessing Adversarial Examples.,Ian J. Goodfellow; Jonathon Shlens; Christian Szegedy
+2015,Oral,Qualitatively characterizing neural network optimization problems.,Ian J. Goodfellow; Oriol Vinyals
+2015,Oral,The local low-dimensionality of natural images.,Olivier J. Hénaff; Johannes Ballé; Neil C. Rabinowitz; Eero P. Simoncelli
+2015,Poster,Modeling Compositionality with Multiplicative Recurrent Neural Networks.,Ozan Irsoy; Claire Cardie
+2015,Oral,Deep Structured Output Learning for Unconstrained Text Recognition.,Max Jaderberg; Karen Simonyan; Andrea Vedaldi; Andrew Zisserman
+2015,Poster,Adam - A Method for Stochastic Optimization.,Diederik P. Kingma; Jimmy Ba
+2015,Poster,Speeding-up Convolutional Neural Networks Using Fine-tuned CP-Decomposition.,Vadim Lebedev; Yaroslav Ganin; Maksim Rakhuba; Ivan V. Oseledets; Victor S. Lempitsky
+2015,Poster,Joint RNN-Based Greedy Parsing and Word Composition.,Joël Legrand; Ronan Collobert
+2015,Poster,Move Evaluation in Go Using Deep Convolutional Neural Networks.,Chris J. Maddison; Aja Huang; Ilya Sutskever; David Silver
+2015,Oral,Deep Captioning with Multimodal Recurrent Neural Networks (m-RNN).,Junhua Mao; Wei Xu; Yi Yang; Jiang Wang; Alan L. Yuille
+2015,Poster,Zero-bias autoencoders and the benefits of co-adapting features.,Roland Memisevic; Kishore Reddy Konda; David Krueger
+2015,Poster,Deep Narrow Boltzmann Machines are Universal Approximators.,Guido Montúfar
+2015,Poster,Automatic Discovery and Optimization of Parts for Image Classification.,Sobhan Naderi Parizi; Andrea Vedaldi; Andrew Zisserman; Pedro F. Felzenszwalb
+2015,Poster,Techniques for Learning Binary Stochastic Feedforward Neural Networks.,Tapani Raiko; Mathias Berglund; Guillaume Alain; Laurent Dinh
+2015,Poster,FitNets - Hints for Thin Deep Nets.,Adriana Romero; Nicolas Ballas; Samira Ebrahimi Kahou; Antoine Chassang; Carlo Gatta; Yoshua Bengio
+2015,Oral,Very Deep Convolutional Networks for Large-Scale Image Recognition.,Karen Simonyan; Andrew Zisserman
+2015,Poster,Leveraging Monolingual Data for Crosslingual Compositional Word Representations.,Hubert Soyer; Pontus Stenetorp; Akiko Aizawa
+2015,Poster,Understanding Locally Competitive Networks.,Rupesh Kumar Srivastava; Jonathan Masci; Faustino J. Gomez; Jürgen Schmidhuber
+2015,Oral,Fast Convolutional Nets With fbfft - A GPU Performance Evaluation.,Nicolas Vasilache; Jeff Johnson; Michaël Mathieu; Soumith Chintala; Serkan Piantino; Yann LeCun
+2015,Oral,Word Representations via Gaussian Embedding.,Luke Vilnis; Andrew McCallum
+2015,Oral,Memory Networks.,Jason Weston; Sumit Chopra; Antoine Bordes
+2015,Poster,A Unified Perspective on Multi-Domain and Multi-Task Learning.,Yongxin Yang; Timothy M. Hospedales
+2015,Poster,Embedding Entities and Relations for Learning and Inference in Knowledge Bases.,Bishan Yang; Wen-tau Yih; Xiaodong He; Jianfeng Gao; Li Deng
+2015,Oral,Object Detectors Emerge in Deep Scene CNNs.,Bolei Zhou; Aditya Khosla; Àgata Lapedriza; Aude Oliva; Antonio Torralba

@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+    <query id="81997">:facetid:toc:db\"/\"conf\"/\"iclr\"/\"iclr2013\".\"bht</query>
+    <status code="200">OK</status>
+    <time unit="msecs">1.28</time>
+    <completions total="1" computed="1" sent="1">
+        <c sc="24" dc="24" oc="24" id="14545005">:facetid:toc:db/conf/iclr/iclr2013.bht</c>
+    </completions>
+    <hits total="24" computed="24" sent="24" first="0">
+        <hit score="1" id="1825116">
+            <info>
+                <authors>
+                    <author>Nicolas Le Roux</author>
+                    <author>Francis R. Bach</author>
+                </authors>
+                <title>Local Component Analysis</title>
+                <venue>ICLR</venue>
+                <year>2013</year>
+                <type>Conference and Workshop Papers</type>
+                <key>journals/corr/abs-1109-0093</key>
+                <ee>http://arxiv.org/abs/1109.0093</ee>
+                <url>https://dblp.org/rec/journals/corr/abs-1109-0093</url>
+            </info>
+            <url>URL#1825116</url>
+        </hit>
+        <hit score="1" id="1825121">
+            <info>
+                <authors>
+                    <author>Guillaume Alain</author>
+                    <author>Yoshua Bengio</author>
+                    <author>Salah Rifai</author>
+                </authors>
+                <title>Regularized Auto-Encoders Estimate Local Statistics</title>
+                <venue>ICLR</venue>
+                <year>2013</year>
+                <type>Conference and Workshop Papers</type>
+                <key>journals/corr/abs-1211-4246</key>
+                <ee>http://arxiv.org/abs/1211.4246</ee>
+                <url>https://dblp.org/rec/journals/corr/abs-1211-4246</url>
+            </info>
+            <url>URL#1825121</url>
+        </hit>
+        <hit score="1" id="1825124">
+            <info>
+                <authors>
+                    <author>Christian Scheible</author>
+                    <author>Hinrich Schütze</author>
+                </authors>
+                <title>Cutting Recursive Autoencoder Trees</title>
+                <venue>ICLR</venue>
+                <year>2013</year>
+                <type>Conference and Workshop Papers</type>
+                <key>journals/corr/abs-1301-2811</key>
+                <ee>http://arxiv.org/abs/1301.2811</ee>
+                <url>https://dblp.org/rec/journals/corr/abs-1301-2811</url>
+            </info>
+            <url>URL#1825124</url>
+        </hit>
+        <hit score="1" id="1825129">
+            <info>
+                <authors>
+                    <author>Judy Hoffman</author>
+                    <author>Erik Rodner</author>
+                    <author>Jeff Donahue</author>
+                    <author>Kate Saenko</author>
+                    <author>Trevor Darrell</author>
+                </authors>
+                <title>Efficient Learning of Domain-invariant Image Representations</title>
+                <venue>ICLR</venue>
+                <year>2013</year>
+                <type>Conference and Workshop Papers</type>
+                <key>journals/corr/abs-1301-3224</key>
+                <ee>http://arxiv.org/abs/1301.3224</ee>
+                <url>https://dblp.org/rec/journals/corr/abs-1301-3224</url>
+            </info>
+            <url>URL#1825129</url>
+        </hit>
+        <hit score="1" id="1825131">
+            <info>
+                <authors>
+                    <author>Laurens van der Maaten</author>
+                </authors>
+                <title>Barnes-Hut-SNE</title>
+                <venue>ICLR</venue>
+                <year>2013</year>
+                <type>Conference and Workshop Papers</type>
+                <key>journals/corr/abs-1301-3342</key>
+                <ee>http://arxiv.org/abs/1301.3342</ee>
+                <url>https://dblp.org/rec/journals/corr/abs-1301-3342</url>
+            </info>
+            <url>URL#1825131</url>
+        </hit>
+        <hit score="1" id="1825132">
+            <info>
+                <authors>
+                    <author>Hugo Van hamme</author>
+                </authors>
+                <title>The Diagonalized Newton Algorithm for Nonnegative Matrix Factorization</title>
+                <venue>ICLR</venue>
+                <year>2013</year>
+                <type>Conference and Workshop Papers</type>
+                <key>journals/corr/abs-1301-3389</key>
+                <ee>http://arxiv.org/abs/1301.3389</ee>
+                <url>https://dblp.org/rec/journals/corr/abs-1301-3389</url>
+            </info>
+            <url>URL#1825132</url>
+        </hit>
+        <hit score="1" id="1825133">
+            <info>
+                <authors>
+                    <author>Felix Bauer</author>
+                    <author>Roland Memisevic</author>
+                </authors>
+                <title>Feature grouping from spatially constrained multiplicative interaction</title>
+                <venue>ICLR</venue>
+                <year>2013</year>
+                <type>Conference and Workshop Papers</type>
+                <key>journals/corr/abs-1301-3391</key>
+                <ee>http://arxiv.org/abs/1301.3391</ee>
+                <url>https://dblp.org/rec/journals/corr/abs-1301-3391</url>
+            </info>
+            <url>URL#1825133</url>
+        </hit>
+        <hit score="1" id="1825139">
+            <info>
+                <authors>
+                    <author>Vamsi K. Potluru</author>
+                    <author>Sergey M. Plis</author>
+                    <author>Jonathan Le Roux</author>
+                    <author>Barak A. Pearlmutter</author>
+                    <author>Vince D. Calhoun</author>
+                    <author>Thomas P. Hayes</author>
+                </authors>
+                <title>Block Coordinate Descent for Sparse NMF</title>
+                <venue>ICLR</venue>
+                <year>2013</year>
+                <type>Conference and Workshop Papers</type>
+                <key>journals/corr/abs-1301-3527</key>
+                <ee>http://arxiv.org/abs/1301.3527</ee>
+                <url>https://dblp.org/rec/journals/corr/abs-1301-3527</url>
+            </info>
+            <url>URL#1825139</url>
+        </hit>
+        <hit score="1" id="1825140">
+            <info>
+                <authors>
+                    <author>Guido Montúfar</author>
+                    <author>Jason Morton</author>
+                </authors>
+                <title>Discrete Restricted Boltzmann Machines</title>
+                <venue>ICLR</venue>
+                <year>2013</year>
+                <type>Conference and Workshop Papers</type>
+                <key>journals/corr/abs-1301-3529</key>
+                <ee>http://arxiv.org/abs/1301.3529</ee>
+                <url>https://dblp.org/rec/journals/corr/abs-1301-3529</url>
+            </info>
+            <url>URL#1825140</url>
+        </hit>
+        <hit score="1" id="1825141">
+            <info>
+                <authors>
+                    <author>Charles F. Cadieu</author>
+                    <author>Ha Hong</author>
+                    <author>Dan Yamins</author>
+                    <author>Nicolas Pinto</author>
+                    <author>Najib J. Majaj</author>
+                    <author>James J. DiCarlo</author>
+                </authors>
+                <title>The Neural Representation Benchmark and its Evaluation on Brain and Machine</title>
+                <venue>ICLR</venue>
+                <year>2013</year>
+                <type>Conference and Workshop Papers</type>
+                <key>journals/corr/abs-1301-3530</key>
+                <ee>http://arxiv.org/abs/1301.3530</ee>
+                <url>https://dblp.org/rec/journals/corr/abs-1301-3530</url>
+            </info>
+            <url>URL#1825141</url>
+        </hit>
+        <hit score="1" id="1825145">
+            <info>
+                <authors>
+                    <author>Guillaume Desjardins</author>
+                    <author>Razvan Pascanu</author>
+                    <author>Aaron C. Courville</author>
+                    <author>Yoshua Bengio</author>
+                </authors>
+                <title>Metric-Free Natural Gradient for Joint-Training of Boltzmann Machines</title>
+                <venue>ICLR</venue>
+                <year>2013</year>
+                <type>Conference and Workshop Papers</type>
+                <key>journals/corr/abs-1301-3545</key>
+                <ee>http://arxiv.org/abs/1301.3545</ee>
+                <url>https://dblp.org/rec/journals/corr/abs-1301-3545</url>
+            </info>
+            <url>URL#1825145</url>
+        </hit>
+        <hit score="1" id="1825146">
+            <info>
+                <authors>
+                    <author>Luis Gonzalo Sánchez Giraldo</author>
+                    <author>José C. Príncipe</author>
+                </authors>
+                <title>Information Theoretic Learning with Infinitely Divisible Kernels</title>
+                <venue>ICLR</venue>
+                <year>2013</year>
+                <type>Conference and Workshop Papers</type>
+                <key>journals/corr/abs-1301-3551</key>
+                <ee>http://arxiv.org/abs/1301.3551</ee>
+                <url>https://dblp.org/rec/journals/corr/abs-1301-3551</url>
+            </info>
+            <url>URL#1825146</url>
+        </hit>
+        <hit score="1" id="1825147">
+            <info>
+                <authors>
+                    <author>Matthew D. Zeiler</author>
+                    <author>Rob Fergus</author>
+                </authors>
+                <title>Stochastic Pooling for Regularization of Deep Convolutional Neural Networks</title>
+                <venue>ICLR</venue>
+                <year>2013</year>
+                <type>Conference and Workshop Papers</type>
+                <key>journals/corr/abs-1301-3557</key>
+                <ee>http://arxiv.org/abs/1301.3557</ee>
+                <url>https://dblp.org/rec/journals/corr/abs-1301-3557</url>
+            </info>
+            <url>URL#1825147</url>
+        </hit>
+        <hit score="1" id="1825148">
+            <info>
+                <authors>
+                    <author>Alan L. Yuille</author>
+                    <author>Roozbeh Mottaghi</author>
+                </authors>
+                <title>Complexity of Representation and Inference in Compositional Models with Part Sharing</title>
+                <venue>ICLR</venue>
+                <year>2013</year>
+                <type>Conference and Workshop Papers</type>
+                <key>journals/corr/abs-1301-3560</key>
+                <ee>http://arxiv.org/abs/1301.3560</ee>
+                <url>https://dblp.org/rec/journals/corr/abs-1301-3560</url>
+            </info>
+            <url>URL#1825148</url>
+        </hit>
+        <hit score="1" id="1825151">
+            <info>
+                <authors>
+                    <author>Camille Couprie</author>
+                    <author>Clément Farabet</author>
+                    <author>Laurent Najman</author>
+                    <author>Yann LeCun</author>
+                </authors>
+                <title>Indoor Semantic Segmentation using depth information</title>
+                <venue>ICLR</venue>
+                <year>2013</year>
+                <type>Conference and Workshop Papers</type>
+                <key>journals/corr/abs-1301-3572</key>
+                <ee>http://arxiv.org/abs/1301.3572</ee>
+                <url>https://dblp.org/rec/journals/corr/abs-1301-3572</url>
+            </info>
+            <url>URL#1825151</url>
+        </hit>
+        <hit score="1" id="1825152">
+            <info>
+                <authors>
+                    <author>Rostislav Goroshin</author>
+                    <author>Yann LeCun</author>
+                </authors>
+                <title>Saturating Auto-Encoder</title>
+                <venue>ICLR</venue>
+                <year>2013</year>
+                <type>Conference and Workshop Papers</type>
+                <key>journals/corr/abs-1301-3577</key>
+                <ee>http://arxiv.org/abs/1301.3577</ee>
+                <url>https://dblp.org/rec/journals/corr/abs-1301-3577</url>
+            </info>
+            <url>URL#1825152</url>
+        </hit>
+        <hit score="1" id="1825157">
+            <info>
+                <authors>
+                    <author>Dong Yu 0001</author>
+                    <author>Michael L. Seltzer</author>
+                    <author>Jinyu Li</author>
+                    <author>Jui-Ting Huang</author>
+                    <author>Frank Seide</author>
+                </authors>
+                <title>Feature Learning in Deep Neural Networks - A Study on Speech Recognition Tasks</title>
+                <venue>ICLR</venue>
+                <year>2013</year>
+                <type>Conference and Workshop Papers</type>
+                <key>journals/corr/abs-1301-3605</key>
+                <ee>http://arxiv.org/abs/1301.3605</ee>
+                <url>https://dblp.org/rec/journals/corr/abs-1301-3605</url>
+            </info>
+            <url>URL#1825157</url>
+        </hit>
+        <hit score="1" id="1825158">
+            <info>
+                <authors>
+                    <author>Sebastian Hitziger</author>
+                    <author>Maureen Clerc</author>
+                    <author>Alexandre Gramfort</author>
+                    <author>Sandrine Saillet</author>
+                    <author>Christian G. Bénar</author>
+                    <author>Théodore Papadopoulo</author>
+                </authors>
+                <title>Jitter-Adaptive Dictionary Learning - Application to Multi-Trial Neuroelectric Signals</title>
+                <venue>ICLR</venue>
+                <year>2013</year>
+                <type>Conference and Workshop Papers</type>
+                <key>journals/corr/abs-1301-3611</key>
+                <ee>http://arxiv.org/abs/1301.3611</ee>
+                <url>https://dblp.org/rec/journals/corr/abs-1301-3611</url>
+            </info>
+            <url>URL#1825158</url>
+        </hit>
+        <hit score="1" id="1825161">
+            <info>
+                <authors>
+                    <author>Ryan Kiros</author>
+                </authors>
+                <title>Training Neural Networks with Stochastic Hessian-Free Optimization</title>
+                <venue>ICLR</venue>
+                <year>2013</year>
+                <type>Conference and Workshop Papers</type>
+                <key>journals/corr/abs-1301-3641</key>
+                <ee>http://arxiv.org/abs/1301.3641</ee>
+                <url>https://dblp.org/rec/journals/corr/abs-1301-3641</url>
+            </info>
+            <url>URL#1825161</url>
+        </hit>
+        <hit score="1" id="1825165">
+            <info>
+                <authors>
+                    <author>Tom Schaul</author>
+                    <author>Yann LeCun</author>
+                </authors>
+                <title>Adaptive learning rates and parallelization for stochastic, sparse, non-smooth gradients</title>
+                <venue>ICLR</venue>
+                <year>2013</year>
+                <type>Conference and Workshop Papers</type>
+                <key>journals/corr/abs-1301-3764</key>
+                <ee>http://arxiv.org/abs/1301.3764</ee>
+                <url>https://dblp.org/rec/journals/corr/abs-1301-3764</url>
+            </info>
+            <url>URL#1825165</url>
+        </hit>
+        <hit score="1" id="1825166">
+            <info>
+                <authors>
+                    <author>Jason Tyler Rolfe</author>
+                    <author>Yann LeCun</author>
+                </authors>
+                <title>Discriminative Recurrent Sparse Auto-Encoders</title>
+                <venue>ICLR</venue>
+                <year>2013</year>
+                <type>Conference and Workshop Papers</type>
+                <key>journals/corr/abs-1301-3775</key>
+                <ee>http://arxiv.org/abs/1301.3775</ee>
+                <url>https://dblp.org/rec/journals/corr/abs-1301-3775</url>
+            </info>
+            <url>URL#1825166</url>
+        </hit>
+        <hit score="1" id="1825168">
+            <info>
+                <authors>
+                    <author>Çaglar Gülçehre</author>
+                    <author>Yoshua Bengio</author>
+                </authors>
+                <title>Knowledge Matters - Importance of Prior Information for Optimization</title>
+                <venue>ICLR</venue>
+                <year>2013</year>
+                <type>Conference and Workshop Papers</type>
+                <key>journals/corr/abs-1301-4083</key>
+                <ee>http://arxiv.org/abs/1301.4083</ee>
+                <url>https://dblp.org/rec/journals/corr/abs-1301-4083</url>
+            </info>
+            <url>URL#1825168</url>
+        </hit>
+        <hit score="1" id="1825169">
+            <info>
+                <authors>
+                    <author>Luke Bornn</author>
+                    <author>Yutian Chen</author>
+                    <author>Nando de Freitas</author>
+                    <author>Mareija Eskelin</author>
+                    <author>Jing Fang</author>
+                    <author>Max Welling</author>
+                </authors>
+                <title>Herded Gibbs Sampling</title>
+                <venue>ICLR</venue>
+                <year>2013</year>
+                <type>Conference and Workshop Papers</type>
+                <key>journals/corr/abs-1301-4168</key>
+                <ee>http://arxiv.org/abs/1301.4168</ee>
+                <url>https://dblp.org/rec/journals/corr/abs-1301-4168</url>
+            </info>
+            <url>URL#1825169</url>
+        </hit>
+        <hit score="1" id="1828899">
+            <info>
+                <authors>
+                    <author>Yoshua Bengio</author>
+                    <author>Yann LeCun</author>
+                </authors>
+                <title>1st International Conference on Learning Representations, ICLR 2013, Scottsdale, Arizona, USA,
+                    May 2-4, 2013, Conference Track Proceedings</title>
+                <venue>ICLR</venue>
+                <year>2013</year>
+                <type>Editorship</type>
+                <key>conf/iclr/2013</key>
+                <ee>https://openreview.net/group?id=ICLR.cc/2013</ee>
+                <url>https://dblp.org/rec/conf/iclr/2013</url>
+            </info>
+            <url>URL#1828899</url>
+        </hit>
+    </hits>
+</result>

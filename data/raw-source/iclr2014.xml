@@ -1,0 +1,644 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+    <query id="82091">:facetid:toc:db\"/\"conf\"/\"iclr\"/\"iclr2014\".\"bht</query>
+    <status code="200">OK</status>
+    <time unit="msecs">1.96</time>
+    <completions total="1" computed="1" sent="1">
+        <c sc="36" dc="36" oc="36" id="14545007">:facetid:toc:db/conf/iclr/iclr2014.bht</c>
+    </completions>
+    <hits total="36" computed="36" sent="36" first="0">
+        <hit score="1" id="1552622">
+            <info>
+                <authors>
+                    <author>Justin Bayer</author>
+                    <author>Christian Osendorfer</author>
+                    <author>Nutan Chen</author>
+                    <author>Sebastian Urban</author>
+                    <author>Patrick van der Smagt</author>
+                </authors>
+                <title>On Fast Dropout and its Applicability to Recurrent Networks.</title>
+                <venue>ICLR</venue>
+                <year>2014</year>
+                <type>Conference and Workshop Papers</type>
+                <key>journals/corr/BayerOCUS13</key>
+                <ee>http://arxiv.org/abs/1311.0701</ee>
+                <url>https://dblp.org/rec/journals/corr/BayerOCUS13</url>
+            </info>
+            <url>URL#1552622</url>
+        </hit>
+        <hit score="1" id="1552628">
+            <info>
+                <authors>
+                    <author>Yoshua Bengio</author>
+                    <author>Li Yao</author>
+                </authors>
+                <title>Bounding the Test Log-Likelihood of Generative Models.</title>
+                <venue>ICLR</venue>
+                <year>2014</year>
+                <type>Conference and Workshop Papers</type>
+                <key>journals/corr/BengioY13</key>
+                <ee>http://arxiv.org/abs/1311.6184</ee>
+                <url>https://dblp.org/rec/journals/corr/BengioY13</url>
+            </info>
+            <url>URL#1552628</url>
+        </hit>
+        <hit score="1" id="1552639">
+            <info>
+                <authors>
+                    <author>John A. Bogovic</author>
+                    <author>Gary B. Huang</author>
+                    <author>Viren Jain</author>
+                </authors>
+                <title>Learned versus Hand-Designed Feature Representations for 3d Agglomeration.</title>
+                <venue>ICLR</venue>
+                <year>2014</year>
+                <type>Conference and Workshop Papers</type>
+                <key>journals/corr/BogovicHJ13</key>
+                <ee>http://arxiv.org/abs/1312.6159</ee>
+                <url>https://dblp.org/rec/journals/corr/BogovicHJ13</url>
+            </info>
+            <url>URL#1552639</url>
+        </hit>
+        <hit score="1" id="1552652">
+            <info>
+                <authors>
+                    <author>Joan Bruna</author>
+                    <author>Wojciech Zaremba</author>
+                    <author>Arthur Szlam</author>
+                    <author>Yann LeCun</author>
+                </authors>
+                <title>Spectral Networks and Locally Connected Networks on Graphs.</title>
+                <venue>ICLR</venue>
+                <year>2014</year>
+                <type>Conference and Workshop Papers</type>
+                <key>journals/corr/BrunaZSL13</key>
+                <ee>http://arxiv.org/abs/1312.6203</ee>
+                <url>https://dblp.org/rec/journals/corr/BrunaZSL13</url>
+            </info>
+            <url>URL#1552652</url>
+        </hit>
+        <hit score="1" id="1552690">
+            <info>
+                <authors>
+                    <author>Yann N. Dauphin</author>
+                    <author>Gökhan Tür</author>
+                    <author>Dilek Hakkani-Tür</author>
+                    <author>Larry P. Heck</author>
+                </authors>
+                <title>Zero-Shot Learning and Clustering for Semantic Utterance Classification.</title>
+                <venue>ICLR</venue>
+                <year>2014</year>
+                <type>Conference and Workshop Papers</type>
+                <key>journals/corr/DauphinTHH14</key>
+                <ee>http://arxiv.org/abs/1401.0509</ee>
+                <url>https://dblp.org/rec/journals/corr/DauphinTHH14</url>
+            </info>
+            <url>URL#1552690</url>
+        </hit>
+        <hit score="1" id="1552703">
+            <info>
+                <authors>
+                    <author>Gabriel Dulac-Arnold</author>
+                    <author>Ludovic Denoyer</author>
+                    <author>Nicolas Thome</author>
+                    <author>Matthieu Cord</author>
+                    <author>Patrick Gallinari</author>
+                </authors>
+                <title>Sequentially Generated Instance-Dependent Image Representations for Classification.</title>
+                <venue>ICLR</venue>
+                <year>2014</year>
+                <type>Conference and Workshop Papers</type>
+                <key>journals/corr/Dulac-ArnoldDTCG13</key>
+                <ee>http://arxiv.org/abs/1312.6594</ee>
+                <url>https://dblp.org/rec/journals/corr/Dulac-ArnoldDTCG13</url>
+            </info>
+            <url>URL#1552703</url>
+        </hit>
+        <hit score="1" id="1552733">
+            <info>
+                <authors>
+                    <author>Yunchao Gong</author>
+                    <author>Yangqing Jia</author>
+                    <author>Thomas Leung</author>
+                    <author>Alexander Toshev</author>
+                    <author>Sergey Ioffe</author>
+                </authors>
+                <title>Deep Convolutional Ranking for Multilabel Image Annotation.</title>
+                <venue>ICLR</venue>
+                <year>2014</year>
+                <type>Conference and Workshop Papers</type>
+                <key>journals/corr/GongJLTI13</key>
+                <ee>http://arxiv.org/abs/1312.4894</ee>
+                <url>https://dblp.org/rec/journals/corr/GongJLTI13</url>
+            </info>
+            <url>URL#1552733</url>
+        </hit>
+        <hit score="1" id="1552734">
+            <info>
+                <authors>
+                    <author>Ian J. Goodfellow</author>
+                    <author>Yaroslav Bulatov</author>
+                    <author>Julian Ibarz</author>
+                    <author>Sacha Arnoud</author>
+                    <author>Vinay D. Shet</author>
+                </authors>
+                <title>Multi-digit Number Recognition from Street View Imagery using Deep Convolutional Neural Networks.
+                </title>
+                <venue>ICLR</venue>
+                <year>2014</year>
+                <type>Conference and Workshop Papers</type>
+                <key>journals/corr/GoodfellowBIAS13</key>
+                <ee>http://arxiv.org/abs/1312.6082</ee>
+                <url>https://dblp.org/rec/journals/corr/GoodfellowBIAS13</url>
+            </info>
+            <url>URL#1552734</url>
+        </hit>
+        <hit score="1" id="1552735">
+            <info>
+                <authors>
+                    <author>Ian J. Goodfellow</author>
+                    <author>Mehdi Mirza</author>
+                    <author>Xia Da</author>
+                    <author>Aaron C. Courville</author>
+                    <author>Yoshua Bengio</author>
+                </authors>
+                <title>An Empirical Investigation of Catastrophic Forgeting in Gradient-Based Neural Networks.</title>
+                <venue>ICLR</venue>
+                <year>2014</year>
+                <type>Conference and Workshop Papers</type>
+                <key>journals/corr/GoodfellowMDCB13</key>
+                <ee>http://arxiv.org/abs/1312.6211</ee>
+                <url>https://dblp.org/rec/journals/corr/GoodfellowMDCB13</url>
+            </info>
+            <url>URL#1552735</url>
+        </hit>
+        <hit score="1" id="1552755">
+            <info>
+                <authors>
+                    <author>Karl Moritz Hermann</author>
+                    <author>Phil Blunsom</author>
+                </authors>
+                <title>A Simple Model for Learning Multilingual Compositional Semantics.</title>
+                <venue>ICLR</venue>
+                <year>2014</year>
+                <type>Conference and Workshop Papers</type>
+                <key>journals/corr/HermannB13</key>
+                <ee>http://arxiv.org/abs/1312.6173</ee>
+                <url>https://dblp.org/rec/journals/corr/HermannB13</url>
+            </info>
+            <url>URL#1552755</url>
+        </hit>
+        <hit score="1" id="1552761">
+            <info>
+                <authors>
+                    <author>Andrew G. Howard</author>
+                </authors>
+                <title>Some Improvements on Deep Convolutional Neural Network Based Image Classification.</title>
+                <venue>ICLR</venue>
+                <year>2014</year>
+                <type>Conference and Workshop Papers</type>
+                <key>journals/corr/Howard13</key>
+                <ee>http://arxiv.org/abs/1312.5402</ee>
+                <url>https://dblp.org/rec/journals/corr/Howard13</url>
+            </info>
+            <url>URL#1552761</url>
+        </hit>
+        <hit score="1" id="1552762">
+            <info>
+                <authors>
+                    <author>Gary B. Huang</author>
+                    <author>Viren Jain</author>
+                </authors>
+                <title>Deep and Wide Multiscale Recursive Networks for Robust Image Labeling.</title>
+                <venue>ICLR</venue>
+                <year>2014</year>
+                <type>Conference and Workshop Papers</type>
+                <key>journals/corr/HuangJ13</key>
+                <ee>http://arxiv.org/abs/1310.0354</ee>
+                <url>https://dblp.org/rec/journals/corr/HuangJ13</url>
+            </info>
+            <url>URL#1552762</url>
+        </hit>
+        <hit score="1" id="1552770">
+            <info>
+                <authors>
+                    <author>Arjun Jain</author>
+                    <author>Jonathan Tompson</author>
+                    <author>Mykhaylo Andriluka</author>
+                    <author>Graham W. Taylor</author>
+                    <author>Christoph Bregler</author>
+                </authors>
+                <title>Learning Human Pose Estimation Features with Convolutional Networks.</title>
+                <venue>ICLR</venue>
+                <year>2014</year>
+                <type>Conference and Workshop Papers</type>
+                <key>journals/corr/JainTATB13</key>
+                <ee>http://arxiv.org/abs/1312.7302</ee>
+                <url>https://dblp.org/rec/journals/corr/JainTATB13</url>
+            </info>
+            <url>URL#1552770</url>
+        </hit>
+        <hit score="1" id="1552784">
+            <info>
+                <authors>
+                    <author>Balázs Kégl</author>
+                </authors>
+                <title>The return of AdaBoost.MH - multi-class Hamming trees.</title>
+                <venue>ICLR</venue>
+                <year>2014</year>
+                <type>Conference and Workshop Papers</type>
+                <key>journals/corr/Kegl13</key>
+                <ee>http://arxiv.org/abs/1312.6086</ee>
+                <url>https://dblp.org/rec/journals/corr/Kegl13</url>
+            </info>
+            <url>URL#1552784</url>
+        </hit>
+        <hit score="1" id="1552789">
+            <info>
+                <authors>
+                    <author>Diederik P. Kingma</author>
+                    <author>Max Welling</author>
+                </authors>
+                <title>Auto-Encoding Variational Bayes.</title>
+                <venue>ICLR</venue>
+                <year>2014</year>
+                <type>Conference and Workshop Papers</type>
+                <key>journals/corr/KingmaW13</key>
+                <ee>http://arxiv.org/abs/1312.6114</ee>
+                <url>https://dblp.org/rec/journals/corr/KingmaW13</url>
+            </info>
+            <url>URL#1552789</url>
+        </hit>
+        <hit score="1" id="1552793">
+            <info>
+                <authors>
+                    <author>Arto Klami</author>
+                    <author>Guillaume Bouchard</author>
+                    <author>Abhishek Tripathi</author>
+                </authors>
+                <title>Group-sparse Embeddings in Collective Matrix Factorization.</title>
+                <venue>ICLR</venue>
+                <year>2014</year>
+                <type>Conference and Workshop Papers</type>
+                <key>journals/corr/KlamiBT13</key>
+                <ee>http://arxiv.org/abs/1312.5921</ee>
+                <url>https://dblp.org/rec/journals/corr/KlamiBT13</url>
+            </info>
+            <url>URL#1552793</url>
+        </hit>
+        <hit score="1" id="1552796">
+            <info>
+                <authors>
+                    <author>Kishore Reddy Konda</author>
+                    <author>Roland Memisevic</author>
+                    <author>Vincent Michalski</author>
+                </authors>
+                <title>The role of spatio-temporal synchrony in the encoding of motion.</title>
+                <venue>ICLR</venue>
+                <year>2014</year>
+                <type>Conference and Workshop Papers</type>
+                <key>journals/corr/KondaMM13</key>
+                <ee>http://arxiv.org/abs/1306.3162</ee>
+                <url>https://dblp.org/rec/journals/corr/KondaMM13</url>
+            </info>
+            <url>URL#1552796</url>
+        </hit>
+        <hit score="1" id="1552810">
+            <info>
+                <authors>
+                    <author>Dawen Liang</author>
+                    <author>Matthew D. Hoffman</author>
+                    <author>Gautham J. Mysore</author>
+                </authors>
+                <title>A Generative Product-of-Filters Model of Audio.</title>
+                <venue>ICLR</venue>
+                <year>2014</year>
+                <type>Conference and Workshop Papers</type>
+                <key>journals/corr/LiangHM13</key>
+                <ee>http://arxiv.org/abs/1312.5857</ee>
+                <url>https://dblp.org/rec/journals/corr/LiangHM13</url>
+            </info>
+            <url>URL#1552810</url>
+        </hit>
+        <hit score="1" id="1552813">
+            <info>
+                <authors>
+                    <author>Min Lin</author>
+                    <author>Qiang Chen 0007</author>
+                    <author>Shuicheng Yan</author>
+                </authors>
+                <title>Network In Network.</title>
+                <venue>ICLR</venue>
+                <year>2014</year>
+                <type>Conference and Workshop Papers</type>
+                <key>journals/corr/LinCY13</key>
+                <ee>http://arxiv.org/abs/1312.4400</ee>
+                <url>https://dblp.org/rec/journals/corr/LinCY13</url>
+            </info>
+            <url>URL#1552813</url>
+        </hit>
+        <hit score="1" id="1552817">
+            <info>
+                <authors>
+                    <author>Alireza Makhzani</author>
+                    <author>Brendan J. Frey</author>
+                </authors>
+                <title>k-Sparse Autoencoders.</title>
+                <venue>ICLR</venue>
+                <year>2014</year>
+                <type>Conference and Workshop Papers</type>
+                <key>journals/corr/MakhzaniF13</key>
+                <ee>http://arxiv.org/abs/1312.5663</ee>
+                <url>https://dblp.org/rec/journals/corr/MakhzaniF13</url>
+            </info>
+            <url>URL#1552817</url>
+        </hit>
+        <hit score="1" id="1552823">
+            <info>
+                <authors>
+                    <author>Jonathan Masci</author>
+                    <author>Alexander M. Bronstein</author>
+                    <author>Michael M. Bronstein</author>
+                    <author>Pablo Sprechmann</author>
+                    <author>Guillermo Sapiro</author>
+                </authors>
+                <title>Sparse similarity-preserving hashing.</title>
+                <venue>ICLR</venue>
+                <year>2014</year>
+                <type>Conference and Workshop Papers</type>
+                <key>journals/corr/MasciBBSS13</key>
+                <ee>http://arxiv.org/abs/1312.5479</ee>
+                <url>https://dblp.org/rec/journals/corr/MasciBBSS13</url>
+            </info>
+            <url>URL#1552823</url>
+        </hit>
+        <hit score="1" id="1552824">
+            <info>
+                <authors>
+                    <author>Michaël Mathieu</author>
+                    <author>Mikael Henaff</author>
+                    <author>Yann LeCun</author>
+                </authors>
+                <title>Fast Training of Convolutional Networks through FFTs.</title>
+                <venue>ICLR</venue>
+                <year>2014</year>
+                <type>Conference and Workshop Papers</type>
+                <key>journals/corr/MathieuHL13</key>
+                <ee>http://arxiv.org/abs/1312.5851</ee>
+                <url>https://dblp.org/rec/journals/corr/MathieuHL13</url>
+            </info>
+            <url>URL#1552824</url>
+        </hit>
+        <hit score="1" id="1552840">
+            <info>
+                <authors>
+                    <author>Mohammad Norouzi 0002</author>
+                    <author>Tomas Mikolov</author>
+                    <author>Samy Bengio</author>
+                    <author>Yoram Singer</author>
+                    <author>Jonathon Shlens</author>
+                    <author>Andrea Frome</author>
+                    <author>Greg Corrado</author>
+                    <author>Jeffrey Dean</author>
+                </authors>
+                <title>Zero-Shot Learning by Convex Combination of Semantic Embeddings.</title>
+                <venue>ICLR</venue>
+                <year>2014</year>
+                <type>Conference and Workshop Papers</type>
+                <key>journals/corr/NorouziMBSSFCD13</key>
+                <ee>http://arxiv.org/abs/1312.5650</ee>
+                <url>https://dblp.org/rec/journals/corr/NorouziMBSSFCD13</url>
+            </info>
+            <url>URL#1552840</url>
+        </hit>
+        <hit score="1" id="1552847">
+            <info>
+                <authors>
+                    <author>Razvan Pascanu</author>
+                    <author>Çaglar Gülçehre</author>
+                    <author>Kyunghyun Cho</author>
+                    <author>Yoshua Bengio</author>
+                </authors>
+                <title>How to Construct Deep Recurrent Neural Networks.</title>
+                <venue>ICLR</venue>
+                <year>2014</year>
+                <type>Conference and Workshop Papers</type>
+                <key>journals/corr/PascanuGCB13</key>
+                <ee>http://arxiv.org/abs/1312.6026</ee>
+                <url>https://dblp.org/rec/journals/corr/PascanuGCB13</url>
+            </info>
+            <url>URL#1552847</url>
+        </hit>
+        <hit score="1" id="1552848">
+            <info>
+                <authors>
+                    <author>Razvan Pascanu</author>
+                    <author>Guido Montúfar</author>
+                    <author>Yoshua Bengio</author>
+                </authors>
+                <title>On the number of inference regions of deep feed forward networks with piece-wise linear
+                    activations.</title>
+                <venue>ICLR</venue>
+                <year>2014</year>
+                <type>Conference and Workshop Papers</type>
+                <key>journals/corr/PascanuMB13</key>
+                <ee>http://arxiv.org/abs/1312.6098</ee>
+                <url>https://dblp.org/rec/journals/corr/PascanuMB13</url>
+            </info>
+            <url>URL#1552848</url>
+        </hit>
+        <hit score="1" id="1552851">
+            <info>
+                <authors>
+                    <author>Bojan Pepik</author>
+                    <author>Michael Stark 0003</author>
+                    <author>Peter V. Gehler</author>
+                    <author>Bernt Schiele</author>
+                </authors>
+                <title>Multi-View Priors for Learning Detectors from Sparse Viewpoint Data.</title>
+                <venue>ICLR</venue>
+                <year>2014</year>
+                <type>Conference and Workshop Papers</type>
+                <key>journals/corr/PepikSGS13</key>
+                <ee>http://arxiv.org/abs/1312.6095</ee>
+                <url>https://dblp.org/rec/journals/corr/PepikSGS13</url>
+            </info>
+            <url>URL#1552851</url>
+        </hit>
+        <hit score="1" id="1552862">
+            <info>
+                <authors>
+                    <author>Qiang Qiu</author>
+                    <author>Guillermo Sapiro</author>
+                </authors>
+                <title>Learning Transformations for Classification Forests.</title>
+                <venue>ICLR</venue>
+                <year>2014</year>
+                <type>Conference and Workshop Papers</type>
+                <key>journals/corr/QiuS13b</key>
+                <ee>http://arxiv.org/abs/1312.5604</ee>
+                <url>https://dblp.org/rec/journals/corr/QiuS13b</url>
+            </info>
+            <url>URL#1552862</url>
+        </hit>
+        <hit score="1" id="1552867">
+            <info>
+                <authors>
+                    <author>David P. Reichert</author>
+                    <author>Thomas Serre</author>
+                </authors>
+                <title>Neuronal Synchrony in Complex-Valued Deep Networks.</title>
+                <venue>ICLR</venue>
+                <year>2014</year>
+                <type>Conference and Workshop Papers</type>
+                <key>journals/corr/ReichertS13</key>
+                <ee>http://arxiv.org/abs/1312.6115</ee>
+                <url>https://dblp.org/rec/journals/corr/ReichertS13</url>
+            </info>
+            <url>URL#1552867</url>
+        </hit>
+        <hit score="1" id="1552872">
+            <info>
+                <authors>
+                    <author>Andrew M. Saxe</author>
+                    <author>James L. McClelland</author>
+                    <author>Surya Ganguli</author>
+                </authors>
+                <title>Exact solutions to the nonlinear dynamics of learning in deep linear neural networks.</title>
+                <venue>ICLR</venue>
+                <year>2014</year>
+                <type>Conference and Workshop Papers</type>
+                <key>journals/corr/SaxeMG13</key>
+                <ee>http://arxiv.org/abs/1312.6120</ee>
+                <url>https://dblp.org/rec/journals/corr/SaxeMG13</url>
+            </info>
+            <url>URL#1552872</url>
+        </hit>
+        <hit score="1" id="1552873">
+            <info>
+                <authors>
+                    <author>Tom Schaul</author>
+                    <author>Ioannis Antonoglou</author>
+                    <author>David Silver</author>
+                </authors>
+                <title>Unit Tests for Stochastic Optimization.</title>
+                <venue>ICLR</venue>
+                <year>2014</year>
+                <type>Conference and Workshop Papers</type>
+                <key>journals/corr/SchaulAS13</key>
+                <ee>http://arxiv.org/abs/1312.6055</ee>
+                <url>https://dblp.org/rec/journals/corr/SchaulAS13</url>
+            </info>
+            <url>URL#1552873</url>
+        </hit>
+        <hit score="1" id="1552879">
+            <info>
+                <authors>
+                    <author>Pierre Sermanet</author>
+                    <author>David Eigen</author>
+                    <author>Xiang Zhang</author>
+                    <author>Michaël Mathieu</author>
+                    <author>Rob Fergus</author>
+                    <author>Yann LeCun</author>
+                </authors>
+                <title>OverFeat - Integrated Recognition, Localization and Detection using Convolutional Networks.
+                </title>
+                <venue>ICLR</venue>
+                <year>2014</year>
+                <type>Conference and Workshop Papers</type>
+                <key>journals/corr/SermanetEZMFL13</key>
+                <ee>http://arxiv.org/abs/1312.6229</ee>
+                <url>https://dblp.org/rec/journals/corr/SermanetEZMFL13</url>
+            </info>
+            <url>URL#1552879</url>
+        </hit>
+        <hit score="1" id="1552893">
+            <info>
+                <authors>
+                    <author>Christian Szegedy</author>
+                    <author>Wojciech Zaremba</author>
+                    <author>Ilya Sutskever</author>
+                    <author>Joan Bruna</author>
+                    <author>Dumitru Erhan</author>
+                    <author>Ian J. Goodfellow</author>
+                    <author>Rob Fergus</author>
+                </authors>
+                <title>Intriguing properties of neural networks.</title>
+                <venue>ICLR</venue>
+                <year>2014</year>
+                <type>Conference and Workshop Papers</type>
+                <key>journals/corr/SzegedyZSBEGF13</key>
+                <ee>http://arxiv.org/abs/1312.6199</ee>
+                <url>https://dblp.org/rec/journals/corr/SzegedyZSBEGF13</url>
+            </info>
+            <url>URL#1552893</url>
+        </hit>
+        <hit score="1" id="1552899">
+            <info>
+                <authors>
+                    <author>Du Tran</author>
+                    <author>Lorenzo Torresani</author>
+                </authors>
+                <title>EXMOVES - Classifier-based Features for Scalable Action Recognition.</title>
+                <venue>ICLR</venue>
+                <year>2014</year>
+                <type>Conference and Workshop Papers</type>
+                <key>journals/corr/TranT13</key>
+                <ee>http://arxiv.org/abs/1312.5785</ee>
+                <url>https://dblp.org/rec/journals/corr/TranT13</url>
+            </info>
+            <url>URL#1552899</url>
+        </hit>
+        <hit score="1" id="1552914">
+            <info>
+                <authors>
+                    <author>David Warde-Farley</author>
+                    <author>Ian J. Goodfellow</author>
+                    <author>Aaron C. Courville</author>
+                    <author>Yoshua Bengio</author>
+                </authors>
+                <title>An empirical analysis of dropout in piecewise linear networks.</title>
+                <venue>ICLR</venue>
+                <year>2014</year>
+                <type>Conference and Workshop Papers</type>
+                <key>journals/corr/Warde-FarleyGCB13</key>
+                <ee>http://arxiv.org/abs/1312.6197</ee>
+                <url>https://dblp.org/rec/journals/corr/Warde-FarleyGCB13</url>
+            </info>
+            <url>URL#1552914</url>
+        </hit>
+        <hit score="1" id="1552928">
+            <info>
+                <authors>
+                    <author>Razvan Pascanu</author>
+                    <author>Yoshua Bengio</author>
+                </authors>
+                <title>Revisiting Natural Gradient for Deep Networks</title>
+                <venue>ICLR</venue>
+                <year>2014</year>
+                <type>Conference and Workshop Papers</type>
+                <key>journals/corr/abs-1301-3584</key>
+                <ee>http://arxiv.org/abs/1301.3584</ee>
+                <url>https://dblp.org/rec/journals/corr/abs-1301-3584</url>
+            </info>
+            <url>URL#1552928</url>
+        </hit>
+        <hit score="1" id="1556597">
+            <info>
+                <authors>
+                    <author>Yoshua Bengio</author>
+                    <author>Yann LeCun</author>
+                </authors>
+                <title>2nd International Conference on Learning Representations, ICLR 2014, Banff, AB, Canada, April
+                    14-16, 2014, Conference Track Proceedings</title>
+                <venue>ICLR</venue>
+                <year>2014</year>
+                <type>Editorship</type>
+                <key>conf/iclr/2014</key>
+                <ee>https://openreview.net/group?id=ICLR.cc/2014</ee>
+                <url>https://dblp.org/rec/conf/iclr/2014</url>
+            </info>
+            <url>URL#1556597</url>
+        </hit>
+    </hits>
+</result>

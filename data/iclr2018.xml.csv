@@ -1,0 +1,336 @@
+2018,Poster,Learning One-hidden-layer Neural Networks with Landscape Design.,Rong Ge; Jason D. Lee; Tengyu Ma
+2018,Poster,Fidelity-Weighted Learning.,Mostafa Dehghani; Arash Mehrjou; Stephan Gouws; Jaap Kamps; Bernhard Schölkopf
+2018,Poster,Variational Inference of Disentangled Latent Concepts from Unlabeled Observations.,Abhishek Kumar; Prasanna Sattigeri; Avinash Balakrishnan
+2018,Poster,Truncated horizon Policy Search - Combining Reinforcement Learning & Imitation Learning.,Wen Sun; J. Andrew Bagnell; Byron Boots
+2018,Poster,Mixed Precision Training of Convolutional Neural Networks using Integer Operations.,Dipankar Das; Naveen Mellempudi; Dheevatsa Mudigere; Dhiraj D. Kalamkar; Sasikanth Avancha; Kunal Banerjee; Srinivas Sridharan; Karthik Vaidyanathan; Bharat Kaul; Evangelos Georganas; Alexander Heinecke; Pradeep Dubey; Jesús Corbal; Nikita Shustrov; Roman Dubtsov; Evarist Fomenko; Vadim O. Pirogov
+2018,Poster,Maximum a Posteriori Policy Optimisation.,Abbas Abdolmaleki; Jost Tobias Springenberg; Yuval Tassa; Rémi Munos; Nicolas Heess; Martin A. Riedmiller
+2018,Poster,Variational Network Quantization.,Jan Achterhold; Jan M. Köhler; Anke Schmeink; Tim Genewein
+2018,Poster,Multi-Task Learning for Document Ranking and Query Suggestion.,Wasi Uddin Ahmad; Kai-Wei Chang; Hongning Wang
+2018,Oral,Continuous Adaptation via Meta-Learning in Nonstationary and Competitive Environments.,Maruan Al-Shedivat; Trapit Bansal; Yura Burda; Ilya Sutskever; Igor Mordatch; Pieter Abbeel
+2018,Oral,Learning to Represent Programs with Graphs.,Miltiadis Allamanis; Marc Brockschmidt; Mahmoud Khademi
+2018,Poster,TD or not TD - Analyzing the Role of Temporal Differencing in Deep Reinforcement Learning.,Artemij Amiranashvili; Alexey Dosovitskiy; Vladlen Koltun; Thomas Brox
+2018,Poster,Learning Awareness Models.,Brandon Amos; Laurent Dinh; Serkan Cabi; Thomas Rothörl; Sergio Gomez Colmenarejo; Alistair Muldal; Tom Erez; Yuval Tassa; Nando de Freitas; Misha Denil
+2018,Poster,Towards better understanding of gradient-based attribution methods for Deep Neural Networks.,Marco Ancona; Enea Ceolini; Cengiz Öztireli; Markus Gross
+2018,Poster,The High-Dimensional Geometry of Binary Neural Networks.,Alexander G. Anderson; Cory P. Berg
+2018,Poster,Generative networks as inverse problems with Scattering transforms.,Tomás Angles; Stéphane Mallat
+2018,Poster,Large scale distributed neural network training through online distillation.,Rohan Anil; Gabriel Pereyra; Alexandre Passos; Róbert Ormándi; George E. Dahl; Geoffrey E. Hinton
+2018,Poster,Combining Symbolic Expressions and Black-box Function Evaluations in Neural Programs.,Forough Arabshahi; Sameer Singh; Animashree Anandkumar
+2018,Poster,Understanding Deep Neural Networks with Rectified Linear Units.,Raman Arora; Amitabh Basu; Poorya Mianjy; Anirbit Mukherjee
+2018,Poster,"A Compressed Sensing View of Unsupervised Text Embeddings, Bag-of-n-Grams, and LSTMs.",Sanjeev Arora; Mikhail Khodak; Nikunj Saunshi; Kiran Vodrahalli
+2018,Poster,Do GANs learn the distribution? Some Theory and Empirics.,Sanjeev Arora; Andrej Risteski; Yi Zhang
+2018,Poster,Unsupervised Neural Machine Translation.,Mikel Artetxe; Gorka Labaka; Eneko Agirre; Kyunghyun Cho
+2018,Poster,Latent Space Oddity - on the Curvature of Deep Generative Models.,Georgios Arvanitidis; Lars Kai Hansen; Søren Hauberg
+2018,Poster,N2N learning - Network to Network Compression via Policy Gradient Reinforcement Learning.,Anubhav Ashok; Nicholas Rhinehart; Fares Beainy; Kris M. Kitani
+2018,Poster,Hierarchical Density Order Embeddings.,Ben Athiwaratkun; Andrew Gordon Wilson
+2018,Poster,Stochastic Variational Video Prediction.,Mohammad Babaeizadeh; Chelsea Finn; Dumitru Erhan; Roy H. Campbell; Sergey Levine
+2018,Poster,Variational image compression with a scale hyperprior.,Johannes Ballé; David Minnen; Saurabh Singh; Sung Jin Hwang; Nick Johnston
+2018,Poster,Emergent Complexity via Multi-Agent Competition.,Trapit Bansal; Jakub Pachocki; Szymon Sidor; Ilya Sutskever; Igor Mordatch
+2018,Poster,PixelNN - Example-based Image Synthesis.,Aayush Bansal; Yaser Sheikh; Deva Ramanan
+2018,Poster,Distributed Distributional Deterministic Policy Gradients.,Gabriel Barth-Maron; Matthew W. Hoffman; David Budden; Will Dabney; Dan Horgan; Dhruva TB; Alistair Muldal; Nicolas Heess; Timothy P. Lillicrap
+2018,Poster,Online Learning Rate Adaptation with Hypergradient Descent.,Atilim Gunes Baydin; Robert Cornish; David Martínez-Rubio; Mark Schmidt; Frank Wood
+2018,Oral,Synthetic and Natural Noise Both Break Neural Machine Translation.,Yonatan Belinkov; Yonatan Bisk
+2018,Poster,Deep Rewiring - Training very sparse deep networks.,Guillaume Bellec; David Kappel; Wolfgang Maass; Robert A. Legenstein
+2018,Poster,Smooth Loss Functions for Deep Top-k Classification.,Leonard Berrada; Andrew Zisserman; M. Pawan Kumar
+2018,Poster,Progressive Reinforcement Learning with Distillation for Multi-Skilled Motion Control.,Glen Berseth; Cheng Xie; Paul Cernek; Michiel van de Panne
+2018,Poster,Demystifying MMD GANs.,Mikolaj Binkowski; Dougal J. Sutherland; Michael Arbel; Arthur Gretton
+2018,Poster,Deep Learning for Physical Processes - Incorporating Prior Scientific Knowledge.,Emmanuel de Bezenac; Arthur Pajot; Patrick Gallinari
+2018,Poster,Deep Gaussian Embedding of Graphs - Unsupervised Inductive Learning via Ranking.,Aleksandar Bojchevski; Stephan Günnemann
+2018,Oral,AmbientGAN - Generative models from lossy measurements.,Ashish Bora; Eric Price; Alexandros G. Dimakis
+2018,Poster,Simulating Action Dynamics with Neural Process Networks.,Antoine Bosselut; Omer Levy; Ari Holtzman; Corin Ennis; Dieter Fox; Yejin Choi
+2018,Poster,Decision-Based Adversarial Attacks - Reliable Attacks Against Black-Box Machine Learning Models.,Wieland Brendel; Jonas Rauber; Matthias Bethge
+2018,Poster,SMASH - One-Shot Model Architecture Search through HyperNetworks.,Andrew Brock; Theodore Lim; James M. Ritchie; Nick Weston
+2018,Poster,SGD Learns Over-parameterized Networks that Provably Generalize on Linearly Separable Data.,Alon Brutzkus; Amir Globerson; Eran Malach; Shai Shalev-Shwartz
+2018,Oral,Ask the Right Questions - Active Question Reformulation with Reinforcement Learning.,Christian Buck; Jannis Bulian; Massimiliano Ciaramita; Wojciech Gajewski; Andrea Gesmundo; Neil Houlsby; Wei Wang
+2018,Poster,Thermometer Encoding - One Hot Way To Resist Adversarial Examples.,Jacob Buckman; Aurko Roy; Colin Raffel; Ian J. Goodfellow
+2018,Poster,Not-So-Random Features.,Brian Bullins; Cyril Zhang; Yi Zhang
+2018,Poster,Leveraging Grammar and Reinforcement Learning for Neural Program Synthesis.,Rudy Bunel; Matthew J. Hausknecht; Jacob Devlin; Rishabh Singh; Pushmeet Kohli
+2018,Poster,Skip RNN - Learning to Skip State Updates in Recurrent Neural Networks.,Víctor Campos; Brendan Jou; Xavier Giró i Nieto; Jordi Torres; Shih-Fu Chang
+2018,Poster,Improving GAN Training via Binarized Representation Entropy (BRE) Regularization.,Yanshuai Cao; Gavin Weiguang Ding; Kry Yik-Chau Lui; Ruitong Huang
+2018,Poster,Emergent Communication through Negotiation.,Kris Cao; Angeliki Lazaridou; Marc Lanctot; Joel Z. Leibo; Karl Tuyls; Stephen Clark
+2018,Poster,Multi-level Residual Networks from Dynamical Systems View.,Bo Chang; Lili Meng; Eldad Haber; Frederick Tung; David Begert
+2018,Poster,Active Neural Localization.,Devendra Singh Chaplot; Emilio Parisotto; Ruslan Salakhutdinov
+2018,Poster,"Stochastic gradient descent performs variational inference, converges to limit cycles for deep networks.",Pratik Chaudhari; Stefano Soatto
+2018,Poster,Multi-View Data Generation Without View Supervision.,Mickaël Chen; Ludovic Denoyer; Thierry Artières
+2018,Poster,Towards Synthesizing Complex Programs From Input-Output Examples.,Xinyun Chen; Chang Liu; Dawn Song
+2018,Poster,FastGCN - Fast Learning with Graph Convolutional Networks via Importance Sampling.,Jie Chen; Tengfei Ma; Cao Xiao
+2018,Poster,Training Generative Adversarial Networks via Primal-Dual subgradient Methods - a Lagrangian Perspective on GaN.,Xu Chen; Jiang Wang; Hao Ge
+2018,Poster,Monotonic Chunkwise Attention.,Chung-Cheng Chiu; Colin Raffel
+2018,Poster,Compositional Obverter Communication Learning from Raw Visual Input.,Edward Choi; Angeliki Lazaridou; Nando de Freitas
+2018,Poster,Initialization matters - Orthogonal Predictive State Recurrent Neural Networks.,Krzysztof Choromanski; Carlton Downey; Byron Boots
+2018,Oral,Spherical CNNs.,Taco S. Cohen; Mario Geiger; Jonas Köhler; Max Welling
+2018,Oral,Boosting Dilated Convolutional Networks with Mixed Tensor Decompositions.,Nadav Cohen; Ronen Tamari; Amnon Shashua
+2018,Poster,Learning Wasserstein Embeddings.,Nicolas Courty; Rémi Flamary; Mélanie Ducoffe
+2018,Poster,Emergence of grid-like representations by training recurrent neural networks to perform spatial localization.,Christopher J. Cueva; Xue-Xin Wei
+2018,Poster,Boosting the Actor with Dual Critic.,Bo Dai; Albert Shaw; Niao He; Lihong Li; Le Song
+2018,Poster,Syntax-Directed Variational Autoencoder for Structured Data.,Hanjun Dai; Yingtao Tian; Bo Dai; Steven Skiena; Le Song
+2018,Poster,Go for a Walk and Arrive at the Answer - Reasoning Over Paths in Knowledge Bases using Reinforcement Learning.,Rajarshi Das; Shehzaad Dhuliawala; Manzil Zaheer; Luke Vilnis; Ishan Durugkar; Akshay Krishnamurthy; Alex Smola; Andrew McCallum
+2018,Poster,Training GANs with Optimism.,Constantinos Daskalakis; Andrew Ilyas; Vasilis Syrgkanis; Haoyang Zeng
+2018,Poster,Residual Loss Prediction - Reinforcement Learning With No Incremental Feedback.,Hal Daumé III; John Langford; Amr Sharaf
+2018,Poster,Stochastic Activation Pruning for Robust Adversarial Defense.,Guneet S. Dhillon; Kamyar Azizzadenesheli; Zachary C. Lipton; Jeremy Bernstein; Jean Kossaifi; Aran Khanna; Animashree Anandkumar
+2018,Poster,Semantically Decomposing the Latent Spaces of Generative Adversarial Networks.,Chris Donahue; Zachary C. Lipton; Akshay Balsubramani; Julian McAuley
+2018,Poster,When is a Convolutional Filter Easy to Learn?,Simon S. Du; Jason D. Lee; Yuandong Tian
+2018,Poster,Hierarchical Subtask Discovery with Non-Negative Matrix Factorization.,Adam Christopher Earle; Andrew M. Saxe; Benjamin Rosman
+2018,Poster,A Framework for the Quantitative Evaluation of Disentangled Representations.,Cian Eastwood; Christopher K. I. Williams
+2018,Poster,Latent Constraints - Learning to Generate Conditionally from Unconditional Generative Models.,Jesse Engel; Matthew Hoffman; Adam Roberts
+2018,Poster,Polar Transformer Networks.,Carlos Esteves; Christine Allen-Blanchette; Xiaowei Zhou; Kostas Daniilidis
+2018,Poster,Can Neural Networks Understand Logical Entailment?,Richard Evans; David Saxton; David Amos; Pushmeet Kohli; Edward Grefenstette
+2018,Poster,"Emergent Communication in a Multi-Modal, Multi-Step Referential Game.",Katrina Evtimova; Andrew Drozdov; Douwe Kiela; Kyunghyun Cho
+2018,Poster,Leave no Trace - Learning to Reset for Safe and Autonomous Reinforcement Learning.,Benjamin Eysenbach; Shixiang Gu; Julian Ibarz; Sergey Levine
+2018,Poster,Predicting Floor-Level for 911 Calls with Neural Networks and Smartphone Sensor Data.,William Falcon; Henning Schulzrinne
+2018,Poster,Learning to Teach.,Yang Fan; Fei Tian; Tao Qin; Xiang-Yang Li; Tie-Yan Liu
+2018,Poster,TreeQN and ATreeC - Differentiable Tree-Structured Models for Deep Reinforcement Learning.,Gregory Farquhar; Tim Rocktäschel; Maximilian Igl; Shimon Whiteson
+2018,Poster,MaskGAN - Better Text Generation via Filling in the _______.,William Fedus; Ian J. Goodfellow; Andrew M. Dai
+2018,Poster,Many Paths to Equilibrium - GANs Do Not Need to Decrease a Divergence At Every Step.,William Fedus; Mihaela Rosca; Balaji Lakshminarayanan; Andrew M. Dai; Shakir Mohamed; Ian J. Goodfellow
+2018,Poster,Modular Continual Learning in a Unified Visual Environment.,Kevin T. Feigelis; Blue Sheffer; Daniel L. K. Yamins
+2018,Poster,Meta-Learning and Universality - Deep Representations and Gradient Descent can Approximate any Learning Algorithm.,Chelsea Finn; Sergey Levine
+2018,Poster,Decoupling the Layers in Residual Networks.,Ricky Fok; Aijun An; Zana Rashidi; Xiaogang Wang
+2018,Poster,Noisy Networks For Exploration.,Meire Fortunato; Mohammad Gheshlaghi Azar; Bilal Piot; Jacob Menick; Matteo Hessel; Ian Osband; Alex Graves; Volodymyr Mnih; Rémi Munos; Demis Hassabis; Olivier Pietquin; Charles Blundell; Shane Legg
+2018,Poster,DORA The Explorer - Directed Outreaching Reinforcement Action-Selection.,Lior Fox; Leshem Choshen; Yonatan Loewenstein
+2018,Poster,Parametrized Hierarchical Procedures for Neural Programming.,Roy Fox; Richard Shin; Sanjay Krishnan; Ken Goldberg; Dawn Song; Ion Stoica
+2018,Poster,Meta Learning Shared Hierarchies.,Kevin Frans; Jonathan Ho; Xi Chen; Pieter Abbeel; John Schulman
+2018,Poster,Self-ensembling for visual domain adaptation.,Geoffrey French; Michal Mackiewicz; Mark H. Fisher
+2018,Poster,Proximal Backpropagation.,Thomas Frerix; Thomas Möllenhoff; Michael Möller; Daniel Cremers
+2018,Poster,Deep Learning as a Mixed Convex-Combinatorial Optimization Problem.,Abram L. Friesen; Pedro M. Domingos
+2018,Poster,Learning Robust Rewards with Adverserial Inverse Reinforcement Learning.,Justin Fu; Katie Luo; Sergey Levine
+2018,Poster,The Role of Minimal Complexity Functions in Unsupervised Learning of Semantic Mappings.,Tomer Galanti; Lior Wolf; Sagie Benaim
+2018,Poster,Attacking Binarized Neural Networks.,Angus Galloway; Graham W. Taylor; Medhat Moussa
+2018,Poster,Policy Optimization by Genetic Distillation.,Tanmay Gangwani; Jian Peng
+2018,Poster,Divide-and-Conquer Reinforcement Learning.,Dibya Ghosh; Avi Singh; Aravind Rajeswaran; Vikash Kumar; Sergey Levine
+2018,Poster,Unsupervised Representation Learning by Predicting Image Rotations.,Spyros Gidaris; Praveer Singh; Nikos Komodakis
+2018,Poster,Unsupervised Cipher Cracking Using Discrete GANs.,Aidan N. Gomez; Sicong Huang; Ivan Zhang; Bryan M. Li; Muhammad Osama; Lukasz Kaiser
+2018,Poster,Natural Language Inference over Interaction Space.,Yichen Gong; Heng Luo; Jian Zhang
+2018,Poster,Recasting Gradient-Based Meta-Learning as Hierarchical Bayes.,Erin Grant; Chelsea Finn; Sergey Levine; Trevor Darrell; Thomas L. Griffiths
+2018,Poster,Backpropagation through the Void - Optimizing control variates for black-box gradient estimation.,Will Grathwohl; Dami Choi; Yuhuai Wu; Geoffrey Roeder; David Duvenaud
+2018,Poster,An Online Learning Approach to Generative Adversarial Networks.,Paulina Grnarova; Kfir Y. Levy; Aurélien Lucchi; Thomas Hofmann; Andreas Krause
+2018,Poster,The Reactor - A fast and sample-efficient Actor-Critic agent for Reinforcement Learning.,Audrunas Gruslys; Will Dabney; Mohammad Gheshlaghi Azar; Bilal Piot; Marc G. Bellemare; Rémi Munos
+2018,Poster,Non-Autoregressive Neural Machine Translation.,Jiatao Gu; James Bradbury; Caiming Xiong; Victor O. K. Li; Richard Socher
+2018,Poster,Countering Adversarial Images using Input Transformations.,Chuan Guo; Mayank Rana; Moustapha Cissé; Laurens van der Maaten
+2018,Poster,A Neural Representation of Sketch Drawings.,David Ha; Douglas Eck
+2018,Poster,Learning an Embedding Space for Transferable Robot Skills.,Karol Hausman; Jost Tobias Springenberg; Ziyu Wang; Nicolas Heess; Martin A. Riedmiller
+2018,Poster,Hyperparameter optimization - a spectral approach.,Elad Hazan; Adam R. Klivans; Yang Yuan
+2018,Poster,Decision Boundary Analysis of Adversarial Examples.,Warren He; Bo Li; Dawn Song
+2018,Poster,Overcoming Catastrophic Interference using Conceptor-Aided Backpropagation.,Xu He; Herbert Jaeger
+2018,Poster,SCAN - Learning Hierarchical Compositional Visual Concepts.,Irina Higgins; Nicolas Sonnerat; Loic Matthey; Arka Pal; Christopher P. Burgess; Matko Bosnjak; Murray Shanahan; Matthew Botvinick; Demis Hassabis; Alexander Lerchner
+2018,Poster,Matrix capsules with EM routing.,Geoffrey E. Hinton; Sara Sabour; Nicholas Frosst
+2018,Poster,Boundary Seeking GANs.,R. Devon Hjelm; Athul Paul Jacob; Adam Trischler; Gerry Che; Kyunghyun Cho; Yoshua Bengio
+2018,Poster,MGAN - Training Generative Adversarial Nets with Multiple Generators.,Quan Hoang; Tu Dinh Nguyen; Trung Le; Dinh Q. Phung
+2018,Poster,Fix your classifier - the marginal value of training the last weight layer.,Elad Hoffer; Itay Hubara; Daniel Soudry
+2018,Poster,HexaConv.,Emiel Hoogeboom; Jorn W. T. Peters; Taco S. Cohen; Max Welling
+2018,Poster,Distributed Prioritized Experience Replay.,Dan Horgan; John Quan; David Budden; Gabriel Barth-Maron; Matteo Hessel; Hado van Hasselt; David Silver
+2018,Poster,Identifying Analogies Across Domains.,Yedid Hoshen; Lior Wolf
+2018,Poster,Loss-aware Weight Quantization of Deep Networks.,Lu Hou; James T. Kwok
+2018,Poster,Learning to cluster in order to transfer across domains and tasks.,Yen-Chang Hsu; Zhaoyang Lv; Zsolt Kira
+2018,Poster,On Unifying Deep Generative Models.,Zhiting Hu; Zichao Yang; Ruslan Salakhutdinov; Eric P. Xing
+2018,Oral,Multi-Scale Dense Networks for Resource Efficient Image Classification.,Gao Huang; Danlu Chen; Tianhong Li; Felix Wu; Laurens van der Maaten; Kilian Q. Weinberger
+2018,Poster,Towards Neural Phrase-based Machine Translation.,Po-Sen Huang; Chong Wang; Sitao Huang; Dengyong Zhou; Li Deng
+2018,Poster,FusionNet - Fusing via Fully-aware Attention with Application to Machine Comprehension.,Hsin-Yuan Huang; Chenguang Zhu; Yelong Shen; Weizhu Chen
+2018,Poster,Compositional Attention Networks for Machine Reasoning.,Drew A. Hudson; Christopher D. Manning
+2018,Poster,Quantitatively Evaluating GANs With Divergences Proposed for Training.,Daniel Jiwoong Im; He Ma; Graham W. Taylor; Kristin Branson
+2018,Poster,i-RevNet - Deep Invertible Networks.,Jörn-Henrik Jacobsen; Arnold W. M. Smeulders; Edouard Oyallon
+2018,Poster,Understanding image motion with group representations.,Andrew Jaegle; Stephen Phillips; Daphne Ippolito; Kostas Daniilidis
+2018,Poster,Learning a Generative Model for Validity in Complex Discrete Structures.,David Janz; Jos van der Westhuizen; Brooks Paige; Matt J. Kusner; José Miguel Hernández-Lobato
+2018,Poster,Residual Connections Encourage Iterative Inference.,Stanislaw Jastrzebski; Devansh Arpit; Nicolas Ballas; Vikas Verma; Tong Che; Yoshua Bengio
+2018,Poster,Learn to Pay Attention.,Saumya Jetley; Nicholas A. Lord; Namhoon Lee; Philip H. S. Torr
+2018,Poster,Deep Learning with Logged Bandit Feedback.,Thorsten Joachims; Adith Swaminathan; Maarten de Rijke
+2018,Poster,Depthwise Separable Convolutions for Neural Machine Translation.,Lukasz Kaiser; Aidan N. Gomez; François Chollet
+2018,Poster,Neural-Guided Deductive Search for Real-Time Program Synthesis from Examples.,Ashwin Kalyan; Abhishek Mohta; Oleksandr Polozov; Dhruv Batra; Prateek Jain; Sumit Gulwani
+2018,Oral,"Progressive Growing of GANs for Improved Quality, Stability, and Variation.",Tero Karras; Timo Aila; Samuli Laine; Jaakko Lehtinen
+2018,Poster,FearNet - Brain-Inspired Model for Incremental Learning.,Ronald Kemker; Christopher Kanan
+2018,Poster,Memory Augmented Control Networks.,Arbaaz Khan; Clark Zhang; Nikolay Atanasov; Konstantinos Karydis; Vijay Kumar; Daniel D. Lee
+2018,Poster,Learning From Noisy Singly-labeled Data.,Ashish Khetan; Zachary C. Lipton; Animashree Anandkumar
+2018,Poster,Adaptive Quantization of Neural Networks.,Soroosh Khoram; Jing Li
+2018,Poster,Expressive power of recurrent neural networks.,Valentin Khrulkov; Alexander Novikov; Ivan V. Oseledets
+2018,Oral,On the insufficiency of existing momentum schemes for Stochastic Optimization.,Rahul Kidambi; Praneeth Netrapalli; Prateek Jain; Sham M. Kakade
+2018,Poster,Semantic Interpolation in Implicit Models.,Yannic Kilcher; Aurélien Lucchi; Thomas Hofmann
+2018,Poster,Learning Latent Representations in Neural Networks for Clustering through Pseudo Supervision and Graph-based Activity Regularization.,Ozsel Kilinc; Ismail Uysal
+2018,Poster,Communication Algorithms via Deep Learning.,Hyeji Kim; Yihan Jiang; Ranvir Rana; Sreeram Kannan; Sewoong Oh; Pramod Viswanath
+2018,Poster,Memorization Precedes Generation - Learning Unsupervised GANs with Memory Networks.,Youngjin Kim; Minjung Kim; Gunhee Kim
+2018,Poster,Learning how to explain neural networks - PatternNet and PatternAttribution.,Pieter-Jan Kindermans; Kristof T. Schütt; Maximilian Alber; Klaus-Robert Müller; Dumitru Erhan; Been Kim; Sven Dähne
+2018,Poster,CausalGAN - Learning Causal Implicit Generative Models with Adversarial Training.,Murat Kocaoglu; Christopher Snyder; Alexandros G. Dimakis; Sriram Vishwanath
+2018,Poster,Neumann Optimizer - A Practical Optimization Algorithm for Deep Neural Networks.,Shankar Krishnan; Ying Xiao; Rif A. Saurous
+2018,Poster,Model-Ensemble Trust-Region Policy Optimization.,Thanard Kurutach; Ignasi Clavera; Yan Duan; Aviv Tamar; Pieter Abbeel
+2018,Poster,Unsupervised Machine Translation Using Monolingual Corpora Only.,Guillaume Lample; Alexis Conneau; Ludovic Denoyer; Marc'Aurelio Ranzato
+2018,Poster,Word translation without parallel data.,Guillaume Lample; Alexis Conneau; Marc'Aurelio Ranzato; Ludovic Denoyer; Hervé Jégou
+2018,Poster,Reinforcement Learning Algorithm Selection.,Romain Laroche; Raphaël Féraud
+2018,Oral,Emergence of Linguistic Communication from Referential Games with Symbolic and Pixel Input.,Angeliki Lazaridou; Karl Moritz Hermann; Karl Tuyls; Stephen Clark
+2018,Poster,Auto-Encoding Sequential Monte Carlo.,Tuan Anh Le; Maximilian Igl; Tom Rainforth; Tom Jin; Frank Wood
+2018,Poster,SEARNN - Training RNNs with global-local losses.,Rémi Leblond; Jean-Baptiste Alayrac; Anton Osokin; Simon Lacoste-Julien
+2018,Poster,Viterbi-based Pruning for Sparse Matrix with Fixed and High Index Compression Ratio.,Dongsoo Lee; Daehyun Ahn; Taesu Kim; Pierce I-Jen Chuang; Jae-Joon Kim
+2018,Poster,Deep Neural Networks as Gaussian Processes.,Jaehoon Lee; Yasaman Bahri; Roman Novak; Samuel S. Schoenholz; Jeffrey Pennington; Jascha Sohl-Dickstein
+2018,Poster,Emergent Translation in Multi-Agent Communication.,Jason Lee; Kyunghyun Cho; Jason Weston; Douwe Kiela
+2018,Poster,Simulated+Unsupervised Learning With Adaptive Data Generation and Bidirectional Mappings.,Kangwook Lee; Hoon Kim; Changho Suh
+2018,Poster,Training Confidence-calibrated Classifiers for Detecting Out-of-Distribution Samples.,Kimin Lee; Honglak Lee; Kibok Lee; Jinwoo Shin
+2018,Poster,Deep Learning and Quantum Entanglement - Fundamental Connections with Implications to Network Design.,Yoav Levine; David Yakira; Nadav Cohen; Amnon Shashua
+2018,Poster,Generalizing Hamiltonian Monte Carlo with Neural Networks.,Daniel Levy; Matthew D. Hoffman; Jascha Sohl-Dickstein
+2018,Poster,Measuring the Intrinsic Dimension of Objective Landscapes.,Chunyuan Li; Heerad Farkhoor; Rosanne Liu; Jason Yosinski
+2018,Poster,Gradient Estimators for Implicit Models.,Yingzhen Li; Richard E. Turner
+2018,Poster,Diffusion Convolutional Recurrent Neural Network - Data-Driven Traffic Forecasting.,Yaguang Li; Rose Yu; Cyrus Shahabi; Yan Liu
+2018,Poster,Enhancing The Reliability of Out-of-distribution Image Detection in Neural Networks.,Shiyu Liang; Yixuan Li; R. Srikant
+2018,Poster,Variational Message Passing with Structured Inference Networks.,Wu Lin; Nicolas Hubacher; Mohammad Emtiyaz Khan
+2018,Poster,Deep Gradient Compression - Reducing the Communication Bandwidth for Distributed Training.,Yujun Lin; Song Han; Huizi Mao; Yu Wang; Bill Dally
+2018,Poster,Action-dependent Control Variates for Policy Optimization via Stein Identity.,Hao Liu; Yihao Feng; Yi Mao; Dengyong Zhou; Jian Peng; Qiang Liu
+2018,Poster,Reinforcement Learning on Web Interfaces using Workflow-Guided Exploration.,Evan Zheran Liu; Kelvin Guu; Panupong Pasupat; Tianlin Shi; Percy Liang
+2018,Poster,Efficient Sparse-Winograd Convolutional Neural Networks.,Xingyu Liu; Jeff Pool; Song Han; William J. Dally
+2018,Poster,Generating Wikipedia by Summarizing Long Sequences.,Peter J. Liu; Mohammad Saleh; Etienne Pot; Ben Goodrich; Ryan Sepassi; Lukasz Kaiser; Noam Shazeer
+2018,Poster,Hierarchical Representations for Efficient Architecture Search.,Hanxiao Liu; Karen Simonyan; Oriol Vinyals; Chrisantha Fernando; Koray Kavukcuoglu
+2018,Poster,An efficient framework for learning sentence representations.,Lajanugen Logeswaran; Honglak Lee
+2018,Poster,Learning Sparse Neural Networks through L_0 Regularization.,Christos Louizos; Max Welling; Diederik P. Kingma
+2018,Oral,Characterizing Adversarial Subspaces Using Local Intrinsic Dimensionality.,Xingjun Ma; Bo Li; Yisen Wang; Sarah M. Erfani; Sudanthi N. R. Wijewickrema; Grant Schoenebeck; Dawn Song; Michael E. Houle; James Bailey
+2018,Poster,Eigenoption Discovery through the Deep Successor Representation.,Marlos C. Machado; Clemens Rosenbaum; Xiaoxiao Guo; Miao Liu; Gerald Tesauro; Murray Campbell
+2018,Poster,Learning Parametric Closed-Loop Policies for Markov Potential Games.,Sergio Valcarcel Macua; Javier Zazo; Santiago Zazo
+2018,Poster,Towards Deep Learning Models Resistant to Adversarial Attacks.,Aleksander Madry; Aleksandar Makelov; Ludwig Schmidt; Dimitris Tsipras; Adrian Vladu
+2018,Poster,Universal Agent for Disentangling Environments and Tasks.,Jiayuan Mao; Honghua Dong; Joseph J. Lim
+2018,Poster,Kronecker-factored Curvature Approximations for Recurrent Neural Networks.,James Martens; Jimmy Ba; Matt Johnson
+2018,Poster,Parallelizing Linear Recurrent Neural Nets Over Sequence Length.,Eric Martin; Chris Cundy
+2018,Poster,Gaussian Process Behaviour in Wide Deep Neural Networks.,Alexander G. de G. Matthews; Jiri Hron; Mark Rowland; Richard E. Turner; Zoubin Ghahramani
+2018,Poster,Training wide residual networks for deployment using a single bit for each weight.,Mark D. McDonnell
+2018,Poster,Learning Differentially Private Recurrent Language Models.,H. Brendan McMahan; Daniel Ramage; Kunal Talwar; Li Zhang
+2018,Poster,On the State of the Art of Evaluation in Neural Language Models.,Gábor Melis; Chris Dyer; Phil Blunsom
+2018,Poster,Learning Latent Permutations with Gumbel-Sinkhorn Networks.,Gonzalo E. Mena; David Belanger; Scott W. Linderman; Jasper Snoek
+2018,Poster,Regularizing and Optimizing LSTM Language Models.,Stephen Merity; Nitish Shirish Keskar; Richard Socher
+2018,Poster,Beyond Shared Hierarchies - Deep Multitask Learning through Soft Layer Ordering.,Elliot Meyerson; Risto Miikkulainen
+2018,Poster,Mixed Precision Training.,Paulius Micikevicius; Sharan Narang; Jonah Alben; Gregory F. Diamos; Erich Elsen; David García; Boris Ginsburg; Michael Houston; Oleksii Kuchaiev; Ganesh Venkatesh; Hao Wu
+2018,Poster,A Hierarchical Model for Device Placement.,Azalia Mirhoseini; Anna Goldie; Hieu Pham; Benoit Steiner; Quoc V. Le; Jeff Dean
+2018,Poster,Apprentice - Using Knowledge Distillation Techniques To Improve Low-Precision Network Accuracy.,Asit K. Mishra; Debbie Marr
+2018,Poster,WRPN - Wide Reduced-Precision Networks.,Asit K. Mishra; Eriko Nurvitadhi; Jeffrey J. Cook; Debbie Marr
+2018,Poster,A Simple Neural Attentive Meta-Learner.,Nikhil Mishra; Mostafa Rohaninejad; Xi Chen; Pieter Abbeel
+2018,Poster,cGANs with Projection Discriminator.,Takeru Miyato; Masanori Koyama
+2018,Oral,Spectral Normalization for Generative Adversarial Networks.,Takeru Miyato; Toshiki Kataoka; Masanori Koyama; Yuichi Yoshida
+2018,Poster,Synthesizing realistic neural population activity patterns using Generative Adversarial Networks.,Manuel Molano-Mazon; Arno Onken; Eugenio Piasini; Stefano Panzeri
+2018,Poster,Robustness of Classifiers to Universal Perturbations - A Geometric Perspective.,Seyed-Mohsen Moosavi-Dezfooli; Alhussein Fawzi; Omar Fawzi; Pascal Frossard; Stefano Soatto
+2018,Poster,On the importance of single directions for generalization.,Ari S. Morcos; David G. T. Barrett; Neil C. Rabinowitz; Matthew Botvinick
+2018,Poster,Minimal-Entropy Correlation Alignment for Unsupervised Deep Domain Adaptation.,Pietro Morerio; Jacopo Cavazza; Vittorio Murino
+2018,Poster,Sobolev GAN.,Youssef Mroueh; Chun-Liang Li; Tom Sercu; Anant Raj; Yu Cheng
+2018,Poster,All-but-the-Top - Simple and Effective Postprocessing for Word Representations.,Jiaqi Mu; Pramod Viswanath
+2018,Oral,Neural Sketch Learning for Conditional Program Generation.,Vijayaraghavan Murali; Letao Qi; Swarat Chaudhuri; Chris Jermaine
+2018,Oral,Beyond Word Importance - Contextual Decomposition to Extract Interactions from LSTMs.,W. James Murdoch; Peter J. Liu; Bin Yu
+2018,Poster,Cascade Adversarial Machine Learning Regularized with a Unified Embedding.,Taesik Na; Jong Hwan Ko; Saibal Mukhopadhyay
+2018,Poster,Trust-PCL - An Off-Policy Trust Region Method for Continuous Control.,Ofir Nachum; Mohammad Norouzi; Kelvin Xu; Dale Schuurmans
+2018,Poster,A PAC-Bayesian Approach to Spectrally-Normalized Margin Bounds for Neural Networks.,Behnam Neyshabur; Srinadh Bhojanapalli; Nathan Srebro
+2018,Poster,Variational Continual Learning.,Cuong V. Nguyen; Yingzhen Li; Thang D. Bui; Richard E. Turner
+2018,Poster,Sensitivity and Generalization in Neural Networks - an Empirical Study.,Roman Novak; Yasaman Bahri; Daniel A. Abolafia; Jeffrey Pennington; Jascha Sohl-Dickstein
+2018,Poster,Divide and Conquer Networks.,Alex Nowak; David Folqué; Joan Bruna
+2018,Poster,Debiasing Evidence Approximations - On Importance-weighted Autoencoders and Jackknife Variational Inference.,Sebastian Nowozin
+2018,Poster,Temporally Efficient Deep Learning with Spikes.,Peter O'Connor; Efstratios Gavves; Matthias Reisser; Max Welling
+2018,Poster,Towards Reverse-Engineering Black-Box Neural Networks.,Seong Joon Oh; Max Augustin; Mario Fritz; Bernt Schiele
+2018,Poster,Skip Connections Eliminate Singularities.,Emin Orhan; Xaq Pitkow
+2018,Poster,Scalable Private Learning with PATE.,Nicolas Papernot; Shuang Song; Ilya Mironov; Ananth Raghunathan; Kunal Talwar; Úlfar Erlingsson
+2018,Poster,Neural Map - Structured Memory for Deep Reinforcement Learning.,Emilio Parisotto; Ruslan Salakhutdinov
+2018,Oral,Zero-Shot Visual Imitation.,Deepak Pathak; Parsa Mahmoudieh; Guanghao Luo; Pulkit Agrawal; Dian Chen; Yide Shentu; Evan Shelhamer; Jitendra Malik; Alexei A. Efros; Trevor Darrell
+2018,Poster,A Deep Reinforced Model for Abstractive Summarization.,Romain Paulus; Caiming Xiong; Richard Socher
+2018,Poster,Espresso - Efficient Forward Propagation for Binary Deep Neural Networks.,Fabrizio Pedersoli; George Tzanetakis; Andrea Tagliasacchi
+2018,Poster,Unsupervised Learning of Goal Spaces for Intrinsically Motivated Goal Exploration.,Alexandre Péré; Sébastien Forestier; Olivier Sigaud; Pierre-Yves Oudeyer
+2018,Poster,On the regularization of Wasserstein GANs.,Henning Petzka; Asja Fischer; Denis Lukovnikov
+2018,Poster,Consequentialist conditional cooperation in social dilemmas with imperfect information.,Alexander Peysakhovich; Adam Lerer
+2018,Poster,Deep Voice 3 - Scaling Text-to-Speech with Convolutional Sequence Learning.,Wei Ping; Kainan Peng; Andrew Gibiansky; Sercan Ömer Arik; Ajay Kannan; Sharan Narang; Jonathan Raiman; John Miller
+2018,Poster,Parameter Space Noise for Exploration.,Matthias Plappert; Rein Houthooft; Prafulla Dhariwal; Szymon Sidor; Richard Y. Chen; Xi Chen; Tamim Asfour; Pieter Abbeel; Marcin Andrychowicz
+2018,Poster,Model compression via distillation and quantization.,Antonio Polino; Razvan Pascanu; Dan Alistarh
+2018,Poster,Temporal Difference Models - Model-Free Deep RL for Model-Based Control.,Vitchyr Pong; Shixiang Gu; Murtaza Dalal; Sergey Levine
+2018,Poster,Distributed Fine-tuning of Language Models on Private Data.,Vadim Popov; Mikhail Kudinov; Irina Piontkovskaya; Petr Vytovtov; Alex Nevidomsky
+2018,Poster,A New Method of Region Embedding for Text Classification.,Chao Qiao; Bo Huang; Guocheng Niu; Daren Li; Daxiang Dong; Wei He; Dianhai Yu; Hua Wu
+2018,Poster,Certified Defenses against Adversarial Examples.,Aditi Raghunathan; Jacob Steinhardt; Percy Liang
+2018,Oral,On the Convergence of Adam and Beyond.,Sashank J. Reddi; Satyen Kale; Sanjiv Kumar
+2018,Poster,Few-shot Autoregressive Density Estimation - Towards Learning to Learn Distributions.,Scott E. Reed; Yutian Chen; Thomas Paine; Aäron van den Oord; S. M. Ali Eslami; Danilo J. Rezende; Oriol Vinyals; Nando de Freitas
+2018,Poster,Meta-Learning for Semi-Supervised Few-Shot Classification.,Mengye Ren; Eleni Triantafillou; Sachin Ravi; Jake Snell; Kevin Swersky; Joshua B. Tenenbaum; Hugo Larochelle; Richard S. Zemel
+2018,Poster,Critical Percolation as a Framework to Analyze the Training of Deep Networks.,Zohar Ringel; Rodrigo Andrade de Bem
+2018,Poster,Deep Bayesian Bandits Showdown - An Empirical Comparison of Bayesian Deep Networks for Thompson Sampling.,Carlos Riquelme; George Tucker; Jasper Snoek
+2018,Poster,A Scalable Laplace Approximation for Neural Networks.,Hippolyt Ritter; Aleksandar Botev; David Barber
+2018,Poster,The power of deeper networks for expressing natural functions.,David Rolnick; Max Tegmark
+2018,Poster,Routing Networks - Adaptive Selection of Non-Linear Functions for Multi-Task Learning.,Clemens Rosenbaum; Tim Klinger; Matthew Riemer
+2018,Poster,Adversarial Dropout Regularization.,Kuniaki Saito; Yoshitaka Ushiku; Tatsuya Harada; Kate Saenko
+2018,Poster,Improving GANs Using Optimal Transport.,Tim Salimans; Han Zhang; Alec Radford; Dimitris N. Metaxas
+2018,Poster,Defense-GAN - Protecting Classifiers Against Adversarial Attacks Using Generative Models.,Pouya Samangouei; Maya Kabkab; Rama Chellappa
+2018,Poster,Few-Shot Learning with Graph Neural Networks.,Victor Garcia Satorras; Joan Bruna Estrach
+2018,Poster,Semi-parametric topological memory for navigation.,Nikolay Savinov; Alexey Dosovitskiy; Vladlen Koltun
+2018,Poster,On the Information Bottleneck Theory of Deep Learning.,Andrew M. Saxe; Yamini Bansal; Joel Dapello; Madhu Advani; Artemy Kolchinsky; Brendan D. Tracey; David Daniel Cox
+2018,Poster,Large Scale Optimal Transport and Mapping Estimation.,Vivien Seguy; Bharath Bhushan Damodaran; Rémi Flamary; Nicolas Courty; Antoine Rolet; Mathieu Blondel
+2018,Poster,Active Learning for Convolutional Neural Networks - A Core-Set Approach.,Ozan Sener; Silvio Savarese
+2018,Poster,Automatically Inferring Data Quality for Spatiotemporal Forecasting.,Sungyong Seo; Arash Mohegh; George Ban-Weiss; Yan Liu
+2018,Poster,Neural Speed Reading via Skim-RNN.,Min Joon Seo; Sewon Min; Ali Farhadi; Hannaneh Hajishirzi
+2018,Poster,Twin Networks - Matching the Future for Sequence Generation.,Dmitriy Serdyuk; Nan Rosemary Ke; Alessandro Sordoni; Adam Trischler; Chris Pal; Yoshua Bengio
+2018,Poster,Learning a neural response metric for retinal prosthesis.,Nishal P. Shah; Sasidhar Madugula; E. J. Chichilnisky; Yoram Singer; Jonathon Shlens
+2018,Poster,SpectralNet - Spectral Clustering using Deep Neural Networks.,Uri Shaham; Kelly P. Stanton; Henry Li; Ronen Basri; Boaz Nadler; Yuval Kluger
+2018,Poster,Generalizing Across Domains via Cross-Gradient Training.,Shiv Shankar; Vihari Piratla; Soumen Chakrabarti; Siddhartha Chaudhuri; Preethi Jyothi; Sunita Sarawagi
+2018,Poster,On the Expressive Power of Overlapping Architectures of Deep Learning.,Or Sharir; Amnon Shashua
+2018,Poster,Learning to Multi-Task by Active Sampling.,Sahil Sharma; Ashutosh Kumar Jha; Parikshit Hegde; Balaraman Ravindran
+2018,Poster,Learning Discrete Weights Using the Local Reparameterization Trick.,Oran Shayer; Dan Levi; Ethan Fetaya
+2018,Poster,Neural Language Modeling by Jointly Learning Syntax and Lexicon.,Yikang Shen; Zhouhan Lin; Chin-Wei Huang; Aaron C. Courville
+2018,Poster,Deep Active Learning for Named Entity Recognition.,Yanyao Shen; Hyokun Yun; Zachary C. Lipton; Yakov Kronrod; Animashree Anandkumar
+2018,Poster,Bi-Directional Block Self-Attention for Fast and Memory-Efficient Sequence Modeling.,Tao Shen; Tianyi Zhou; Guodong Long; Jing Jiang; Chengqi Zhang
+2018,Poster,Kernel Implicit Variational Inference.,Jiaxin Shi; Shengyang Sun; Jun Zhu
+2018,Poster,A DIRT-T Approach to Unsupervised Domain Adaptation.,Rui Shu; Hung H. Bui; Hirokazu Narui; Stefano Ermon
+2018,Poster,Compressing Word Embeddings via Deep Compositional Code Learning.,Raphael Shu; Hideki Nakayama
+2018,Poster,Hierarchical and Interpretable Skill Acquisition in Multi-task Reinforcement Learning.,Tianmin Shu; Caiming Xiong; Richard Socher
+2018,Oral,Certifying Some Distributional Robustness with Principled Adversarial Training.,Aman Sinha; Hongseok Namkoong; John C. Duchi
+2018,Poster,"Don't Decay the Learning Rate, Increase the Batch Size.",Samuel L. Smith; Pieter-Jan Kindermans; Chris Ying; Quoc V. Le
+2018,Poster,A Bayesian Perspective on Generalization and Stochastic Gradient Descent.,Samuel L. Smith; Quoc V. Le
+2018,Poster,PixelDefend - Leveraging Generative Models to Understand and Defend against Adversarial Examples.,Yang Song; Taesup Kim; Sebastian Nowozin; Stefano Ermon; Nate Kushman
+2018,Poster,The Implicit Bias of Gradient Descent on Separable Data.,Daniel Soudry; Elad Hoffer; Mor Shpigel Nacson; Nathan Srebro
+2018,Poster,Memory-based Parameter Adaptation.,Pablo Sprechmann; Siddhant M. Jayakumar; Jack W. Rae; Alexander Pritzel; Adrià Puigdomènech Badia; Benigno Uria; Oriol Vinyals; Demis Hassabis; Razvan Pascanu; Charles Blundell
+2018,Poster,Relational Neural Expectation Maximization - Unsupervised Discovery of Objects and their Interactions.,Sjoerd van Steenkiste; Michael Chang; Klaus Greff; Jürgen Schmidhuber
+2018,Poster,Learning General Purpose Distributed Sentence Representations via Large Scale Multi-task Learning.,Sandeep Subramanian; Adam Trischler; Yoshua Bengio; Christopher J. Pal
+2018,Poster,Intrinsic Motivation and Automatic Curricula via Asymmetric Self-Play.,Sainbayar Sukhbaatar; Zeming Lin; Ilya Kostrikov; Gabriel Synnaeve; Arthur Szlam; Rob Fergus
+2018,Poster,Multi-Mention Learning for Reading Comprehension with Neural Cascades.,Swabha Swayamdipta; Ankur P. Parikh; Tom Kwiatkowski
+2018,Poster,VoiceLoop - Voice Fitting and Synthesis via a Phonological Loop.,Yaniv Taigman; Lior Wolf; Adam Polyak; Eliya Nachmani
+2018,Poster,Unbiased Online Recurrent Optimization.,Corentin Tallec; Yann Ollivier
+2018,Poster,Can recurrent neural networks warp time?,Corentin Tallec; Yann Ollivier
+2018,Poster,Imitation Learning from Visual Data with Multiple Intentions.,Aviv Tamar; Khashayar Rohanimanesh; Yinlam Chow; Chris Vigorito; Ben Goodrich; Michael Kahane; Derik Pridmore
+2018,Poster,Guide Actor-Critic for Continuous Control.,Voot Tangkaratt; Abbas Abdolmaleki; Masashi Sugiyama
+2018,Poster,Learning from Between-class Examples for Deep Sound Recognition.,Yuji Tokozume; Yoshitaka Ushiku; Tatsuya Harada
+2018,Oral,Wasserstein Auto-Encoders.,Ilya O. Tolstikhin; Olivier Bousquet; Sylvain Gelly; Bernhard Schölkopf
+2018,Poster,Towards Image Understanding from Deep Compression Without Decoding.,Robert Torfason; Fabian Mentzer; Eirikur Agustsson; Michael Tschannen; Radu Timofte; Luc Van Gool
+2018,Poster,Deep Complex Networks.,Chiheb Trabelsi; Olexa Bilaniuk; Ying Zhang; Dmitriy Serdyuk; Sandeep Subramanian; João Felipe Santos; Soroush Mehri; Negar Rostamzadeh; Yoshua Bengio; Christopher J. Pal
+2018,Poster,Ensemble Adversarial Training - Attacks and Defenses.,Florian Tramèr; Alexey Kurakin; Nicolas Papernot; Ian J. Goodfellow; Dan Boneh; Patrick D. McDaniel
+2018,Poster,Implicit Causal Models for Genome-wide Association Studies.,Dustin Tran; David M. Blei
+2018,Poster,Interpretable Counting for Visual Question Answering.,Alexander Trott; Caiming Xiong; Richard Socher
+2018,Poster,Detecting Statistical Interactions from Neural Network Weights.,Michael Tsang; Dehua Cheng; Yan Liu
+2018,Poster,Learning Approximate Inference Networks for Structured Prediction.,Lifu Tu; Kevin Gimpel
+2018,Poster,Coulomb GANs - Provably Optimal Nash Equilibria via Potential Fields.,Thomas Unterthiner; Bernhard Nessler; Calvin Seward; Günter Klambauer; Martin Heusel; Hubert Ramsauer; Sepp Hochreiter
+2018,Poster,Generative Models of Visually Grounded Imagination.,Ramakrishna Vedantam; Ian Fischer; Jonathan Huang; Kevin Murphy
+2018,Poster,Graph Attention Networks.,Petar Velickovic; Guillem Cucurull; Arantxa Casanova; Adriana Romero; Pietro Liò; Yoshua Bengio
+2018,Poster,NerveNet - Learning Structured Policy with Graph Neural Networks.,Tingwu Wang; Renjie Liao; Jimmy Ba; Sanja Fidler
+2018,Poster,Dynamic Neural Program Embeddings for Program Repair.,Ke Wang; Rishabh Singh; Zhendong Su
+2018,Poster,Evidence Aggregation for Answer Re-Ranking in Open-Domain Question Answering.,Shuohang Wang; Mo Yu; Jing Jiang; Wei Zhang; Xiaoxiao Guo; Shiyu Chang; Zhiguo Wang; Tim Klinger; Gerald Tesauro; Murray Campbell
+2018,Poster,Improving the Improved Training of Wasserstein GANs - A Consistency Term and Its Dual Effect.,Xiang Wei; Boqing Gong; Zixia Liu; Wei Lu; Liqiang Wang
+2018,Poster,Learning Intrinsic Sparse Structures within Long Short-Term Memory.,Wei Wen; Yuxiong He; Samyam Rajbhandari; Minjia Zhang; Wenhan Wang; Fang Liu; Bin Hu; Yiran Chen; Hai Li
+2018,Poster,Flipout - Efficient Pseudo-Independent Weight Perturbations on Mini-Batches.,Yeming Wen; Paul Vicol; Jimmy Ba; Dustin Tran; Roger Grosse
+2018,Poster,Evaluating the Robustness of Neural Networks - An Extreme Value Theory Approach.,Tsui-Wei Weng; Huan Zhang; Pin-Yu Chen; Jinfeng Yi; Dong Su; Yupeng Gao; Cho-Jui Hsieh; Luca Daniel
+2018,Poster,Learning Sparse Latent Representations with the Deep Copula Information Bottleneck.,Aleksander Wieczorek; Mario Wieser; Damian Murezzan; Volker Roth
+2018,Poster,Wavelet Pooling for Convolutional Neural Networks.,Travis Williams; Robert Li
+2018,Oral,Training and Inference with Integers in Deep Neural Networks.,Shuang Wu; Guoqi Li; Feng Chen; Luping Shi
+2018,Oral,Variance Reduction for Policy Gradient with Action-Dependent Factorized Baselines.,Cathy Wu; Aravind Rajeswaran; Yan Duan; Vikash Kumar; Alexandre M. Bayen; Sham Kakade; Igor Mordatch; Pieter Abbeel
+2018,Poster,Understanding Short-Horizon Bias in Stochastic Meta-Optimization.,Yuhuai Wu; Mengye Ren; Renjie Liao; Roger Grosse
+2018,Poster,The Kanerva Machine - A Generative Distributed Memory.,Yan Wu; Greg Wayne; Alex Graves; Timothy P. Lillicrap
+2018,Poster,Improving the Universality and Learnability of Neural Programmer-Interpreters with Combinator Abstraction.,Da Xiao; Jo-Yu Liao; Xingyuan Yuan
+2018,Poster,Spatially Transformed Adversarial Examples.,Chaowei Xiao; Jun-Yan Zhu; Bo Li; Warren He; Mingyan Liu; Dawn Song
+2018,Poster,Mitigating Adversarial Effects Through Randomization.,Cihang Xie; Jianyu Wang; Zhishuai Zhang; Zhou Ren; Alan L. Yuille
+2018,Poster,DCN+ - Mixed Objective And Deep Residual Coattention for Question Answering.,Caiming Xiong; Victor Zhong; Richard Socher
+2018,Poster,Alternating Multi-bit Quantization for Recurrent Neural Networks.,Chen Xu; Jianqiang Yao; Zhouchen Lin; Wenwu Ou; Yuanbin Cao; Zhirong Wang; Hongbin Zha
+2018,Poster,Stabilizing Adversarial Nets with Prediction Methods.,Abhay Kumar Yadav; Sohil Shah; Zheng Xu; David W. Jacobs; Tom Goldstein
+2018,Oral,Breaking the Softmax Bottleneck - A High-Rank RNN Language Model.,Zhilin Yang; Zihang Dai; Ruslan Salakhutdinov; William W. Cohen
+2018,Oral,Learning Deep Mean Field Games for Modeling Large Population Behavior.,Jiachen Yang; Xiaojing Ye; Rakshit Trivedi; Huan Xu; Hongyuan Zha
+2018,Poster,Mastering the Dungeon - Grounded Language Learning by Mechanical Turker Descent.,Zhilin Yang; Saizheng Zhang; Jack Urbanek; Will Feng; Alexander H. Miller; Arthur Szlam; Douwe Kiela; Jason Weston
+2018,Poster,Rethinking the Smaller-Norm-Less-Informative Assumption in Channel Pruning of Convolution Layers.,Jianbo Ye; Xin Lu; Zhe Lin; James Z. Wang
+2018,Poster,An image representation based convolutional network for DNA classification.,Bojian Yin; Marleen Balvert; Davide Zambrano; Alexander Schönhuth; Sander M. Bohte
+2018,Poster,Memory Architectures in Recurrent Neural Network Language Models.,Dani Yogatama; Yishu Miao; Gábor Melis; Wang Ling; Adhiguna Kuncoro; Chris Dyer; Phil Blunsom
+2018,Poster,GANITE - Estimation of Individualized Treatment Effects using Generative Adversarial Nets.,Jinsung Yoon; James Jordon; Mihaela van der Schaar
+2018,Poster,Lifelong Learning with Dynamically Expandable Networks.,Jaehong Yoon; Eunho Yang; Jeongtae Lee; Sung Ju Hwang
+2018,Poster,Deep Sensing - Active Sensing using Multi-directional Recurrent Neural Networks.,Jinsung Yoon; William R. Zame; Mihaela van der Schaar
+2018,Poster,QANet - Combining Local Convolution with Global Self-Attention for Reading Comprehension.,Adams Wei Yu; David Dohan; Minh-Thang Luong; Rui Zhao; Kai Chen; Mohammad Norouzi; Quoc V. Le
+2018,Poster,Interactive Grounded Language Acquisition and Generalization in a 2D World.,Haonan Yu; Haichao Zhang; Wei Xu
+2018,Poster,Global Optimality Conditions for Deep Neural Networks.,Chulhee Yun; Suvrit Sra; Ali Jadbabaie
+2018,Poster,Adaptive Dropout with Rademacher Complexity Regularization.,Ke Zhai; Huan Wang
+2018,Poster,WHAI - Weibull Hybrid Autoencoding Inference for Deep Topic Modeling.,Hao Zhang; Bo Chen; Dandan Guo; Mingyuan Zhou
+2018,Poster,On the Discrimination-Generalization Tradeoff in GANs.,Pengchuan Zhang; Qiang Liu; Dengyong Zhou; Tao Xu; Xiaodong He
+2018,Poster,mixup - Beyond Empirical Risk Minimization.,Hongyi Zhang; Moustapha Cissé; Yann N. Dauphin; David Lopez-Paz
+2018,Poster,Learning to Count Objects in Natural Images for Visual Question Answering.,Yan Zhang; Jonathon Hare; Adam Prügel-Bennett
+2018,Poster,Learning to Share - simultaneous parameter tying and Sparsification in Deep Learning.,Dejiao Zhang; Haozhu Wang; Mário A. T. Figueiredo; Laura Balzano
+2018,Poster,Generating Natural Adversarial Examples.,Zhengli Zhao; Dheeru Dua; Sameer Singh
+2018,Poster,Minimax Curriculum Learning - Machine Teaching with Desirable Difficulties and Scheduled Diversity.,Tianyi Zhou; Jeff A. Bilmes
+2018,Poster,Activation Maximization Generative Adversarial Nets.,Zhiming Zhou; Han Cai; Shu Rong; Yuxuan Song; Kan Ren; Weinan Zhang; Jun Wang; Yong Yu
+2018,Poster,Empirical Risk Landscape Analysis for Understanding Deep Neural Networks.,Pan Zhou; Jiashi Feng
+2018,Poster,Critical Points of Linear Neural Networks - Analytical Forms and Landscape Properties.,Yi Zhou; Yingbin Liang
+2018,Poster,Auto-Conditioned Recurrent Networks for Extended Complex Human Motion Synthesis.,Yi Zhou; Zimo Li; Shuangjiu Xiao; Chong He; Zeng Huang; Hao Li
+2018,Poster,Sparse Persistent RNNs - Squeezing Large Recurrent Networks On-Chip.,Feiwen Zhu; Jeff Pool; Michael Andersch; Jeremy Appleyard; Fung Xie
+2018,Poster,Fraternal Dropout.,Konrad Zolna; Devansh Arpit; Dendi Suhubdy; Yoshua Bengio
+2018,Poster,Deep Autoencoding Gaussian Mixture Model for Unsupervised Anomaly Detection.,Bo Zong; Qi Song; Martin Renqiang Min; Wei Cheng; Cristian Lumezanu; Dae-ki Cho; Haifeng Chen

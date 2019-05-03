@@ -1,0 +1,35 @@
+2014,Poster,On Fast Dropout and its Applicability to Recurrent Networks.,Justin Bayer; Christian Osendorfer; Nutan Chen; Sebastian Urban; Patrick van der Smagt
+2014,Poster,Bounding the Test Log-Likelihood of Generative Models.,Yoshua Bengio; Li Yao
+2014,Oral,Learned versus Hand-Designed Feature Representations for 3d Agglomeration.,John A. Bogovic; Gary B. Huang; Viren Jain
+2014,Oral,Spectral Networks and Locally Connected Networks on Graphs.,Joan Bruna; Wojciech Zaremba; Arthur Szlam; Yann LeCun
+2014,Poster,Zero-Shot Learning and Clustering for Semantic Utterance Classification.,Yann N. Dauphin; Gökhan Tür; Dilek Hakkani-Tür; Larry P. Heck
+2014,Oral,Sequentially Generated Instance-Dependent Image Representations for Classification.,Gabriel Dulac-Arnold; Ludovic Denoyer; Nicolas Thome; Matthieu Cord; Patrick Gallinari
+2014,Poster,Deep Convolutional Ranking for Multilabel Image Annotation.,Yunchao Gong; Yangqing Jia; Thomas Leung; Alexander Toshev; Sergey Ioffe
+2014,Oral,Multi-digit Number Recognition from Street View Imagery using Deep Convolutional Neural Networks.,Ian J. Goodfellow; Yaroslav Bulatov; Julian Ibarz; Sacha Arnoud; Vinay D. Shet
+2014,Poster,An Empirical Investigation of Catastrophic Forgeting in Gradient-Based Neural Networks.,Ian J. Goodfellow; Mehdi Mirza; Xia Da; Aaron C. Courville; Yoshua Bengio
+2014,Oral,A Simple Model for Learning Multilingual Compositional Semantics.,Karl Moritz Hermann; Phil Blunsom
+2014,Poster,Some Improvements on Deep Convolutional Neural Network Based Image Classification.,Andrew G. Howard
+2014,Poster,Deep and Wide Multiscale Recursive Networks for Robust Image Labeling.,Gary B. Huang; Viren Jain
+2014,Poster,Learning Human Pose Estimation Features with Convolutional Networks.,Arjun Jain; Jonathan Tompson; Mykhaylo Andriluka; Graham W. Taylor; Christoph Bregler
+2014,Poster,The return of AdaBoost.MH - multi-class Hamming trees.,Balázs Kégl
+2014,Oral,Auto-Encoding Variational Bayes.,Diederik P. Kingma; Max Welling
+2014,Oral,Group-sparse Embeddings in Collective Matrix Factorization.,Arto Klami; Guillaume Bouchard; Abhishek Tripathi
+2014,Poster,The role of spatio-temporal synchrony in the encoding of motion.,Kishore Reddy Konda; Roland Memisevic; Vincent Michalski
+2014,Poster,A Generative Product-of-Filters Model of Audio.,Dawen Liang; Matthew D. Hoffman; Gautham J. Mysore
+2014,Poster,Network In Network.,Min Lin; Qiang Chen; Shuicheng Yan
+2014,Poster,k-Sparse Autoencoders.,Alireza Makhzani; Brendan J. Frey
+2014,Oral,Sparse similarity-preserving hashing.,Jonathan Masci; Alexander M. Bronstein; Michael M. Bronstein; Pablo Sprechmann; Guillermo Sapiro
+2014,Poster,Fast Training of Convolutional Networks through FFTs.,Michaël Mathieu; Mikael Henaff; Yann LeCun
+2014,Oral,Zero-Shot Learning by Convex Combination of Semantic Embeddings.,Mohammad Norouzi; Tomas Mikolov; Samy Bengio; Yoram Singer; Jonathon Shlens; Andrea Frome; Greg Corrado; Jeffrey Dean
+2014,Poster,How to Construct Deep Recurrent Neural Networks.,Razvan Pascanu; Çaglar Gülçehre; Kyunghyun Cho; Yoshua Bengio
+2014,Poster,On the number of inference regions of deep feed forward networks with piece-wise linear activations.,Razvan Pascanu; Guido Montúfar; Yoshua Bengio
+2014,Poster,Multi-View Priors for Learning Detectors from Sparse Viewpoint Data.,Bojan Pepik; Michael Stark; Peter V. Gehler; Bernt Schiele
+2014,Oral,Learning Transformations for Classification Forests.,Qiang Qiu; Guillermo Sapiro
+2014,Poster,Neuronal Synchrony in Complex-Valued Deep Networks.,David P. Reichert; Thomas Serre
+2014,Oral,Exact solutions to the nonlinear dynamics of learning in deep linear neural networks.,Andrew M. Saxe; James L. McClelland; Surya Ganguli
+2014,Oral,Unit Tests for Stochastic Optimization.,Tom Schaul; Ioannis Antonoglou; David Silver
+2014,Oral,"OverFeat - Integrated Recognition, Localization and Detection using Convolutional Networks.",Pierre Sermanet; David Eigen; Xiang Zhang; Michaël Mathieu; Rob Fergus; Yann LeCun
+2014,Poster,Intriguing properties of neural networks.,Christian Szegedy; Wojciech Zaremba; Ilya Sutskever; Joan Bruna; Dumitru Erhan; Ian J. Goodfellow; Rob Fergus
+2014,Poster,EXMOVES - Classifier-based Features for Scalable Action Recognition.,Du Tran; Lorenzo Torresani
+2014,Poster,An empirical analysis of dropout in piecewise linear networks.,David Warde-Farley; Ian J. Goodfellow; Aaron C. Courville; Yoshua Bengio
+2014,Oral,Revisiting Natural Gradient for Deep Networks,Razvan Pascanu; Yoshua Bengio

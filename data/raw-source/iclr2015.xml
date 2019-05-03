@@ -1,0 +1,564 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+    <query id="82153">:facetid:toc:db\"/\"conf\"/\"iclr\"/\"iclr2015\".\"bht</query>
+    <status code="200">OK</status>
+    <time unit="msecs">121.88</time>
+    <completions total="1" computed="1" sent="1">
+        <c sc="32" dc="32" oc="32" id="14545009">:facetid:toc:db/conf/iclr/iclr2015.bht</c>
+    </completions>
+    <hits total="32" computed="32" sent="32" first="0">
+        <hit score="1" id="1271920">
+            <info>
+                <authors>
+                    <author>Jimmy Ba</author>
+                    <author>Volodymyr Mnih</author>
+                    <author>Koray Kavukcuoglu</author>
+                </authors>
+                <title>Multiple Object Recognition with Visual Attention.</title>
+                <venue>ICLR</venue>
+                <year>2015</year>
+                <type>Conference and Workshop Papers</type>
+                <key>journals/corr/BaMK14</key>
+                <ee>http://arxiv.org/abs/1412.7755</ee>
+                <url>https://dblp.org/rec/journals/corr/BaMK14</url>
+            </info>
+            <url>URL#1271920</url>
+        </hit>
+        <hit score="1" id="1271924">
+            <info>
+                <authors>
+                    <author>Dzmitry Bahdanau</author>
+                    <author>Kyunghyun Cho</author>
+                    <author>Yoshua Bengio</author>
+                </authors>
+                <title>Neural Machine Translation by Jointly Learning to Align and Translate.</title>
+                <venue>ICLR</venue>
+                <year>2015</year>
+                <type>Conference and Workshop Papers</type>
+                <key>journals/corr/BahdanauCB14</key>
+                <ee>http://arxiv.org/abs/1409.0473</ee>
+                <url>https://dblp.org/rec/journals/corr/BahdanauCB14</url>
+            </info>
+            <url>URL#1271924</url>
+        </hit>
+        <hit score="1" id="1271940">
+            <info>
+                <authors>
+                    <author>Jörg Bornschein</author>
+                    <author>Yoshua Bengio</author>
+                </authors>
+                <title>Reweighted Wake-Sleep.</title>
+                <venue>ICLR</venue>
+                <year>2015</year>
+                <type>Conference and Workshop Papers</type>
+                <key>journals/corr/BornscheinB14</key>
+                <ee>http://arxiv.org/abs/1406.2751</ee>
+                <url>https://dblp.org/rec/journals/corr/BornscheinB14</url>
+            </info>
+            <url>URL#1271940</url>
+        </hit>
+        <hit score="1" id="1271959">
+            <info>
+                <authors>
+                    <author>Liang-Chieh Chen</author>
+                    <author>George Papandreou</author>
+                    <author>Iasonas Kokkinos</author>
+                    <author>Kevin Murphy 0002</author>
+                    <author>Alan L. Yuille</author>
+                </authors>
+                <title>Semantic Image Segmentation with Deep Convolutional Nets and Fully Connected CRFs.</title>
+                <venue>ICLR</venue>
+                <year>2015</year>
+                <type>Conference and Workshop Papers</type>
+                <key>journals/corr/ChenPKMY14</key>
+                <ee>http://arxiv.org/abs/1412.7062</ee>
+                <url>https://dblp.org/rec/journals/corr/ChenPKMY14</url>
+            </info>
+            <url>URL#1271959</url>
+        </hit>
+        <hit score="1" id="1271966">
+            <info>
+                <authors>
+                    <author>Taco S. Cohen</author>
+                    <author>Max Welling</author>
+                </authors>
+                <title>Transformation Properties of Learned Visual Representations.</title>
+                <venue>ICLR</venue>
+                <year>2015</year>
+                <type>Conference and Workshop Papers</type>
+                <key>journals/corr/CohenW14a</key>
+                <ee>http://arxiv.org/abs/1412.7659</ee>
+                <url>https://dblp.org/rec/journals/corr/CohenW14a</url>
+            </info>
+            <url>URL#1271966</url>
+        </hit>
+        <hit score="1" id="1271973">
+            <info>
+                <authors>
+                    <author>Jifeng Dai</author>
+                    <author>Ying Nian Wu</author>
+                </authors>
+                <title>Generative Modeling of Convolutional Neural Networks.</title>
+                <venue>ICLR</venue>
+                <year>2015</year>
+                <type>Conference and Workshop Papers</type>
+                <key>journals/corr/DaiW14</key>
+                <ee>http://arxiv.org/abs/1412.6296</ee>
+                <url>https://dblp.org/rec/journals/corr/DaiW14</url>
+            </info>
+            <url>URL#1271973</url>
+        </hit>
+        <hit score="1" id="1272005">
+            <info>
+                <authors>
+                    <author>Krzysztof J. Geras</author>
+                    <author>Charles A. Sutton</author>
+                </authors>
+                <title>Scheduled denoising autoencoders.</title>
+                <venue>ICLR</venue>
+                <year>2015</year>
+                <type>Conference and Workshop Papers</type>
+                <key>journals/corr/GerasS14</key>
+                <ee>http://arxiv.org/abs/1406.3269</ee>
+                <url>https://dblp.org/rec/journals/corr/GerasS14</url>
+            </info>
+            <url>URL#1272005</url>
+        </hit>
+        <hit score="1" id="1272014">
+            <info>
+                <authors>
+                    <author>Ian J. Goodfellow</author>
+                    <author>Jonathon Shlens</author>
+                    <author>Christian Szegedy</author>
+                </authors>
+                <title>Explaining and Harnessing Adversarial Examples.</title>
+                <venue>ICLR</venue>
+                <year>2015</year>
+                <type>Conference and Workshop Papers</type>
+                <key>journals/corr/GoodfellowSS14</key>
+                <ee>http://arxiv.org/abs/1412.6572</ee>
+                <url>https://dblp.org/rec/journals/corr/GoodfellowSS14</url>
+            </info>
+            <url>URL#1272014</url>
+        </hit>
+        <hit score="1" id="1272015">
+            <info>
+                <authors>
+                    <author>Ian J. Goodfellow</author>
+                    <author>Oriol Vinyals</author>
+                </authors>
+                <title>Qualitatively characterizing neural network optimization problems.</title>
+                <venue>ICLR</venue>
+                <year>2015</year>
+                <type>Conference and Workshop Papers</type>
+                <key>journals/corr/GoodfellowV14</key>
+                <ee>http://arxiv.org/abs/1412.6544</ee>
+                <url>https://dblp.org/rec/journals/corr/GoodfellowV14</url>
+            </info>
+            <url>URL#1272015</url>
+        </hit>
+        <hit score="1" id="1272034">
+            <info>
+                <authors>
+                    <author>Olivier J. Hénaff</author>
+                    <author>Johannes Ballé</author>
+                    <author>Neil C. Rabinowitz</author>
+                    <author>Eero P. Simoncelli</author>
+                </authors>
+                <title>The local low-dimensionality of natural images.</title>
+                <venue>ICLR</venue>
+                <year>2015</year>
+                <type>Conference and Workshop Papers</type>
+                <key>journals/corr/HenaffBRS14</key>
+                <ee>http://arxiv.org/abs/1412.6626</ee>
+                <url>https://dblp.org/rec/journals/corr/HenaffBRS14</url>
+            </info>
+            <url>URL#1272034</url>
+        </hit>
+        <hit score="1" id="1272049">
+            <info>
+                <authors>
+                    <author>Ozan Irsoy</author>
+                    <author>Claire Cardie</author>
+                </authors>
+                <title>Modeling Compositionality with Multiplicative Recurrent Neural Networks.</title>
+                <venue>ICLR</venue>
+                <year>2015</year>
+                <type>Conference and Workshop Papers</type>
+                <key>journals/corr/IrsoyC14</key>
+                <ee>http://arxiv.org/abs/1412.6577</ee>
+                <url>https://dblp.org/rec/journals/corr/IrsoyC14</url>
+            </info>
+            <url>URL#1272049</url>
+        </hit>
+        <hit score="1" id="1272051">
+            <info>
+                <authors>
+                    <author>Max Jaderberg</author>
+                    <author>Karen Simonyan</author>
+                    <author>Andrea Vedaldi</author>
+                    <author>Andrew Zisserman</author>
+                </authors>
+                <title>Deep Structured Output Learning for Unconstrained Text Recognition.</title>
+                <venue>ICLR</venue>
+                <year>2015</year>
+                <type>Conference and Workshop Papers</type>
+                <key>journals/corr/JaderbergSVZ14b</key>
+                <ee>http://arxiv.org/abs/1412.5903</ee>
+                <url>https://dblp.org/rec/journals/corr/JaderbergSVZ14b</url>
+            </info>
+            <url>URL#1272051</url>
+        </hit>
+        <hit score="1" id="1272065">
+            <info>
+                <authors>
+                    <author>Diederik P. Kingma</author>
+                    <author>Jimmy Ba</author>
+                </authors>
+                <title>Adam - A Method for Stochastic Optimization.</title>
+                <venue>ICLR</venue>
+                <year>2015</year>
+                <type>Conference and Workshop Papers</type>
+                <key>journals/corr/KingmaB14</key>
+                <ee>http://arxiv.org/abs/1412.6980</ee>
+                <url>https://dblp.org/rec/journals/corr/KingmaB14</url>
+            </info>
+            <url>URL#1272065</url>
+        </hit>
+        <hit score="1" id="1272080">
+            <info>
+                <authors>
+                    <author>Vadim Lebedev</author>
+                    <author>Yaroslav Ganin</author>
+                    <author>Maksim Rakhuba</author>
+                    <author>Ivan V. Oseledets</author>
+                    <author>Victor S. Lempitsky</author>
+                </authors>
+                <title>Speeding-up Convolutional Neural Networks Using Fine-tuned CP-Decomposition.</title>
+                <venue>ICLR</venue>
+                <year>2015</year>
+                <type>Conference and Workshop Papers</type>
+                <key>journals/corr/LebedevGROL14</key>
+                <ee>http://arxiv.org/abs/1412.6553</ee>
+                <url>https://dblp.org/rec/journals/corr/LebedevGROL14</url>
+            </info>
+            <url>URL#1272080</url>
+        </hit>
+        <hit score="1" id="1272085">
+            <info>
+                <authors>
+                    <author>Joël Legrand</author>
+                    <author>Ronan Collobert</author>
+                </authors>
+                <title>Joint RNN-Based Greedy Parsing and Word Composition.</title>
+                <venue>ICLR</venue>
+                <year>2015</year>
+                <type>Conference and Workshop Papers</type>
+                <key>journals/corr/LegrandC14</key>
+                <ee>http://arxiv.org/abs/1412.7028</ee>
+                <url>https://dblp.org/rec/journals/corr/LegrandC14</url>
+            </info>
+            <url>URL#1272085</url>
+        </hit>
+        <hit score="1" id="1272098">
+            <info>
+                <authors>
+                    <author>Chris J. Maddison</author>
+                    <author>Aja Huang</author>
+                    <author>Ilya Sutskever</author>
+                    <author>David Silver</author>
+                </authors>
+                <title>Move Evaluation in Go Using Deep Convolutional Neural Networks.</title>
+                <venue>ICLR</venue>
+                <year>2015</year>
+                <type>Conference and Workshop Papers</type>
+                <key>journals/corr/MaddisonHSS14</key>
+                <ee>http://arxiv.org/abs/1412.6564</ee>
+                <url>https://dblp.org/rec/journals/corr/MaddisonHSS14</url>
+            </info>
+            <url>URL#1272098</url>
+        </hit>
+        <hit score="1" id="1272104">
+            <info>
+                <authors>
+                    <author>Junhua Mao</author>
+                    <author>Wei Xu</author>
+                    <author>Yi Yang 0007</author>
+                    <author>Jiang Wang 0001</author>
+                    <author>Alan L. Yuille</author>
+                </authors>
+                <title>Deep Captioning with Multimodal Recurrent Neural Networks (m-RNN).</title>
+                <venue>ICLR</venue>
+                <year>2015</year>
+                <type>Conference and Workshop Papers</type>
+                <key>journals/corr/MaoXYWY14a</key>
+                <ee>http://arxiv.org/abs/1412.6632</ee>
+                <url>https://dblp.org/rec/journals/corr/MaoXYWY14a</url>
+            </info>
+            <url>URL#1272104</url>
+        </hit>
+        <hit score="1" id="1272110">
+            <info>
+                <authors>
+                    <author>Roland Memisevic</author>
+                    <author>Kishore Reddy Konda</author>
+                    <author>David Krueger</author>
+                </authors>
+                <title>Zero-bias autoencoders and the benefits of co-adapting features.</title>
+                <venue>ICLR</venue>
+                <year>2015</year>
+                <type>Conference and Workshop Papers</type>
+                <key>journals/corr/MemisevicKK14</key>
+                <ee>http://arxiv.org/abs/1402.3337</ee>
+                <url>https://dblp.org/rec/journals/corr/MemisevicKK14</url>
+            </info>
+            <url>URL#1272110</url>
+        </hit>
+        <hit score="1" id="1272117">
+            <info>
+                <authors>
+                    <author>Guido Montúfar</author>
+                </authors>
+                <title>Deep Narrow Boltzmann Machines are Universal Approximators.</title>
+                <venue>ICLR</venue>
+                <year>2015</year>
+                <type>Conference and Workshop Papers</type>
+                <key>journals/corr/Montufar14</key>
+                <ee>http://arxiv.org/abs/1411.3784</ee>
+                <url>https://dblp.org/rec/journals/corr/Montufar14</url>
+            </info>
+            <url>URL#1272117</url>
+        </hit>
+        <hit score="1" id="1272133">
+            <info>
+                <authors>
+                    <author>Sobhan Naderi Parizi</author>
+                    <author>Andrea Vedaldi</author>
+                    <author>Andrew Zisserman</author>
+                    <author>Pedro F. Felzenszwalb</author>
+                </authors>
+                <title>Automatic Discovery and Optimization of Parts for Image Classification.</title>
+                <venue>ICLR</venue>
+                <year>2015</year>
+                <type>Conference and Workshop Papers</type>
+                <key>journals/corr/PariziVZF14</key>
+                <ee>http://arxiv.org/abs/1412.6598</ee>
+                <url>https://dblp.org/rec/journals/corr/PariziVZF14</url>
+            </info>
+            <url>URL#1272133</url>
+        </hit>
+        <hit score="1" id="1272150">
+            <info>
+                <authors>
+                    <author>Tapani Raiko</author>
+                    <author>Mathias Berglund</author>
+                    <author>Guillaume Alain</author>
+                    <author>Laurent Dinh</author>
+                </authors>
+                <title>Techniques for Learning Binary Stochastic Feedforward Neural Networks.</title>
+                <venue>ICLR</venue>
+                <year>2015</year>
+                <type>Conference and Workshop Papers</type>
+                <key>journals/corr/RaikoBAD14</key>
+                <ee>http://arxiv.org/abs/1406.2989</ee>
+                <url>https://dblp.org/rec/journals/corr/RaikoBAD14</url>
+            </info>
+            <url>URL#1272150</url>
+        </hit>
+        <hit score="1" id="1272157">
+            <info>
+                <authors>
+                    <author>Adriana Romero</author>
+                    <author>Nicolas Ballas</author>
+                    <author>Samira Ebrahimi Kahou</author>
+                    <author>Antoine Chassang</author>
+                    <author>Carlo Gatta</author>
+                    <author>Yoshua Bengio</author>
+                </authors>
+                <title>FitNets - Hints for Thin Deep Nets.</title>
+                <venue>ICLR</venue>
+                <year>2015</year>
+                <type>Conference and Workshop Papers</type>
+                <key>journals/corr/RomeroBKCGB14</key>
+                <ee>http://arxiv.org/abs/1412.6550</ee>
+                <url>https://dblp.org/rec/journals/corr/RomeroBKCGB14</url>
+            </info>
+            <url>URL#1272157</url>
+        </hit>
+        <hit score="1" id="1272171">
+            <info>
+                <authors>
+                    <author>Karen Simonyan</author>
+                    <author>Andrew Zisserman</author>
+                </authors>
+                <title>Very Deep Convolutional Networks for Large-Scale Image Recognition.</title>
+                <venue>ICLR</venue>
+                <year>2015</year>
+                <type>Conference and Workshop Papers</type>
+                <key>journals/corr/SimonyanZ14a</key>
+                <ee>http://arxiv.org/abs/1409.1556</ee>
+                <url>https://dblp.org/rec/journals/corr/SimonyanZ14a</url>
+            </info>
+            <url>URL#1272171</url>
+        </hit>
+        <hit score="1" id="1272176">
+            <info>
+                <authors>
+                    <author>Hubert Soyer</author>
+                    <author>Pontus Stenetorp</author>
+                    <author>Akiko Aizawa</author>
+                </authors>
+                <title>Leveraging Monolingual Data for Crosslingual Compositional Word Representations.</title>
+                <venue>ICLR</venue>
+                <year>2015</year>
+                <type>Conference and Workshop Papers</type>
+                <key>journals/corr/SoyerSA14</key>
+                <ee>http://arxiv.org/abs/1412.6334</ee>
+                <url>https://dblp.org/rec/journals/corr/SoyerSA14</url>
+            </info>
+            <url>URL#1272176</url>
+        </hit>
+        <hit score="1" id="1272179">
+            <info>
+                <authors>
+                    <author>Rupesh Kumar Srivastava</author>
+                    <author>Jonathan Masci</author>
+                    <author>Faustino J. Gomez</author>
+                    <author>Jürgen Schmidhuber</author>
+                </authors>
+                <title>Understanding Locally Competitive Networks.</title>
+                <venue>ICLR</venue>
+                <year>2015</year>
+                <type>Conference and Workshop Papers</type>
+                <key>journals/corr/SrivastavaMGS14</key>
+                <ee>http://arxiv.org/abs/1410.1165</ee>
+                <url>https://dblp.org/rec/journals/corr/SrivastavaMGS14</url>
+            </info>
+            <url>URL#1272179</url>
+        </hit>
+        <hit score="1" id="1272190">
+            <info>
+                <authors>
+                    <author>Nicolas Vasilache</author>
+                    <author>Jeff Johnson</author>
+                    <author>Michaël Mathieu</author>
+                    <author>Soumith Chintala</author>
+                    <author>Serkan Piantino</author>
+                    <author>Yann LeCun</author>
+                </authors>
+                <title>Fast Convolutional Nets With fbfft - A GPU Performance Evaluation.</title>
+                <venue>ICLR</venue>
+                <year>2015</year>
+                <type>Conference and Workshop Papers</type>
+                <key>journals/corr/VasilacheJMCPL14</key>
+                <ee>http://arxiv.org/abs/1412.7580</ee>
+                <url>https://dblp.org/rec/journals/corr/VasilacheJMCPL14</url>
+            </info>
+            <url>URL#1272190</url>
+        </hit>
+        <hit score="1" id="1272192">
+            <info>
+                <authors>
+                    <author>Luke Vilnis</author>
+                    <author>Andrew McCallum</author>
+                </authors>
+                <title>Word Representations via Gaussian Embedding.</title>
+                <venue>ICLR</venue>
+                <year>2015</year>
+                <type>Conference and Workshop Papers</type>
+                <key>journals/corr/VilnisM14</key>
+                <ee>http://arxiv.org/abs/1412.6623</ee>
+                <url>https://dblp.org/rec/journals/corr/VilnisM14</url>
+            </info>
+            <url>URL#1272192</url>
+        </hit>
+        <hit score="1" id="1272198">
+            <info>
+                <authors>
+                    <author>Jason Weston</author>
+                    <author>Sumit Chopra</author>
+                    <author>Antoine Bordes</author>
+                </authors>
+                <title>Memory Networks.</title>
+                <venue>ICLR</venue>
+                <year>2015</year>
+                <type>Conference and Workshop Papers</type>
+                <key>journals/corr/WestonCB14</key>
+                <ee>http://arxiv.org/abs/1410.3916</ee>
+                <url>https://dblp.org/rec/journals/corr/WestonCB14</url>
+            </info>
+            <url>URL#1272198</url>
+        </hit>
+        <hit score="1" id="1272203">
+            <info>
+                <authors>
+                    <author>Yongxin Yang</author>
+                    <author>Timothy M. Hospedales</author>
+                </authors>
+                <title>A Unified Perspective on Multi-Domain and Multi-Task Learning.</title>
+                <venue>ICLR</venue>
+                <year>2015</year>
+                <type>Conference and Workshop Papers</type>
+                <key>journals/corr/YangH14a</key>
+                <ee>http://arxiv.org/abs/1412.7489</ee>
+                <url>https://dblp.org/rec/journals/corr/YangH14a</url>
+            </info>
+            <url>URL#1272203</url>
+        </hit>
+        <hit score="1" id="1272204">
+            <info>
+                <authors>
+                    <author>Bishan Yang</author>
+                    <author>Wen-tau Yih</author>
+                    <author>Xiaodong He 0001</author>
+                    <author>Jianfeng Gao</author>
+                    <author>Li Deng 0001</author>
+                </authors>
+                <title>Embedding Entities and Relations for Learning and Inference in Knowledge Bases.</title>
+                <venue>ICLR</venue>
+                <year>2015</year>
+                <type>Conference and Workshop Papers</type>
+                <key>journals/corr/YangYHGD14a</key>
+                <ee>http://arxiv.org/abs/1412.6575</ee>
+                <url>https://dblp.org/rec/journals/corr/YangYHGD14a</url>
+            </info>
+            <url>URL#1272204</url>
+        </hit>
+        <hit score="1" id="1272208">
+            <info>
+                <authors>
+                    <author>Bolei Zhou</author>
+                    <author>Aditya Khosla</author>
+                    <author>Àgata Lapedriza</author>
+                    <author>Aude Oliva</author>
+                    <author>Antonio Torralba 0001</author>
+                </authors>
+                <title>Object Detectors Emerge in Deep Scene CNNs.</title>
+                <venue>ICLR</venue>
+                <year>2015</year>
+                <type>Conference and Workshop Papers</type>
+                <key>journals/corr/ZhouKLOT14</key>
+                <ee>http://arxiv.org/abs/1412.6856</ee>
+                <url>https://dblp.org/rec/journals/corr/ZhouKLOT14</url>
+            </info>
+            <url>URL#1272208</url>
+        </hit>
+        <hit score="1" id="1275367">
+            <info>
+                <authors>
+                    <author>Yoshua Bengio</author>
+                    <author>Yann LeCun</author>
+                </authors>
+                <title>3rd International Conference on Learning Representations, ICLR 2015, San Diego, CA, USA, May 7-9,
+                    2015, Conference Track Proceedings</title>
+                <venue>ICLR</venue>
+                <year>2015</year>
+                <type>Editorship</type>
+                <key>conf/iclr/2015</key>
+                <ee>https://iclr.cc/archive/www/doku.php%3Fid=iclr2015:accepted-main.html</ee>
+                <url>https://dblp.org/rec/conf/iclr/2015</url>
+            </info>
+            <url>URL#1275367</url>
+        </hit>
+    </hits>
+</result>

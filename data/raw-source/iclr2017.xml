@@ -1,0 +1,3603 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+    <query id="82210">:facetid:toc:db\"/\"conf\"/\"iclr\"/\"iclr2017\".\"bht</query>
+    <status code="200">OK</status>
+    <time unit="msecs">126.49</time>
+    <completions total="1" computed="1" sent="1">
+        <c sc="199" dc="199" oc="199" id="14545012">:facetid:toc:db/conf/iclr/iclr2017.bht</c>
+    </completions>
+    <hits total="199" computed="199" sent="199" first="0">
+        <hit score="1" id="602427">
+            <info>
+                <authors>
+                    <author>Thomas Laurent 0001</author>
+                    <author>James von Brecht</author>
+                </authors>
+                <title>A recurrent neural network without chaos.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/0001B17</key>
+                <ee>https://openreview.net/forum?id=S1dIzvclg</ee>
+                <url>https://dblp.org/rec/conf/iclr/0001B17</url>
+            </info>
+            <url>URL#602427</url>
+        </hit>
+        <hit score="1" id="602428">
+            <info>
+                <authors>
+                    <author>Ziyu Wang 0001</author>
+                    <author>Victor Bapst</author>
+                    <author>Nicolas Heess</author>
+                    <author>Volodymyr Mnih</author>
+                    <author>Rémi Munos</author>
+                    <author>Koray Kavukcuoglu</author>
+                    <author>Nando de Freitas</author>
+                </authors>
+                <title>Sample Efficient Actor-Critic with Experience Replay.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/0001BHMMKF17</key>
+                <ee>https://openreview.net/forum?id=HyM25Mqel</ee>
+                <url>https://dblp.org/rec/conf/iclr/0001BHMMKF17</url>
+            </info>
+            <url>URL#602428</url>
+        </hit>
+        <hit score="1" id="602430">
+            <info>
+                <authors>
+                    <author>James Bradbury 0002</author>
+                    <author>Stephen Merity</author>
+                    <author>Caiming Xiong</author>
+                    <author>Richard Socher</author>
+                </authors>
+                <title>Quasi-Recurrent Neural Networks.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/0002MXS17</key>
+                <ee>https://openreview.net/forum?id=H1zJ-v5xl</ee>
+                <url>https://dblp.org/rec/conf/iclr/0002MXS17</url>
+            </info>
+            <url>URL#602430</url>
+        </hit>
+        <hit score="1" id="602431">
+            <info>
+                <authors>
+                    <author>Michael Chang 0003</author>
+                    <author>Tomer Ullman</author>
+                    <author>Antonio Torralba 0001</author>
+                    <author>Joshua B. Tenenbaum</author>
+                </authors>
+                <title>A Compositional Object-Based Approach to Learning Physical Dynamics.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/0003U0T17</key>
+                <ee>https://openreview.net/forum?id=Bkab5dqxe</ee>
+                <url>https://dblp.org/rec/conf/iclr/0003U0T17</url>
+            </info>
+            <url>URL#602431</url>
+        </hit>
+        <hit score="1" id="602432">
+            <info>
+                <authors>
+                    <author>Abhishek Gupta 0004</author>
+                    <author>Coline Devin</author>
+                    <author>Yuxuan Liu</author>
+                    <author>Pieter Abbeel</author>
+                    <author>Sergey Levine</author>
+                </authors>
+                <title>Learning Invariant Feature Spaces to Transfer Skills with Reinforcement Learning.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/0004DLAL17</key>
+                <ee>https://openreview.net/forum?id=Hyq4yhile</ee>
+                <url>https://dblp.org/rec/conf/iclr/0004DLAL17</url>
+            </info>
+            <url>URL#602432</url>
+        </hit>
+        <hit score="1" id="602434">
+            <info>
+                <authors>
+                    <author>Hao Li 0022</author>
+                    <author>Asim Kadav</author>
+                    <author>Igor Durdanovic</author>
+                    <author>Hanan Samet</author>
+                    <author>Hans Peter Graf</author>
+                </authors>
+                <title>Pruning Filters for Efficient ConvNets.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/0022KDSG17</key>
+                <ee>https://openreview.net/forum?id=rJqFGTslg</ee>
+                <url>https://dblp.org/rec/conf/iclr/0022KDSG17</url>
+            </info>
+            <url>URL#602434</url>
+        </hit>
+        <hit score="1" id="602435">
+            <info>
+                <authors>
+                    <author>Xi Chen 0022</author>
+                    <author>Diederik P. Kingma</author>
+                    <author>Tim Salimans</author>
+                    <author>Yan Duan</author>
+                    <author>Prafulla Dhariwal</author>
+                    <author>John Schulman</author>
+                    <author>Ilya Sutskever</author>
+                    <author>Pieter Abbeel</author>
+                </authors>
+                <title>Variational Lossy Autoencoder.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/0022KSDDSSA17</key>
+                <ee>https://openreview.net/forum?id=BysvGP5ee</ee>
+                <url>https://dblp.org/rec/conf/iclr/0022KSDDSSA17</url>
+            </info>
+            <url>URL#602435</url>
+        </hit>
+        <hit score="1" id="602437">
+            <info>
+                <authors>
+                    <author>Yossi Adi</author>
+                    <author>Einat Kermany</author>
+                    <author>Yonatan Belinkov</author>
+                    <author>Ofer Lavi</author>
+                    <author>Yoav Goldberg</author>
+                </authors>
+                <title>Fine-grained Analysis of Sentence Embeddings Using Auxiliary Prediction Tasks.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/AdiKBLG17</key>
+                <ee>https://openreview.net/forum?id=BJh6Ztuxl</ee>
+                <url>https://dblp.org/rec/conf/iclr/AdiKBLG17</url>
+            </info>
+            <url>URL#602437</url>
+        </hit>
+        <hit score="1" id="602442">
+            <info>
+                <authors>
+                    <author>Alexander A. Alemi</author>
+                    <author>Ian Fischer</author>
+                    <author>Joshua V. Dillon</author>
+                    <author>Kevin Murphy 0002</author>
+                </authors>
+                <title>Deep Variational Information Bottleneck.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/AlemiFD017</key>
+                <ee>https://openreview.net/forum?id=HyxQzBceg</ee>
+                <url>https://dblp.org/rec/conf/iclr/AlemiFD017</url>
+            </info>
+            <url>URL#602442</url>
+        </hit>
+        <hit score="1" id="602443">
+            <info>
+                <authors>
+                    <author>David Alvarez-Melis</author>
+                    <author>Tommi S. Jaakkola</author>
+                </authors>
+                <title>Tree-structured decoding with doubly-recurrent neural networks.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/Alvarez-MelisJ17</key>
+                <ee>https://openreview.net/forum?id=HkYhZDqxg</ee>
+                <url>https://dblp.org/rec/conf/iclr/Alvarez-MelisJ17</url>
+            </info>
+            <url>URL#602443</url>
+        </hit>
+        <hit score="1" id="602445">
+            <info>
+                <authors>
+                    <author>Arash Ardakani</author>
+                    <author>Carlo Condo</author>
+                    <author>Warren J. Gross</author>
+                </authors>
+                <title>Sparsely-Connected Neural Networks - Towards Efficient VLSI Implementation of Deep Neural
+                    Networks.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/ArdakaniCG17</key>
+                <ee>https://openreview.net/forum?id=r1fYuytex</ee>
+                <url>https://dblp.org/rec/conf/iclr/ArdakaniCG17</url>
+            </info>
+            <url>URL#602445</url>
+        </hit>
+        <hit score="1" id="602446">
+            <info>
+                <authors>
+                    <author>Martín Arjovsky</author>
+                    <author>Léon Bottou</author>
+                </authors>
+                <title>Towards Principled Methods for Training Generative Adversarial Networks.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/ArjovskyB17</key>
+                <ee>https://openreview.net/forum?id=Hk4_qw5xe</ee>
+                <url>https://dblp.org/rec/conf/iclr/ArjovskyB17</url>
+            </info>
+            <url>URL#602446</url>
+        </hit>
+        <hit score="1" id="602448">
+            <info>
+                <authors>
+                    <author>Sanjeev Arora</author>
+                    <author>Yingyu Liang</author>
+                    <author>Tengyu Ma</author>
+                </authors>
+                <title>A Simple but Tough-to-Beat Baseline for Sentence Embeddings.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/AroraLM17</key>
+                <ee>https://openreview.net/forum?id=SyK00v5xx</ee>
+                <url>https://dblp.org/rec/conf/iclr/AroraLM17</url>
+            </info>
+            <url>URL#602448</url>
+        </hit>
+        <hit score="1" id="602449">
+            <info>
+                <authors>
+                    <author>Jimmy Ba</author>
+                    <author>Roger Grosse</author>
+                    <author>James Martens</author>
+                </authors>
+                <title>Distributed Second-Order Optimization using Kronecker-Factored Approximations.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/BaGM17</key>
+                <ee>https://openreview.net/forum?id=SkkTMpjex</ee>
+                <url>https://dblp.org/rec/conf/iclr/BaGM17</url>
+            </info>
+            <url>URL#602449</url>
+        </hit>
+        <hit score="1" id="602450">
+            <info>
+                <authors>
+                    <author>Mohammad Babaeizadeh</author>
+                    <author>Iuri Frosio</author>
+                    <author>Stephen Tyree</author>
+                    <author>Jason Clemons</author>
+                    <author>Jan Kautz</author>
+                </authors>
+                <title>Reinforcement Learning through Asynchronous Advantage Actor-Critic on a GPU.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/BabaeizadehFTCK17</key>
+                <ee>https://openreview.net/forum?id=r1VGvBcxl</ee>
+                <url>https://dblp.org/rec/conf/iclr/BabaeizadehFTCK17</url>
+            </info>
+            <url>URL#602450</url>
+        </hit>
+        <hit score="1" id="602452">
+            <info>
+                <authors>
+                    <author>Dzmitry Bahdanau</author>
+                    <author>Philemon Brakel</author>
+                    <author>Kelvin Xu</author>
+                    <author>Anirudh Goyal</author>
+                    <author>Ryan Lowe</author>
+                    <author>Joelle Pineau</author>
+                    <author>Aaron C. Courville</author>
+                    <author>Yoshua Bengio</author>
+                </authors>
+                <title>An Actor-Critic Algorithm for Sequence Prediction.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/BahdanauBXGLPCB17</key>
+                <ee>https://openreview.net/forum?id=SJDaqqveg</ee>
+                <url>https://dblp.org/rec/conf/iclr/BahdanauBXGLPCB17</url>
+            </info>
+            <url>URL#602452</url>
+        </hit>
+        <hit score="1" id="602454">
+            <info>
+                <authors>
+                    <author>Jacek M. Bajor</author>
+                    <author>Thomas A. Lasko</author>
+                </authors>
+                <title>Predicting Medications from Diagnostic Codes with Recurrent Neural Networks.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/BajorL17</key>
+                <ee>https://openreview.net/forum?id=rJEgeXFex</ee>
+                <url>https://dblp.org/rec/conf/iclr/BajorL17</url>
+            </info>
+            <url>URL#602454</url>
+        </hit>
+        <hit score="1" id="602455">
+            <info>
+                <authors>
+                    <author>Bowen Baker</author>
+                    <author>Otkrist Gupta</author>
+                    <author>Nikhil Naik</author>
+                    <author>Ramesh Raskar</author>
+                </authors>
+                <title>Designing Neural Network Architectures using Reinforcement Learning.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/BakerGNR17</key>
+                <ee>https://openreview.net/forum?id=S1c2cvqee</ee>
+                <url>https://dblp.org/rec/conf/iclr/BakerGNR17</url>
+            </info>
+            <url>URL#602455</url>
+        </hit>
+        <hit score="1" id="602456">
+            <info>
+                <authors>
+                    <author>Johannes Ballé</author>
+                    <author>Valero Laparra</author>
+                    <author>Eero P. Simoncelli</author>
+                </authors>
+                <title>End-to-end Optimized Image Compression.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/BalleLS17</key>
+                <ee>https://openreview.net/forum?id=rJxdQ3jeg</ee>
+                <url>https://dblp.org/rec/conf/iclr/BalleLS17</url>
+            </info>
+            <url>URL#602456</url>
+        </hit>
+        <hit score="1" id="602457">
+            <info>
+                <authors>
+                    <author>Matej Balog</author>
+                    <author>Alexander L. Gaunt</author>
+                    <author>Marc Brockschmidt</author>
+                    <author>Sebastian Nowozin</author>
+                    <author>Daniel Tarlow</author>
+                </authors>
+                <title>DeepCoder - Learning to Write Programs.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/BalogGBNT17</key>
+                <ee>https://openreview.net/forum?id=ByldLrqlx</ee>
+                <url>https://dblp.org/rec/conf/iclr/BalogGBNT17</url>
+            </info>
+            <url>URL#602457</url>
+        </hit>
+        <hit score="1" id="602458">
+            <info>
+                <authors>
+                    <author>Akshay Balsubramani</author>
+                </authors>
+                <title>Optimal Binary Autoencoding with Pairwise Correlations.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/Balsubramani17</key>
+                <ee>https://openreview.net/forum?id=ryelgY5eg</ee>
+                <url>https://dblp.org/rec/conf/iclr/Balsubramani17</url>
+            </info>
+            <url>URL#602458</url>
+        </hit>
+        <hit score="1" id="602461">
+            <info>
+                <authors>
+                    <author>Ronen Basri</author>
+                    <author>David W. Jacobs</author>
+                </authors>
+                <title>Efficient Representation of Low-Dimensional Manifolds using Deep Networks.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/BasriJ17</key>
+                <ee>https://openreview.net/forum?id=BJ3filKll</ee>
+                <url>https://dblp.org/rec/conf/iclr/BasriJ17</url>
+            </info>
+            <url>URL#602461</url>
+        </hit>
+        <hit score="1" id="602462">
+            <info>
+                <authors>
+                    <author>Eleanor Batty</author>
+                    <author>Josh Merel</author>
+                    <author>Nora Brackbill</author>
+                    <author>Alexander Heitman</author>
+                    <author>Alexander Sher</author>
+                    <author>Alan M. Litke</author>
+                    <author>E. J. Chichilnisky</author>
+                    <author>Liam Paninski</author>
+                </authors>
+                <title>Multilayer Recurrent Network Models of Primate Retinal Ganglion Cell Responses.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/BattyMBHSLCP17</key>
+                <ee>https://openreview.net/forum?id=HkEI22jeg</ee>
+                <url>https://dblp.org/rec/conf/iclr/BattyMBHSLCP17</url>
+            </info>
+            <url>URL#602462</url>
+        </hit>
+        <hit score="1" id="602463">
+            <info>
+                <authors>
+                    <author>Loris Bazzani</author>
+                    <author>Hugo Larochelle</author>
+                    <author>Lorenzo Torresani</author>
+                </authors>
+                <title>Recurrent Mixture Density Network for Spatiotemporal Visual Attention.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/BazzaniLT17</key>
+                <ee>https://openreview.net/forum?id=SJRpRfKxx</ee>
+                <url>https://dblp.org/rec/conf/iclr/BazzaniLT17</url>
+            </info>
+            <url>URL#602463</url>
+        </hit>
+        <hit score="1" id="602467">
+            <info>
+                <authors>
+                    <author>Guillaume Berger</author>
+                    <author>Roland Memisevic</author>
+                </authors>
+                <title>Incorporating long-range consistency in CNN-based texture generation.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/BergerM17</key>
+                <ee>https://openreview.net/forum?id=HyGTuv9eg</ee>
+                <url>https://dblp.org/rec/conf/iclr/BergerM17</url>
+            </info>
+            <url>URL#602467</url>
+        </hit>
+        <hit score="1" id="602468">
+            <info>
+                <authors>
+                    <author>Leonard Berrada</author>
+                    <author>Andrew Zisserman</author>
+                    <author>M. Pawan Kumar</author>
+                </authors>
+                <title>Trusting SVM for Piecewise Linear CNNs.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/BerradaZK17</key>
+                <ee>https://openreview.net/forum?id=By5e2L9gl</ee>
+                <url>https://dblp.org/rec/conf/iclr/BerradaZK17</url>
+            </info>
+            <url>URL#602468</url>
+        </hit>
+        <hit score="1" id="602470">
+            <info>
+                <authors>
+                    <author>Pavol Bielik</author>
+                    <author>Veselin Raychev</author>
+                    <author>Martin T. Vechev</author>
+                </authors>
+                <title>Program Synthesis for Character Level Language Modeling.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/BielikRV17</key>
+                <ee>https://openreview.net/forum?id=ry_sjFqgx</ee>
+                <url>https://dblp.org/rec/conf/iclr/BielikRV17</url>
+            </info>
+            <url>URL#602470</url>
+        </hit>
+        <hit score="1" id="602472">
+            <info>
+                <authors>
+                    <author>Antoine Bordes</author>
+                    <author>Y.-Lan Boureau</author>
+                    <author>Jason Weston</author>
+                </authors>
+                <title>Learning End-to-End Goal-Oriented Dialog.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/BordesBW17</key>
+                <ee>https://openreview.net/forum?id=S1Bb3D5gg</ee>
+                <url>https://dblp.org/rec/conf/iclr/BordesBW17</url>
+            </info>
+            <url>URL#602472</url>
+        </hit>
+        <hit score="1" id="602473">
+            <info>
+                <authors>
+                    <author>Florian Bordes</author>
+                    <author>Sina Honari</author>
+                    <author>Pascal Vincent</author>
+                </authors>
+                <title>Learning to Generate Samples from Noise through Infusion Training.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/BordesHV17</key>
+                <ee>https://openreview.net/forum?id=BJAFbaolg</ee>
+                <url>https://dblp.org/rec/conf/iclr/BordesHV17</url>
+            </info>
+            <url>URL#602473</url>
+        </hit>
+        <hit score="1" id="602475">
+            <info>
+                <authors>
+                    <author>Andrew Brock</author>
+                    <author>Theodore Lim</author>
+                    <author>James M. Ritchie</author>
+                    <author>Nick Weston</author>
+                </authors>
+                <title>Neural Photo Editing with Introspective Adversarial Networks.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/BrockLRW17</key>
+                <ee>https://openreview.net/forum?id=HkNKFiGex</ee>
+                <url>https://dblp.org/rec/conf/iclr/BrockLRW17</url>
+            </info>
+            <url>URL#602475</url>
+        </hit>
+        <hit score="1" id="602476">
+            <info>
+                <authors>
+                    <author>Rudy Bunel</author>
+                    <author>Alban Desmaison</author>
+                    <author>M. Pawan Kumar</author>
+                    <author>Philip H. S. Torr</author>
+                    <author>Pushmeet Kohli</author>
+                </authors>
+                <title>Learning to superoptimize programs.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/BunelDKTK17</key>
+                <ee>https://openreview.net/forum?id=r1rz6U5lg</ee>
+                <url>https://dblp.org/rec/conf/iclr/BunelDKTK17</url>
+            </info>
+            <url>URL#602476</url>
+        </hit>
+        <hit score="1" id="602477">
+            <info>
+                <authors>
+                    <author>Jonathon Cai</author>
+                    <author>Richard Shin</author>
+                    <author>Dawn Song</author>
+                </authors>
+                <title>Making Neural Programming Architectures Generalize via Recursion.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/CaiSS17</key>
+                <ee>https://openreview.net/forum?id=BkbY4psgg</ee>
+                <url>https://dblp.org/rec/conf/iclr/CaiSS17</url>
+            </info>
+            <url>URL#602477</url>
+        </hit>
+        <hit score="1" id="602479">
+            <info>
+                <authors>
+                    <author>William Chan</author>
+                    <author>Yu Zhang</author>
+                    <author>Quoc V. Le</author>
+                    <author>Navdeep Jaitly</author>
+                </authors>
+                <title>Latent Sequence Decompositions.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/ChanZLJ17</key>
+                <ee>https://openreview.net/forum?id=SyQq185lg</ee>
+                <url>https://dblp.org/rec/conf/iclr/ChanZLJ17</url>
+            </info>
+            <url>URL#602479</url>
+        </hit>
+        <hit score="1" id="602480">
+            <info>
+                <authors>
+                    <author>Pratik Chaudhari</author>
+                    <author>Anna Choromanska</author>
+                    <author>Stefano Soatto</author>
+                    <author>Yann LeCun</author>
+                    <author>Carlo Baldassi</author>
+                    <author>Christian Borgs</author>
+                    <author>Jennifer T. Chayes</author>
+                    <author>Levent Sagun</author>
+                    <author>Riccardo Zecchina</author>
+                </authors>
+                <title>Entropy-SGD - Biasing Gradient Descent Into Wide Valleys.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/ChaudhariCSLBBC17</key>
+                <ee>https://openreview.net/forum?id=B1YfAfcgl</ee>
+                <url>https://dblp.org/rec/conf/iclr/ChaudhariCSLBBC17</url>
+            </info>
+            <url>URL#602480</url>
+        </hit>
+        <hit score="1" id="602481">
+            <info>
+                <authors>
+                    <author>Tong Che</author>
+                    <author>Yanran Li</author>
+                    <author>Athul Paul Jacob</author>
+                    <author>Yoshua Bengio</author>
+                    <author>Wenjie Li</author>
+                </authors>
+                <title>Mode Regularized Generative Adversarial Networks.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/CheLJBL17</key>
+                <ee>https://openreview.net/forum?id=HJKkY35le</ee>
+                <url>https://dblp.org/rec/conf/iclr/CheLJBL17</url>
+            </info>
+            <url>URL#602481</url>
+        </hit>
+        <hit score="1" id="602482">
+            <info>
+                <authors>
+                    <author>Minmin Chen</author>
+                </authors>
+                <title>Efficient Vector Representation for Documents through Corruption.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/Chen17</key>
+                <ee>https://openreview.net/forum?id=B1Igu2ogg</ee>
+                <url>https://dblp.org/rec/conf/iclr/Chen17</url>
+            </info>
+            <url>URL#602482</url>
+        </hit>
+        <hit score="1" id="602485">
+            <info>
+                <authors>
+                    <author>Brian Cheung</author>
+                    <author>Eric Weiss</author>
+                    <author>Bruno A. Olshausen</author>
+                </authors>
+                <title>Emergence of foveal image sampling from learning to attend in visual scenes.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/CheungWO17</key>
+                <ee>https://openreview.net/forum?id=SJJKxrsgl</ee>
+                <url>https://dblp.org/rec/conf/iclr/CheungWO17</url>
+            </info>
+            <url>URL#602485</url>
+        </hit>
+        <hit score="1" id="602486">
+            <info>
+                <authors>
+                    <author>Silvia Chiappa</author>
+                    <author>Sébastien Racanière</author>
+                    <author>Daan Wierstra</author>
+                    <author>Shakir Mohamed</author>
+                </authors>
+                <title>Recurrent Environment Simulators.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/ChiappaRWM17</key>
+                <ee>https://openreview.net/forum?id=B1s6xvqlx</ee>
+                <url>https://dblp.org/rec/conf/iclr/ChiappaRWM17</url>
+            </info>
+            <url>URL#602486</url>
+        </hit>
+        <hit score="1" id="602488">
+            <info>
+                <authors>
+                    <author>Yoojin Choi</author>
+                    <author>Mostafa El-Khamy</author>
+                    <author>Jungwon Lee</author>
+                </authors>
+                <title>Towards the Limit of Network Quantization.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/ChoiEL17</key>
+                <ee>https://openreview.net/forum?id=rJ8uNptgl</ee>
+                <url>https://dblp.org/rec/conf/iclr/ChoiEL17</url>
+            </info>
+            <url>URL#602488</url>
+        </hit>
+        <hit score="1" id="602490">
+            <info>
+                <authors>
+                    <author>Junyoung Chung</author>
+                    <author>Sungjin Ahn</author>
+                    <author>Yoshua Bengio</author>
+                </authors>
+                <title>Hierarchical Multiscale Recurrent Neural Networks.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/ChungAB17</key>
+                <ee>https://openreview.net/forum?id=S1di0sfgl</ee>
+                <url>https://dblp.org/rec/conf/iclr/ChungAB17</url>
+            </info>
+            <url>URL#602490</url>
+        </hit>
+        <hit score="1" id="602491">
+            <info>
+                <authors>
+                    <author>Nadav Cohen</author>
+                    <author>Amnon Shashua</author>
+                </authors>
+                <title>Inductive Bias of Deep Convolutional Networks through Pooling Geometry.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/CohenS17</key>
+                <ee>https://openreview.net/forum?id=BkVsEMYel</ee>
+                <url>https://dblp.org/rec/conf/iclr/CohenS17</url>
+            </info>
+            <url>URL#602491</url>
+        </hit>
+        <hit score="1" id="602492">
+            <info>
+                <authors>
+                    <author>Taco S. Cohen</author>
+                    <author>Max Welling</author>
+                </authors>
+                <title>Steerable CNNs.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/CohenW17</key>
+                <ee>https://openreview.net/forum?id=rJQKYt5ll</ee>
+                <url>https://dblp.org/rec/conf/iclr/CohenW17</url>
+            </info>
+            <url>URL#602492</url>
+        </hit>
+        <hit score="1" id="602493">
+            <info>
+                <authors>
+                    <author>Jasmine Collins</author>
+                    <author>Jascha Sohl-Dickstein</author>
+                    <author>David Sussillo</author>
+                </authors>
+                <title>Capacity and Trainability in Recurrent Neural Networks.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/CollinsSS17</key>
+                <ee>https://openreview.net/forum?id=BydARw9ex</ee>
+                <url>https://dblp.org/rec/conf/iclr/CollinsSS17</url>
+            </info>
+            <url>URL#602493</url>
+        </hit>
+        <hit score="1" id="602494">
+            <info>
+                <authors>
+                    <author>Tim Cooijmans</author>
+                    <author>Nicolas Ballas</author>
+                    <author>César Laurent</author>
+                    <author>Çaglar Gülçehre</author>
+                    <author>Aaron C. Courville</author>
+                </authors>
+                <title>Recurrent Batch Normalization.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/CooijmansBLGC17</key>
+                <ee>https://openreview.net/forum?id=r1VdcHcxx</ee>
+                <url>https://dblp.org/rec/conf/iclr/CooijmansBLGC17</url>
+            </info>
+            <url>URL#602494</url>
+        </hit>
+        <hit score="1" id="602496">
+            <info>
+                <authors>
+                    <author>Zihang Dai</author>
+                    <author>Amjad Almahairi</author>
+                    <author>Philip Bachman</author>
+                    <author>Eduard H. Hovy</author>
+                    <author>Aaron C. Courville</author>
+                </authors>
+                <title>Calibrating Energy-based Generative Adversarial Networks.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/DaiABHC17</key>
+                <ee>https://openreview.net/forum?id=SyxeqhP9ll</ee>
+                <url>https://dblp.org/rec/conf/iclr/DaiABHC17</url>
+            </info>
+            <url>URL#602496</url>
+        </hit>
+        <hit score="1" id="602497">
+            <info>
+                <authors>
+                    <author>Hanjun Dai</author>
+                    <author>Bo Dai</author>
+                    <author>Yan-Ming Zhang</author>
+                    <author>Shuang Li 0002</author>
+                    <author>Le Song</author>
+                </authors>
+                <title>Recurrent Hidden Semi-Markov Model.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/DaiDZLS17</key>
+                <ee>https://openreview.net/forum?id=HJGODLqgx</ee>
+                <url>https://dblp.org/rec/conf/iclr/DaiDZLS17</url>
+            </info>
+            <url>URL#602497</url>
+        </hit>
+        <hit score="1" id="602499">
+            <info>
+                <authors>
+                    <author>Michal Daniluk</author>
+                    <author>Tim Rocktäschel</author>
+                    <author>Johannes Welbl</author>
+                    <author>Sebastian Riedel 0001</author>
+                </authors>
+                <title>Frustratingly Short Attention Spans in Neural Language Modeling.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/DanilukRW017</key>
+                <ee>https://openreview.net/forum?id=ByIAPUcee</ee>
+                <url>https://dblp.org/rec/conf/iclr/DanilukRW017</url>
+            </info>
+            <url>URL#602499</url>
+        </hit>
+        <hit score="1" id="602502">
+            <info>
+                <authors>
+                    <author>Misha Denil</author>
+                    <author>Pulkit Agrawal</author>
+                    <author>Tejas D. Kulkarni</author>
+                    <author>Tom Erez</author>
+                    <author>Peter Battaglia</author>
+                    <author>Nando de Freitas</author>
+                </authors>
+                <title>Learning to Perform Physics Experiments via Deep Reinforcement Learning.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/DenilAKEBF17</key>
+                <ee>https://openreview.net/forum?id=r1nTpv9eg</ee>
+                <url>https://dblp.org/rec/conf/iclr/DenilAKEBF17</url>
+            </info>
+            <url>URL#602502</url>
+        </hit>
+        <hit score="1" id="602503">
+            <info>
+                <authors>
+                    <author>Stefan Depeweg</author>
+                    <author>José Miguel Hernández-Lobato</author>
+                    <author>Finale Doshi-Velez</author>
+                    <author>Steffen Udluft</author>
+                </authors>
+                <title>Learning and Policy Search in Stochastic Dynamical Systems with Bayesian Neural Networks.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/DepewegHDU17</key>
+                <ee>https://openreview.net/forum?id=H1fl8S9ee</ee>
+                <url>https://dblp.org/rec/conf/iclr/DepewegHDU17</url>
+            </info>
+            <url>URL#602503</url>
+        </hit>
+        <hit score="1" id="602504">
+            <info>
+                <authors>
+                    <author>Adji B. Dieng</author>
+                    <author>Chong Wang 0002</author>
+                    <author>Jianfeng Gao</author>
+                    <author>John W. Paisley</author>
+                </authors>
+                <title>TopicRNN - A Recurrent Neural Network with Long-Range Semantic Dependency.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/Dieng0GP17</key>
+                <ee>https://openreview.net/forum?id=rJbbOLcex</ee>
+                <url>https://dblp.org/rec/conf/iclr/Dieng0GP17</url>
+            </info>
+            <url>URL#602504</url>
+        </hit>
+        <hit score="1" id="602505">
+            <info>
+                <authors>
+                    <author>Laurent Dinh</author>
+                    <author>Jascha Sohl-Dickstein</author>
+                    <author>Samy Bengio</author>
+                </authors>
+                <title>Density estimation using Real NVP.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/DinhSB17</key>
+                <ee>https://openreview.net/forum?id=HkpbnH9lx</ee>
+                <url>https://dblp.org/rec/conf/iclr/DinhSB17</url>
+            </info>
+            <url>URL#602505</url>
+        </hit>
+        <hit score="1" id="602506">
+            <info>
+                <authors>
+                    <author>Jeff Donahue</author>
+                    <author>Philipp Krähenbühl</author>
+                    <author>Trevor Darrell</author>
+                </authors>
+                <title>Adversarial Feature Learning.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/DonahueKD17</key>
+                <ee>https://openreview.net/forum?id=BJtNZAFgg</ee>
+                <url>https://dblp.org/rec/conf/iclr/DonahueKD17</url>
+            </info>
+            <url>URL#602506</url>
+        </hit>
+        <hit score="1" id="602508">
+            <info>
+                <authors>
+                    <author>Alexey Dosovitskiy</author>
+                    <author>Vladlen Koltun</author>
+                </authors>
+                <title>Learning to Act by Predicting the Future.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/DosovitskiyK17</key>
+                <ee>https://openreview.net/forum?id=rJLS7qKel</ee>
+                <url>https://dblp.org/rec/conf/iclr/DosovitskiyK17</url>
+            </info>
+            <url>URL#602508</url>
+        </hit>
+        <hit score="1" id="602509">
+            <info>
+                <authors>
+                    <author>Timothy Dozat</author>
+                    <author>Christopher D. Manning</author>
+                </authors>
+                <title>Deep Biaffine Attention for Neural Dependency Parsing.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/DozatM17</key>
+                <ee>https://openreview.net/forum?id=Hk95PK9le</ee>
+                <url>https://dblp.org/rec/conf/iclr/DozatM17</url>
+            </info>
+            <url>URL#602509</url>
+        </hit>
+        <hit score="1" id="602511">
+            <info>
+                <authors>
+                    <author>Vincent Dumoulin</author>
+                    <author>Ishmael Belghazi</author>
+                    <author>Ben Poole</author>
+                    <author>Alex Lamb</author>
+                    <author>Martín Arjovsky</author>
+                    <author>Olivier Mastropietro</author>
+                    <author>Aaron C. Courville</author>
+                </authors>
+                <title>Adversarially Learned Inference.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/DumoulinBPLAMC17</key>
+                <ee>https://openreview.net/forum?id=B1ElR4cgg</ee>
+                <url>https://dblp.org/rec/conf/iclr/DumoulinBPLAMC17</url>
+            </info>
+            <url>URL#602511</url>
+        </hit>
+        <hit score="1" id="602512">
+            <info>
+                <authors>
+                    <author>Vincent Dumoulin</author>
+                    <author>Jonathon Shlens</author>
+                    <author>Manjunath Kudlur</author>
+                </authors>
+                <title>A Learned Representation For Artistic Style.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/DumoulinSK17</key>
+                <ee>https://openreview.net/forum?id=BJO-BuT1g</ee>
+                <url>https://dblp.org/rec/conf/iclr/DumoulinSK17</url>
+            </info>
+            <url>URL#602512</url>
+        </hit>
+        <hit score="1" id="602513">
+            <info>
+                <authors>
+                    <author>Ishan P. Durugkar</author>
+                    <author>Ian Gemp</author>
+                    <author>Sridhar Mahadevan</author>
+                </authors>
+                <title>Generative Multi-Adversarial Networks.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/DurugkarGM17</key>
+                <ee>https://openreview.net/forum?id=Byk-VI9eg</ee>
+                <url>https://dblp.org/rec/conf/iclr/DurugkarGM17</url>
+            </info>
+            <url>URL#602513</url>
+        </hit>
+        <hit score="1" id="602514">
+            <info>
+                <authors>
+                    <author>Harrison Edwards</author>
+                    <author>Amos J. Storkey</author>
+                </authors>
+                <title>Towards a Neural Statistician.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/EdwardsS17</key>
+                <ee>https://openreview.net/forum?id=HJDBUF5le</ee>
+                <url>https://dblp.org/rec/conf/iclr/EdwardsS17</url>
+            </info>
+            <url>URL#602514</url>
+        </hit>
+        <hit score="1" id="602515">
+            <info>
+                <authors>
+                    <author>Eyrun Eyjolfsdottir</author>
+                    <author>Kristin Branson</author>
+                    <author>Yisong Yue</author>
+                    <author>Pietro Perona</author>
+                </authors>
+                <title>Learning Recurrent Representations for Hierarchical Behavior Modeling.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/EyjolfsdottirBY17</key>
+                <ee>https://openreview.net/forum?id=BkLhzHtlg</ee>
+                <url>https://dblp.org/rec/conf/iclr/EyjolfsdottirBY17</url>
+            </info>
+            <url>URL#602515</url>
+        </hit>
+        <hit score="1" id="602517">
+            <info>
+                <authors>
+                    <author>Chelsea Finn</author>
+                    <author>Tianhe Yu</author>
+                    <author>Justin Fu</author>
+                    <author>Pieter Abbeel</author>
+                    <author>Sergey Levine</author>
+                </authors>
+                <title>Generalizing Skills with Semi-Supervised Reinforcement Learning.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/FinnYFAL17</key>
+                <ee>https://openreview.net/forum?id=ryHlUtqge</ee>
+                <url>https://dblp.org/rec/conf/iclr/FinnYFAL17</url>
+            </info>
+            <url>URL#602517</url>
+        </hit>
+        <hit score="1" id="602519">
+            <info>
+                <authors>
+                    <author>Carlos Florensa</author>
+                    <author>Yan Duan</author>
+                    <author>Pieter Abbeel</author>
+                </authors>
+                <title>Stochastic Neural Networks for Hierarchical Reinforcement Learning.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/FlorensaDA17</key>
+                <ee>https://openreview.net/forum?id=B1oK8aoxe</ee>
+                <url>https://dblp.org/rec/conf/iclr/FlorensaDA17</url>
+            </info>
+            <url>URL#602519</url>
+        </hit>
+        <hit score="1" id="602521">
+            <info>
+                <authors>
+                    <author>C. Daniel Freeman</author>
+                    <author>Joan Bruna</author>
+                </authors>
+                <title>Topology and Geometry of Half-Rectified Network Optimization.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/FreemanB17</key>
+                <ee>https://openreview.net/forum?id=Bk0FWVcgx</ee>
+                <url>https://dblp.org/rec/conf/iclr/FreemanB17</url>
+            </info>
+            <url>URL#602521</url>
+        </hit>
+        <hit score="1" id="602530">
+            <info>
+                <authors>
+                    <author>Jacob Goldberger</author>
+                    <author>Ehud Ben-Reuven</author>
+                </authors>
+                <title>Training deep neural-networks using a noise adaptation layer.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/GoldbergerB17</key>
+                <ee>https://openreview.net/forum?id=H12GRgcxg</ee>
+                <url>https://dblp.org/rec/conf/iclr/GoldbergerB17</url>
+            </info>
+            <url>URL#602530</url>
+        </hit>
+        <hit score="1" id="602531">
+            <info>
+                <authors>
+                    <author>Edouard Grave</author>
+                    <author>Armand Joulin</author>
+                    <author>Nicolas Usunier</author>
+                </authors>
+                <title>Improving Neural Language Models with a Continuous Cache.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/GraveJU17</key>
+                <ee>https://openreview.net/forum?id=B184E5qee</ee>
+                <url>https://dblp.org/rec/conf/iclr/GraveJU17</url>
+            </info>
+            <url>URL#602531</url>
+        </hit>
+        <hit score="1" id="602532">
+            <info>
+                <authors>
+                    <author>Klaus Greff</author>
+                    <author>Rupesh Kumar Srivastava</author>
+                    <author>Jürgen Schmidhuber</author>
+                </authors>
+                <title>Highway and Residual Networks learn Unrolled Iterative Estimation.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/GreffSS17</key>
+                <ee>https://openreview.net/forum?id=Skn9Shcxe</ee>
+                <url>https://dblp.org/rec/conf/iclr/GreffSS17</url>
+            </info>
+            <url>URL#602532</url>
+        </hit>
+        <hit score="1" id="602535">
+            <info>
+                <authors>
+                    <author>Shixiang Gu</author>
+                    <author>Timothy P. Lillicrap</author>
+                    <author>Zoubin Ghahramani</author>
+                    <author>Richard E. Turner</author>
+                    <author>Sergey Levine</author>
+                </authors>
+                <title>Q-Prop - Sample-Efficient Policy Gradient with An Off-Policy Critic.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/GuLGTL17</key>
+                <ee>https://openreview.net/forum?id=SJ3rcZcxl</ee>
+                <url>https://dblp.org/rec/conf/iclr/GuLGTL17</url>
+            </info>
+            <url>URL#602535</url>
+        </hit>
+        <hit score="1" id="602536">
+            <info>
+                <authors>
+                    <author>Çaglar Gülçehre</author>
+                    <author>Marcin Moczulski</author>
+                    <author>Francesco Visin</author>
+                    <author>Yoshua Bengio</author>
+                </authors>
+                <title>Mollifying Networks.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/GulcehreMVB17</key>
+                <ee>https://openreview.net/forum?id=r1G4z8cge</ee>
+                <url>https://dblp.org/rec/conf/iclr/GulcehreMVB17</url>
+            </info>
+            <url>URL#602536</url>
+        </hit>
+        <hit score="1" id="602537">
+            <info>
+                <authors>
+                    <author>Ishaan Gulrajani</author>
+                    <author>Kundan Kumar</author>
+                    <author>Faruk Ahmed</author>
+                    <author>Adrien Ali Taïga</author>
+                    <author>Francesco Visin</author>
+                    <author>David Vázquez</author>
+                    <author>Aaron C. Courville</author>
+                </authors>
+                <title>PixelVAE - A Latent Variable Model for Natural Images.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/GulrajaniKATVVC17</key>
+                <ee>https://openreview.net/forum?id=BJKYvt5lg</ee>
+                <url>https://dblp.org/rec/conf/iclr/GulrajaniKATVVC17</url>
+            </info>
+            <url>URL#602537</url>
+        </hit>
+        <hit score="1" id="602538">
+            <info>
+                <authors>
+                    <author>Xiaoxiao Guo</author>
+                    <author>Tim Klinger</author>
+                    <author>Clemens Rosenbaum</author>
+                    <author>Joseph P. Bigus</author>
+                    <author>Murray Campbell</author>
+                    <author>Ban Kawas</author>
+                    <author>Kartik Talamadupula</author>
+                    <author>Gerry Tesauro</author>
+                    <author>Satinder Singh</author>
+                </authors>
+                <title>Learning to Query, Reason, and Answer Questions On Ambiguous Texts.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/GuoKRBCKTTS17</key>
+                <ee>https://openreview.net/forum?id=rJ0-tY5xe</ee>
+                <url>https://dblp.org/rec/conf/iclr/GuoKRBCKTTS17</url>
+            </info>
+            <url>URL#602538</url>
+        </hit>
+        <hit score="1" id="602539">
+            <info>
+                <authors>
+                    <author>David Ha</author>
+                    <author>Andrew M. Dai</author>
+                    <author>Quoc V. Le</author>
+                </authors>
+                <title>HyperNetworks.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/HaDL17</key>
+                <ee>https://openreview.net/forum?id=rkpACe1lx</ee>
+                <url>https://dblp.org/rec/conf/iclr/HaDL17</url>
+            </info>
+            <url>URL#602539</url>
+        </hit>
+        <hit score="1" id="602540">
+            <info>
+                <authors>
+                    <author>Jessica B. Hamrick</author>
+                    <author>Andrew J. Ballard</author>
+                    <author>Razvan Pascanu</author>
+                    <author>Oriol Vinyals</author>
+                    <author>Nicolas Heess</author>
+                    <author>Peter W. Battaglia</author>
+                </authors>
+                <title>Metacontrol for Adaptive Imagination-Based Optimization.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/HamrickBPVHB17</key>
+                <ee>https://openreview.net/forum?id=Bk8BvDqex</ee>
+                <url>https://dblp.org/rec/conf/iclr/HamrickBPVHB17</url>
+            </info>
+            <url>URL#602540</url>
+        </hit>
+        <hit score="1" id="602541">
+            <info>
+                <authors>
+                    <author>Song Han</author>
+                    <author>Jeff Pool</author>
+                    <author>Sharan Narang</author>
+                    <author>Huizi Mao</author>
+                    <author>Enhao Gong</author>
+                    <author>Shijian Tang</author>
+                    <author>Erich Elsen</author>
+                    <author>Peter Vajda</author>
+                    <author>Manohar Paluri</author>
+                    <author>John Tran</author>
+                    <author>Bryan Catanzaro</author>
+                    <author>William J. Dally</author>
+                </authors>
+                <title>DSD - Dense-Sparse-Dense Training for Deep Neural Networks.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/HanPNMGTEVPTCD17</key>
+                <ee>https://openreview.net/forum?id=HyoST_9xl</ee>
+                <url>https://dblp.org/rec/conf/iclr/HanPNMGTEVPTCD17</url>
+            </info>
+            <url>URL#602541</url>
+        </hit>
+        <hit score="1" id="602542">
+            <info>
+                <authors>
+                    <author>Moritz Hardt</author>
+                    <author>Tengyu Ma</author>
+                </authors>
+                <title>Identity Matters in Deep Learning.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/HardtM17</key>
+                <ee>https://openreview.net/forum?id=ryxB0Rtxx</ee>
+                <url>https://dblp.org/rec/conf/iclr/HardtM17</url>
+            </info>
+            <url>URL#602542</url>
+        </hit>
+        <hit score="1" id="602544">
+            <info>
+                <authors>
+                    <author>Frank S. He</author>
+                    <author>Yang Liu 0097</author>
+                    <author>Alexander G. Schwing</author>
+                    <author>Jian Peng 0001</author>
+                </authors>
+                <title>Learning to Play in a Day - Faster Deep Reinforcement Learning by Optimality Tightening.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/He0S017</key>
+                <ee>https://openreview.net/forum?id=rJ8Je4clg</ee>
+                <url>https://dblp.org/rec/conf/iclr/He0S017</url>
+            </info>
+            <url>URL#602544</url>
+        </hit>
+        <hit score="1" id="602545">
+            <info>
+                <authors>
+                    <author>Wanjia He</author>
+                    <author>Weiran Wang</author>
+                    <author>Karen Livescu</author>
+                </authors>
+                <title>Multi-view Recurrent Neural Acoustic Word Embeddings.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/HeWL17</key>
+                <ee>https://openreview.net/forum?id=rJxDkvqee</ee>
+                <url>https://dblp.org/rec/conf/iclr/HeWL17</url>
+            </info>
+            <url>URL#602545</url>
+        </hit>
+        <hit score="1" id="602546">
+            <info>
+                <authors>
+                    <author>Mikael Henaff</author>
+                    <author>Jason Weston</author>
+                    <author>Arthur Szlam</author>
+                    <author>Antoine Bordes</author>
+                    <author>Yann LeCun</author>
+                </authors>
+                <title>Tracking the World State with Recurrent Entity Networks.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/HenaffWSBL17</key>
+                <ee>https://openreview.net/forum?id=rJTKKKqeg</ee>
+                <url>https://dblp.org/rec/conf/iclr/HenaffWSBL17</url>
+            </info>
+            <url>URL#602546</url>
+        </hit>
+        <hit score="1" id="602547">
+            <info>
+                <authors>
+                    <author>Dan Hendrycks</author>
+                    <author>Kevin Gimpel</author>
+                </authors>
+                <title>A Baseline for Detecting Misclassified and Out-of-Distribution Examples in Neural Networks.
+                </title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/HendrycksG17</key>
+                <ee>https://openreview.net/forum?id=Hkg4TI9xl</ee>
+                <url>https://dblp.org/rec/conf/iclr/HendrycksG17</url>
+            </info>
+            <url>URL#602547</url>
+        </hit>
+        <hit score="1" id="602550">
+            <info>
+                <authors>
+                    <author>Irina Higgins</author>
+                    <author>Loïc Matthey</author>
+                    <author>Arka Pal</author>
+                    <author>Christopher Burgess</author>
+                    <author>Xavier Glorot</author>
+                    <author>Matthew Botvinick</author>
+                    <author>Shakir Mohamed</author>
+                    <author>Alexander Lerchner</author>
+                </authors>
+                <title>beta-VAE - Learning Basic Visual Concepts with a Constrained Variational Framework.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/HigginsMPBGBML17</key>
+                <ee>https://openreview.net/forum?id=Sy2fzU9gl</ee>
+                <url>https://dblp.org/rec/conf/iclr/HigginsMPBGBML17</url>
+            </info>
+            <url>URL#602550</url>
+        </hit>
+        <hit score="1" id="602552">
+            <info>
+                <authors>
+                    <author>Lu Hou</author>
+                    <author>Quanming Yao</author>
+                    <author>James T. Kwok</author>
+                </authors>
+                <title>Loss-aware Binarization of Deep Networks.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/HouYK17</key>
+                <ee>https://openreview.net/forum?id=S1oWlN9ll</ee>
+                <url>https://dblp.org/rec/conf/iclr/HouYK17</url>
+            </info>
+            <url>URL#602552</url>
+        </hit>
+        <hit score="1" id="602555">
+            <info>
+                <authors>
+                    <author>Gao Huang</author>
+                    <author>Yixuan Li</author>
+                    <author>Geoff Pleiss</author>
+                    <author>Zhuang Liu 0003</author>
+                    <author>John E. Hopcroft</author>
+                    <author>Kilian Q. Weinberger</author>
+                </authors>
+                <title>Snapshot Ensembles - Train 1, Get M for Free.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/HuangLP0HW17</key>
+                <ee>https://openreview.net/forum?id=BJYwwY9ll</ee>
+                <url>https://dblp.org/rec/conf/iclr/HuangLP0HW17</url>
+            </info>
+            <url>URL#602555</url>
+        </hit>
+        <hit score="1" id="602557">
+            <info>
+                <authors>
+                    <author>Wentao Huang</author>
+                    <author>Kechen Zhang</author>
+                </authors>
+                <title>An Information-Theoretic Framework for Fast and Robust Unsupervised Learning via Neural
+                    Population Infomax.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/HuangZ17</key>
+                <ee>https://openreview.net/forum?id=SkYbF1slg</ee>
+                <url>https://dblp.org/rec/conf/iclr/HuangZ17</url>
+            </info>
+            <url>URL#602557</url>
+        </hit>
+        <hit score="1" id="602558">
+            <info>
+                <authors>
+                    <author>Hakan Inan</author>
+                    <author>Khashayar Khosravi</author>
+                    <author>Richard Socher</author>
+                </authors>
+                <title>Tying Word Vectors and Word Classifiers - A Loss Framework for Language Modeling.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/InanKS17</key>
+                <ee>https://openreview.net/forum?id=r1aPbsFle</ee>
+                <url>https://dblp.org/rec/conf/iclr/InanKS17</url>
+            </info>
+            <url>URL#602558</url>
+        </hit>
+        <hit score="1" id="602559">
+            <info>
+                <authors>
+                    <author>Max Jaderberg</author>
+                    <author>Volodymyr Mnih</author>
+                    <author>Wojciech Marian Czarnecki</author>
+                    <author>Tom Schaul</author>
+                    <author>Joel Z. Leibo</author>
+                    <author>David Silver</author>
+                    <author>Koray Kavukcuoglu</author>
+                </authors>
+                <title>Reinforcement Learning with Unsupervised Auxiliary Tasks.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/JaderbergMCSLSK17</key>
+                <ee>https://openreview.net/forum?id=SJ6yPD5xg</ee>
+                <url>https://dblp.org/rec/conf/iclr/JaderbergMCSLSK17</url>
+            </info>
+            <url>URL#602559</url>
+        </hit>
+        <hit score="1" id="602560">
+            <info>
+                <authors>
+                    <author>Priyank Jaini</author>
+                    <author>Zhitang Chen</author>
+                    <author>Pablo Carbajal</author>
+                    <author>Edith Law</author>
+                    <author>Laura Middleton</author>
+                    <author>Kayla Regan</author>
+                    <author>Mike Schaekermann</author>
+                    <author>George Trimponias</author>
+                    <author>James Tung</author>
+                    <author>Pascal Poupart</author>
+                </authors>
+                <title>Online Bayesian Transfer Learning for Sequential Data Modeling.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/JainiCCLMRSTTP17</key>
+                <ee>https://openreview.net/forum?id=ByqiJIqxg</ee>
+                <url>https://dblp.org/rec/conf/iclr/JainiCCLMRSTTP17</url>
+            </info>
+            <url>URL#602560</url>
+        </hit>
+        <hit score="1" id="602561">
+            <info>
+                <authors>
+                    <author>Eric Jang</author>
+                    <author>Shixiang Gu</author>
+                    <author>Ben Poole</author>
+                </authors>
+                <title>Categorical Reparameterization with Gumbel-Softmax.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/JangGP17</key>
+                <ee>https://openreview.net/forum?id=rkE3y85ee</ee>
+                <url>https://dblp.org/rec/conf/iclr/JangGP17</url>
+            </info>
+            <url>URL#602561</url>
+        </hit>
+        <hit score="1" id="602563">
+            <info>
+                <authors>
+                    <author>Yacine Jernite</author>
+                    <author>Edouard Grave</author>
+                    <author>Armand Joulin</author>
+                    <author>Tomas Mikolov</author>
+                </authors>
+                <title>Variable Computation in Recurrent Neural Networks.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/JerniteGJM17</key>
+                <ee>https://openreview.net/forum?id=S1LVSrcge</ee>
+                <url>https://dblp.org/rec/conf/iclr/JerniteGJM17</url>
+            </info>
+            <url>URL#602563</url>
+        </hit>
+        <hit score="1" id="602564">
+            <info>
+                <authors>
+                    <author>Daniel D. Johnson</author>
+                </authors>
+                <title>Learning Graphical State Transitions.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/Johnson17</key>
+                <ee>https://openreview.net/forum?id=HJ0NvFzxl</ee>
+                <url>https://dblp.org/rec/conf/iclr/Johnson17</url>
+            </info>
+            <url>URL#602564</url>
+        </hit>
+        <hit score="1" id="602565">
+            <info>
+                <authors>
+                    <author>Lukasz Kaiser</author>
+                    <author>Ofir Nachum</author>
+                    <author>Aurko Roy</author>
+                    <author>Samy Bengio</author>
+                </authors>
+                <title>Learning to Remember Rare Events.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/KaiserNRB17</key>
+                <ee>https://openreview.net/forum?id=SJTQLdqlg</ee>
+                <url>https://dblp.org/rec/conf/iclr/KaiserNRB17</url>
+            </info>
+            <url>URL#602565</url>
+        </hit>
+        <hit score="1" id="602566">
+            <info>
+                <authors>
+                    <author>Cezary Kaliszyk</author>
+                    <author>François Chollet</author>
+                    <author>Christian Szegedy</author>
+                </authors>
+                <title>HolStep - A Machine Learning Dataset for Higher-order Logic Theorem Proving.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/KaliszykCS17</key>
+                <ee>https://openreview.net/forum?id=ryuxYmvel</ee>
+                <url>https://dblp.org/rec/conf/iclr/KaliszykCS17</url>
+            </info>
+            <url>URL#602566</url>
+        </hit>
+        <hit score="1" id="602567">
+            <info>
+                <authors>
+                    <author>Kirthevasan Kandasamy</author>
+                    <author>Yoram Bachrach</author>
+                    <author>Ryota Tomioka</author>
+                    <author>Daniel Tarlow</author>
+                    <author>David Carter</author>
+                </authors>
+                <title>Batch Policy Gradient Methods for Improving Neural Conversation Models.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/KandasamyBTTC17</key>
+                <ee>https://openreview.net/forum?id=rJfMusFll</ee>
+                <url>https://dblp.org/rec/conf/iclr/KandasamyBTTC17</url>
+            </info>
+            <url>URL#602567</url>
+        </hit>
+        <hit score="1" id="602568">
+            <info>
+                <authors>
+                    <author>Maximilian Karl</author>
+                    <author>Maximilian Sölch</author>
+                    <author>Justin Bayer</author>
+                    <author>Patrick van der Smagt</author>
+                </authors>
+                <title>Deep Variational Bayes Filters - Unsupervised Learning of State Space Models from Raw Data.
+                </title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/KarlSBS17</key>
+                <ee>https://openreview.net/forum?id=HyTqHL5xg</ee>
+                <url>https://dblp.org/rec/conf/iclr/KarlSBS17</url>
+            </info>
+            <url>URL#602568</url>
+        </hit>
+        <hit score="1" id="602569">
+            <info>
+                <authors>
+                    <author>Nitish Shirish Keskar</author>
+                    <author>Dheevatsa Mudigere</author>
+                    <author>Jorge Nocedal</author>
+                    <author>Mikhail Smelyanskiy</author>
+                    <author>Ping Tak Peter Tang</author>
+                </authors>
+                <title>On Large-Batch Training for Deep Learning - Generalization Gap and Sharp Minima.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/KeskarMNST17</key>
+                <ee>https://openreview.net/forum?id=H1oyRlYgg</ee>
+                <url>https://dblp.org/rec/conf/iclr/KeskarMNST17</url>
+            </info>
+            <url>URL#602569</url>
+        </hit>
+        <hit score="1" id="602570">
+            <info>
+                <authors>
+                    <author>Yoon Kim</author>
+                    <author>Carl Denton</author>
+                    <author>Luong Hoang</author>
+                    <author>Alexander M. Rush</author>
+                </authors>
+                <title>Structured Attention Networks.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/KimDHR17</key>
+                <ee>https://openreview.net/forum?id=HkE0Nvqlg</ee>
+                <url>https://dblp.org/rec/conf/iclr/KimDHR17</url>
+            </info>
+            <url>URL#602570</url>
+        </hit>
+        <hit score="1" id="602572">
+            <info>
+                <authors>
+                    <author>Jin-Hwa Kim</author>
+                    <author>Kyoung Woon On</author>
+                    <author>Woosang Lim</author>
+                    <author>Jeonghee Kim</author>
+                    <author>Jung-Woo Ha</author>
+                    <author>Byoung-Tak Zhang</author>
+                </authors>
+                <title>Hadamard Product for Low-rank Bilinear Pooling.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/KimOLKHZ17</key>
+                <ee>https://openreview.net/forum?id=r1rhWnZkg</ee>
+                <url>https://dblp.org/rec/conf/iclr/KimOLKHZ17</url>
+            </info>
+            <url>URL#602572</url>
+        </hit>
+        <hit score="1" id="602573">
+            <info>
+                <authors>
+                    <author>Thomas N. Kipf</author>
+                    <author>Max Welling</author>
+                </authors>
+                <title>Semi-Supervised Classification with Graph Convolutional Networks.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/KipfW17</key>
+                <ee>https://openreview.net/forum?id=SJU4ayYgl</ee>
+                <url>https://dblp.org/rec/conf/iclr/KipfW17</url>
+            </info>
+            <url>URL#602573</url>
+        </hit>
+        <hit score="1" id="602574">
+            <info>
+                <authors>
+                    <author>Aaron Klein</author>
+                    <author>Stefan Falkner</author>
+                    <author>Jost Tobias Springenberg</author>
+                    <author>Frank Hutter</author>
+                </authors>
+                <title>Learning Curve Prediction with Bayesian Neural Networks.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/KleinFSH17</key>
+                <ee>https://openreview.net/forum?id=S11KBYclx</ee>
+                <url>https://dblp.org/rec/conf/iclr/KleinFSH17</url>
+            </info>
+            <url>URL#602574</url>
+        </hit>
+        <hit score="1" id="602578">
+            <info>
+                <authors>
+                    <author>David Krueger</author>
+                    <author>Tegan Maharaj</author>
+                    <author>János Kramár</author>
+                    <author>Mohammad Pezeshki</author>
+                    <author>Nicolas Ballas</author>
+                    <author>Nan Rosemary Ke</author>
+                    <author>Anirudh Goyal</author>
+                    <author>Yoshua Bengio</author>
+                    <author>Aaron C. Courville</author>
+                    <author>Christopher J. Pal</author>
+                </authors>
+                <title>Zoneout - Regularizing RNNs by Randomly Preserving Hidden Activations.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/KruegerMKPBKGBC17</key>
+                <ee>https://openreview.net/forum?id=rJqBEPcxe</ee>
+                <url>https://dblp.org/rec/conf/iclr/KruegerMKPBKGBC17</url>
+            </info>
+            <url>URL#602578</url>
+        </hit>
+        <hit score="1" id="602581">
+            <info>
+                <authors>
+                    <author>Alexey Kurakin</author>
+                    <author>Ian J. Goodfellow</author>
+                    <author>Samy Bengio</author>
+                </authors>
+                <title>Adversarial Machine Learning at Scale.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/KurakinGB17</key>
+                <ee>https://openreview.net/forum?id=BJm4T4Kgx</ee>
+                <url>https://dblp.org/rec/conf/iclr/KurakinGB17</url>
+            </info>
+            <url>URL#602581</url>
+        </hit>
+        <hit score="1" id="602583">
+            <info>
+                <authors>
+                    <author>Samuli Laine</author>
+                    <author>Timo Aila</author>
+                </authors>
+                <title>Temporal Ensembling for Semi-Supervised Learning.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/LaineA17</key>
+                <ee>https://openreview.net/forum?id=BJ6oOfqge</ee>
+                <url>https://dblp.org/rec/conf/iclr/LaineA17</url>
+            </info>
+            <url>URL#602583</url>
+        </hit>
+        <hit score="1" id="602585">
+            <info>
+                <authors>
+                    <author>Gustav Larsson</author>
+                    <author>Michael Maire</author>
+                    <author>Gregory Shakhnarovich</author>
+                </authors>
+                <title>FractalNet - Ultra-Deep Neural Networks without Residuals.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/LarssonMS17</key>
+                <ee>https://openreview.net/forum?id=S1VaB4cex</ee>
+                <url>https://dblp.org/rec/conf/iclr/LarssonMS17</url>
+            </info>
+            <url>URL#602585</url>
+        </hit>
+        <hit score="1" id="602587">
+            <info>
+                <authors>
+                    <author>Angeliki Lazaridou</author>
+                    <author>Alexander Peysakhovich</author>
+                    <author>Marco Baroni</author>
+                </authors>
+                <title>Multi-Agent Cooperation and the Emergence of (Natural) Language.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/LazaridouPB17</key>
+                <ee>https://openreview.net/forum?id=Hk8N3Sclg</ee>
+                <url>https://dblp.org/rec/conf/iclr/LazaridouPB17</url>
+            </info>
+            <url>URL#602587</url>
+        </hit>
+        <hit score="1" id="602588">
+            <info>
+                <authors>
+                    <author>Alex X. Lee</author>
+                    <author>Sergey Levine</author>
+                    <author>Pieter Abbeel</author>
+                </authors>
+                <title>Learning Visual Servoing with Deep Features and Fitted Q-Iteration.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/LeeLA17</key>
+                <ee>https://openreview.net/forum?id=r1YNw6sxg</ee>
+                <url>https://dblp.org/rec/conf/iclr/LeeLA17</url>
+            </info>
+            <url>URL#602588</url>
+        </hit>
+        <hit score="1" id="602589">
+            <info>
+                <authors>
+                    <author>Lisha Li</author>
+                    <author>Kevin G. Jamieson</author>
+                    <author>Giulia DeSalvo</author>
+                    <author>Afshin Rostamizadeh</author>
+                    <author>Ameet Talwalkar</author>
+                </authors>
+                <title>Hyperband - Bandit-Based Configuration Evaluation for Hyperparameter Optimization.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/LiJDRT17</key>
+                <ee>https://openreview.net/forum?id=ry18Ww5ee</ee>
+                <url>https://dblp.org/rec/conf/iclr/LiJDRT17</url>
+            </info>
+            <url>URL#602589</url>
+        </hit>
+        <hit score="1" id="602590">
+            <info>
+                <authors>
+                    <author>Xingyi Li</author>
+                    <author>Fuxin Li</author>
+                    <author>Xiaoli Z. Fern</author>
+                    <author>Raviv Raich</author>
+                </authors>
+                <title>Filter shaping for Convolutional Neural Networks.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/LiLFR17</key>
+                <ee>https://openreview.net/forum?id=S1TER2oll</ee>
+                <url>https://dblp.org/rec/conf/iclr/LiLFR17</url>
+            </info>
+            <url>URL#602590</url>
+        </hit>
+        <hit score="1" id="602591">
+            <info>
+                <authors>
+                    <author>Ke Li</author>
+                    <author>Jitendra Malik</author>
+                </authors>
+                <title>Learning to Optimize.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/LiM17</key>
+                <ee>https://openreview.net/forum?id=ry4Vrt5gl</ee>
+                <url>https://dblp.org/rec/conf/iclr/LiM17</url>
+            </info>
+            <url>URL#602591</url>
+        </hit>
+        <hit score="1" id="602592">
+            <info>
+                <authors>
+                    <author>Jiwei Li</author>
+                    <author>Alexander H. Miller</author>
+                    <author>Sumit Chopra</author>
+                    <author>Marc&apos;Aurelio Ranzato</author>
+                    <author>Jason Weston</author>
+                </authors>
+                <title>Dialogue Learning With Human-in-the-Loop.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/LiMCRW17</key>
+                <ee>https://openreview.net/forum?id=HJgXCV9xx</ee>
+                <url>https://dblp.org/rec/conf/iclr/LiMCRW17</url>
+            </info>
+            <url>URL#602592</url>
+        </hit>
+        <hit score="1" id="602593">
+            <info>
+                <authors>
+                    <author>Jiwei Li</author>
+                    <author>Alexander H. Miller</author>
+                    <author>Sumit Chopra</author>
+                    <author>Marc&apos;Aurelio Ranzato</author>
+                    <author>Jason Weston</author>
+                </authors>
+                <title>Learning through Dialogue Interactions by Asking Questions.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/LiMCRW17a</key>
+                <ee>https://openreview.net/forum?id=rkE8pVcle</ee>
+                <url>https://dblp.org/rec/conf/iclr/LiMCRW17a</url>
+            </info>
+            <url>URL#602593</url>
+        </hit>
+        <hit score="1" id="602594">
+            <info>
+                <authors>
+                    <author>Chengtao Li</author>
+                    <author>Daniel Tarlow</author>
+                    <author>Alexander L. Gaunt</author>
+                    <author>Marc Brockschmidt</author>
+                    <author>Nate Kushman</author>
+                </authors>
+                <title>Neural Program Lattices.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/LiTGBK17</key>
+                <ee>https://openreview.net/forum?id=HJjiFK5gx</ee>
+                <url>https://dblp.org/rec/conf/iclr/LiTGBK17</url>
+            </info>
+            <url>URL#602594</url>
+        </hit>
+        <hit score="1" id="602596">
+            <info>
+                <authors>
+                    <author>Shiyu Liang</author>
+                    <author>R. Srikant</author>
+                </authors>
+                <title>Why Deep Neural Networks for Function Approximation?</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/LiangS17</key>
+                <ee>https://openreview.net/forum?id=SkpSlKIel</ee>
+                <url>https://dblp.org/rec/conf/iclr/LiangS17</url>
+            </info>
+            <url>URL#602596</url>
+        </hit>
+        <hit score="1" id="602597">
+            <info>
+                <authors>
+                    <author>Zhouhan Lin</author>
+                    <author>Minwei Feng</author>
+                    <author>Cícero Nogueira dos Santos</author>
+                    <author>Mo Yu</author>
+                    <author>Bing Xiang</author>
+                    <author>Bowen Zhou</author>
+                    <author>Yoshua Bengio</author>
+                </authors>
+                <title>A Structured Self-Attentive Sentence Embedding.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/LinFSYXZB17</key>
+                <ee>https://openreview.net/forum?id=BJC_jUqxe</ee>
+                <url>https://dblp.org/rec/conf/iclr/LinFSYXZB17</url>
+            </info>
+            <url>URL#602597</url>
+        </hit>
+        <hit score="1" id="602599">
+            <info>
+                <authors>
+                    <author>Xingyu Lin</author>
+                    <author>Hao Wang</author>
+                    <author>Zhihao Li</author>
+                    <author>Yimeng Zhang</author>
+                    <author>Alan L. Yuille</author>
+                    <author>Tai Sing Lee</author>
+                </authors>
+                <title>Transfer of View-manifold Learning to Similarity Perception of Novel Objects.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/LinWLZYL17</key>
+                <ee>https://openreview.net/forum?id=B1gtu5ilg</ee>
+                <url>https://dblp.org/rec/conf/iclr/LinWLZYL17</url>
+            </info>
+            <url>URL#602599</url>
+        </hit>
+        <hit score="1" id="602601">
+            <info>
+                <authors>
+                    <author>Yanpei Liu</author>
+                    <author>Xinyun Chen</author>
+                    <author>Chang Liu</author>
+                    <author>Dawn Song</author>
+                </authors>
+                <title>Delving into Transferable Adversarial Examples and Black-box Attacks.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/LiuCLS17</key>
+                <ee>https://openreview.net/forum?id=Sys6GJqxl</ee>
+                <url>https://dblp.org/rec/conf/iclr/LiuCLS17</url>
+            </info>
+            <url>URL#602601</url>
+        </hit>
+        <hit score="1" id="602603">
+            <info>
+                <authors>
+                    <author>Gabriel Loaiza-Ganem</author>
+                    <author>Yuanjun Gao</author>
+                    <author>John P. Cunningham</author>
+                </authors>
+                <title>Maximum Entropy Flow Networks.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/Loaiza-GanemGC17</key>
+                <ee>https://openreview.net/forum?id=H1acq85gx</ee>
+                <url>https://dblp.org/rec/conf/iclr/Loaiza-GanemGC17</url>
+            </info>
+            <url>URL#602603</url>
+        </hit>
+        <hit score="1" id="602604">
+            <info>
+                <authors>
+                    <author>Moshe Looks</author>
+                    <author>Marcello Herreshoff</author>
+                    <author>DeLesley Hutchins</author>
+                    <author>Peter Norvig</author>
+                </authors>
+                <title>Deep Learning with Dynamic Computation Graphs.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/LooksHHN17</key>
+                <ee>https://openreview.net/forum?id=ryrGawqex</ee>
+                <url>https://dblp.org/rec/conf/iclr/LooksHHN17</url>
+            </info>
+            <url>URL#602604</url>
+        </hit>
+        <hit score="1" id="602605">
+            <info>
+                <authors>
+                    <author>David Lopez-Paz</author>
+                    <author>Maxime Oquab</author>
+                </authors>
+                <title>Revisiting Classifier Two-Sample Tests.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/Lopez-PazO17</key>
+                <ee>https://openreview.net/forum?id=SJkXfE5xx</ee>
+                <url>https://dblp.org/rec/conf/iclr/Lopez-PazO17</url>
+            </info>
+            <url>URL#602605</url>
+        </hit>
+        <hit score="1" id="602606">
+            <info>
+                <authors>
+                    <author>Ilya Loshchilov</author>
+                    <author>Frank Hutter</author>
+                </authors>
+                <title>SGDR - Stochastic Gradient Descent with Warm Restarts.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/LoshchilovH17</key>
+                <ee>https://openreview.net/forum?id=Skq89Scxx</ee>
+                <url>https://dblp.org/rec/conf/iclr/LoshchilovH17</url>
+            </info>
+            <url>URL#602606</url>
+        </hit>
+        <hit score="1" id="602607">
+            <info>
+                <authors>
+                    <author>William Lotter</author>
+                    <author>Gabriel Kreiman</author>
+                    <author>David Cox</author>
+                </authors>
+                <title>Deep Predictive Coding Networks for Video Prediction and Unsupervised Learning.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/LotterKC17</key>
+                <ee>https://openreview.net/forum?id=B1ewdt9xe</ee>
+                <url>https://dblp.org/rec/conf/iclr/LotterKC17</url>
+            </info>
+            <url>URL#602607</url>
+        </hit>
+        <hit score="1" id="602609">
+            <info>
+                <authors>
+                    <author>Xuezhe Ma</author>
+                    <author>Yingkai Gao</author>
+                    <author>Zhiting Hu</author>
+                    <author>Yaoliang Yu</author>
+                    <author>Yuntian Deng</author>
+                    <author>Eduard H. Hovy</author>
+                </authors>
+                <title>Dropout with Expectation-linear Regularization.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/MaGHYDH17</key>
+                <ee>https://openreview.net/forum?id=rkGabzZgl</ee>
+                <url>https://dblp.org/rec/conf/iclr/MaGHYDH17</url>
+            </info>
+            <url>URL#602609</url>
+        </hit>
+        <hit score="1" id="602611">
+            <info>
+                <authors>
+                    <author>Chris J. Maddison</author>
+                    <author>Andriy Mnih</author>
+                    <author>Yee Whye Teh</author>
+                </authors>
+                <title>The Concrete Distribution - A Continuous Relaxation of Discrete Random Variables.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/MaddisonMT17</key>
+                <ee>https://openreview.net/forum?id=S1jE5L5gl</ee>
+                <url>https://dblp.org/rec/conf/iclr/MaddisonMT17</url>
+            </info>
+            <url>URL#602611</url>
+        </hit>
+        <hit score="1" id="602614">
+            <info>
+                <authors>
+                    <author>Soroush Mehri</author>
+                    <author>Kundan Kumar</author>
+                    <author>Ishaan Gulrajani</author>
+                    <author>Rithesh Kumar</author>
+                    <author>Shubham Jain</author>
+                    <author>Jose Sotelo</author>
+                    <author>Aaron C. Courville</author>
+                    <author>Yoshua Bengio</author>
+                </authors>
+                <title>SampleRNN - An Unconditional End-to-End Neural Audio Generation Model.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/MehriKGKJSCB17</key>
+                <ee>https://openreview.net/forum?id=SkxKPDv5xl</ee>
+                <url>https://dblp.org/rec/conf/iclr/MehriKGKJSCB17</url>
+            </info>
+            <url>URL#602614</url>
+        </hit>
+        <hit score="1" id="602615">
+            <info>
+                <authors>
+                    <author>Stephen Merity</author>
+                    <author>Caiming Xiong</author>
+                    <author>James Bradbury 0002</author>
+                    <author>Richard Socher</author>
+                </authors>
+                <title>Pointer Sentinel Mixture Models.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/MerityX0S17</key>
+                <ee>https://openreview.net/forum?id=Byj72udxe</ee>
+                <url>https://dblp.org/rec/conf/iclr/MerityX0S17</url>
+            </info>
+            <url>URL#602615</url>
+        </hit>
+        <hit score="1" id="602616">
+            <info>
+                <authors>
+                    <author>Luke Metz</author>
+                    <author>Ben Poole</author>
+                    <author>David Pfau</author>
+                    <author>Jascha Sohl-Dickstein</author>
+                </authors>
+                <title>Unrolled Generative Adversarial Networks.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/MetzPPS17</key>
+                <ee>https://openreview.net/forum?id=BydrOIcle</ee>
+                <url>https://dblp.org/rec/conf/iclr/MetzPPS17</url>
+            </info>
+            <url>URL#602616</url>
+        </hit>
+        <hit score="1" id="602617">
+            <info>
+                <authors>
+                    <author>Jan Hendrik Metzen</author>
+                    <author>Tim Genewein</author>
+                    <author>Volker Fischer</author>
+                    <author>Bastian Bischoff</author>
+                </authors>
+                <title>On Detecting Adversarial Perturbations.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/MetzenGFB17</key>
+                <ee>https://openreview.net/forum?id=SJzCSf9xg</ee>
+                <url>https://dblp.org/rec/conf/iclr/MetzenGFB17</url>
+            </info>
+            <url>URL#602617</url>
+        </hit>
+        <hit score="1" id="602618">
+            <info>
+                <authors>
+                    <author>Piotr Mirowski</author>
+                    <author>Razvan Pascanu</author>
+                    <author>Fabio Viola</author>
+                    <author>Hubert Soyer</author>
+                    <author>Andy Ballard</author>
+                    <author>Andrea Banino</author>
+                    <author>Misha Denil</author>
+                    <author>Ross Goroshin</author>
+                    <author>Laurent Sifre</author>
+                    <author>Koray Kavukcuoglu</author>
+                    <author>Dharshan Kumaran</author>
+                    <author>Raia Hadsell</author>
+                </authors>
+                <title>Learning to Navigate in Complex Environments.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/MirowskiPVSBBDG17</key>
+                <ee>https://openreview.net/forum?id=SJMGPrcle</ee>
+                <url>https://dblp.org/rec/conf/iclr/MirowskiPVSBBDG17</url>
+            </info>
+            <url>URL#602618</url>
+        </hit>
+        <hit score="1" id="602621">
+            <info>
+                <authors>
+                    <author>Takeru Miyato</author>
+                    <author>Andrew M. Dai</author>
+                    <author>Ian J. Goodfellow</author>
+                </authors>
+                <title>Adversarial Training Methods for Semi-Supervised Text Classification.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/MiyatoDG17</key>
+                <ee>https://openreview.net/forum?id=r1X3g2_xl</ee>
+                <url>https://dblp.org/rec/conf/iclr/MiyatoDG17</url>
+            </info>
+            <url>URL#602621</url>
+        </hit>
+        <hit score="1" id="602623">
+            <info>
+                <authors>
+                    <author>Pavlo Molchanov</author>
+                    <author>Stephen Tyree</author>
+                    <author>Tero Karras</author>
+                    <author>Timo Aila</author>
+                    <author>Jan Kautz</author>
+                </authors>
+                <title>Pruning Convolutional Neural Networks for Resource Efficient Inference.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/MolchanovTKAK17</key>
+                <ee>https://openreview.net/forum?id=SJGCiw5gl</ee>
+                <url>https://dblp.org/rec/conf/iclr/MolchanovTKAK17</url>
+            </info>
+            <url>URL#602623</url>
+        </hit>
+        <hit score="1" id="602624">
+            <info>
+                <authors>
+                    <author>Thomas Moreau</author>
+                    <author>Joan Bruna</author>
+                </authors>
+                <title>Understanding Trainable Sparse Coding with Matrix Factorization.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/MoreauB17</key>
+                <ee>https://openreview.net/forum?id=SJGPL9Dex</ee>
+                <url>https://dblp.org/rec/conf/iclr/MoreauB17</url>
+            </info>
+            <url>URL#602624</url>
+        </hit>
+        <hit score="1" id="602626">
+            <info>
+                <authors>
+                    <author>Jiaqi Mu</author>
+                    <author>Suma Bhat</author>
+                    <author>Pramod Viswanath</author>
+                </authors>
+                <title>Geometry of Polysemy.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/MuBV17</key>
+                <ee>https://openreview.net/forum?id=HJpfMIFll</ee>
+                <url>https://dblp.org/rec/conf/iclr/MuBV17</url>
+            </info>
+            <url>URL#602626</url>
+        </hit>
+        <hit score="1" id="602627">
+            <info>
+                <authors>
+                    <author>Tsendsuren Munkhdalai</author>
+                    <author>Hong Yu</author>
+                </authors>
+                <title>Reasoning with Memory Augmented Neural Networks for Language Comprehension.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/MunkhdalaiY17</key>
+                <ee>https://openreview.net/forum?id=Hk8TGSKlg</ee>
+                <url>https://dblp.org/rec/conf/iclr/MunkhdalaiY17</url>
+            </info>
+            <url>URL#602627</url>
+        </hit>
+        <hit score="1" id="602628">
+            <info>
+                <authors>
+                    <author>W. James Murdoch</author>
+                    <author>Arthur Szlam</author>
+                </authors>
+                <title>Automatic Rule Extraction from Long Short Term Memory Networks.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/MurdochS17</key>
+                <ee>https://openreview.net/forum?id=SJvYgH9xe</ee>
+                <url>https://dblp.org/rec/conf/iclr/MurdochS17</url>
+            </info>
+            <url>URL#602628</url>
+        </hit>
+        <hit score="1" id="602629">
+            <info>
+                <authors>
+                    <author>Ofir Nachum</author>
+                    <author>Mohammad Norouzi 0002</author>
+                    <author>Dale Schuurmans</author>
+                </authors>
+                <title>Improving Policy Gradient by Exploring Under-appreciated Rewards.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/Nachum0S17</key>
+                <ee>https://openreview.net/forum?id=ryT4pvqll</ee>
+                <url>https://dblp.org/rec/conf/iclr/Nachum0S17</url>
+            </info>
+            <url>URL#602629</url>
+        </hit>
+        <hit score="1" id="602630">
+            <info>
+                <authors>
+                    <author>Eric T. Nalisnick</author>
+                    <author>Padhraic Smyth</author>
+                </authors>
+                <title>Stick-Breaking Variational Autoencoders.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/NalisnickS17</key>
+                <ee>https://openreview.net/forum?id=S1jmAotxg</ee>
+                <url>https://dblp.org/rec/conf/iclr/NalisnickS17</url>
+            </info>
+            <url>URL#602630</url>
+        </hit>
+        <hit score="1" id="602632">
+            <info>
+                <authors>
+                    <author>Sharan Narang</author>
+                    <author>Greg Diamos</author>
+                    <author>Shubho Sengupta</author>
+                    <author>Erich Elsen</author>
+                </authors>
+                <title>Exploring Sparsity in Recurrent Neural Networks.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/NarangDSE17</key>
+                <ee>https://openreview.net/forum?id=BylSPv9gx</ee>
+                <url>https://dblp.org/rec/conf/iclr/NarangDSE17</url>
+            </info>
+            <url>URL#602632</url>
+        </hit>
+        <hit score="1" id="602633">
+            <info>
+                <authors>
+                    <author>Arvind Neelakantan</author>
+                    <author>Quoc V. Le</author>
+                    <author>Martín Abadi</author>
+                    <author>Andrew McCallum</author>
+                    <author>Dario Amodei</author>
+                </authors>
+                <title>Learning a Natural Language Interface with Neural Programmer.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/NeelakantanLAMA17</key>
+                <ee>https://openreview.net/forum?id=ry2YOrcge</ee>
+                <url>https://dblp.org/rec/conf/iclr/NeelakantanLAMA17</url>
+            </info>
+            <url>URL#602633</url>
+        </hit>
+        <hit score="1" id="602635">
+            <info>
+                <authors>
+                    <author>Peter O&apos;Connor</author>
+                    <author>Max Welling</author>
+                </authors>
+                <title>Sigma Delta Quantized Networks.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/OConnorW17</key>
+                <ee>https://openreview.net/forum?id=HkNRsU5ge</ee>
+                <url>https://dblp.org/rec/conf/iclr/OConnorW17</url>
+            </info>
+            <url>URL#602635</url>
+        </hit>
+        <hit score="1" id="602636">
+            <info>
+                <authors>
+                    <author>Brendan O&apos;Donoghue</author>
+                    <author>Rémi Munos</author>
+                    <author>Koray Kavukcuoglu</author>
+                    <author>Volodymyr Mnih</author>
+                </authors>
+                <title>Combining policy gradient and Q-learning.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/ODonoghueMKM17</key>
+                <ee>https://openreview.net/forum?id=B1kJ6H9ex</ee>
+                <url>https://dblp.org/rec/conf/iclr/ODonoghueMKM17</url>
+            </info>
+            <url>URL#602636</url>
+        </hit>
+        <hit score="1" id="602639">
+            <info>
+                <authors>
+                    <author>Gautam Pai</author>
+                    <author>Aaron Wetzler</author>
+                    <author>Ron Kimmel</author>
+                </authors>
+                <title>Learning Invariant Representations Of Planar Curves.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/PaiWK17</key>
+                <ee>https://openreview.net/forum?id=BymIbLKgl</ee>
+                <url>https://dblp.org/rec/conf/iclr/PaiWK17</url>
+            </info>
+            <url>URL#602639</url>
+        </hit>
+        <hit score="1" id="602640">
+            <info>
+                <authors>
+                    <author>Nicolas Papernot</author>
+                    <author>Martín Abadi</author>
+                    <author>Úlfar Erlingsson</author>
+                    <author>Ian J. Goodfellow</author>
+                    <author>Kunal Talwar</author>
+                </authors>
+                <title>Semi-supervised Knowledge Transfer for Deep Learning from Private Training Data.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/PapernotAEGT17</key>
+                <ee>https://openreview.net/forum?id=HkwoSDPgg</ee>
+                <url>https://dblp.org/rec/conf/iclr/PapernotAEGT17</url>
+            </info>
+            <url>URL#602640</url>
+        </hit>
+        <hit score="1" id="602641">
+            <info>
+                <authors>
+                    <author>Emilio Parisotto</author>
+                    <author>Abdel-rahman Mohamed</author>
+                    <author>Rishabh Singh</author>
+                    <author>Lihong Li 0001</author>
+                    <author>Dengyong Zhou</author>
+                    <author>Pushmeet Kohli</author>
+                </authors>
+                <title>Neuro-Symbolic Program Synthesis.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/ParisottoMS0ZK17</key>
+                <ee>https://openreview.net/forum?id=rJ0JwFcex</ee>
+                <url>https://dblp.org/rec/conf/iclr/ParisottoMS0ZK17</url>
+            </info>
+            <url>URL#602641</url>
+        </hit>
+        <hit score="1" id="602642">
+            <info>
+                <authors>
+                    <author>Jongsoo Park</author>
+                    <author>Sheng R. Li</author>
+                    <author>Wei Wen</author>
+                    <author>Ping Tak Peter Tang</author>
+                    <author>Hai Li 0001</author>
+                    <author>Yiran Chen</author>
+                    <author>Pradeep Dubey</author>
+                </authors>
+                <title>Faster CNNs with Direct Sparse Convolutions and Guided Pruning.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/ParkLWT0CD17</key>
+                <ee>https://openreview.net/forum?id=rJPcZ3txx</ee>
+                <url>https://dblp.org/rec/conf/iclr/ParkLWT0CD17</url>
+            </info>
+            <url>URL#602642</url>
+        </hit>
+        <hit score="1" id="602645">
+            <info>
+                <authors>
+                    <author>George Philipp</author>
+                    <author>Jaime G. Carbonell</author>
+                </authors>
+                <title>Nonparametric Neural Networks.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/PhilippC17</key>
+                <ee>https://openreview.net/forum?id=BJK3Xasel</ee>
+                <url>https://dblp.org/rec/conf/iclr/PhilippC17</url>
+            </info>
+            <url>URL#602645</url>
+        </hit>
+        <hit score="1" id="602649">
+            <info>
+                <authors>
+                    <author>Sanjay Purushotham</author>
+                    <author>Wilka Carvalho</author>
+                    <author>Tanachat Nilanon</author>
+                    <author>Yan Liu 0002</author>
+                </authors>
+                <title>Variational Recurrent Adversarial Deep Domain Adaptation.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/PurushothamCNL17</key>
+                <ee>https://openreview.net/forum?id=rk9eAFcxg</ee>
+                <url>https://dblp.org/rec/conf/iclr/PurushothamCNL17</url>
+            </info>
+            <url>URL#602649</url>
+        </hit>
+        <hit score="1" id="602650">
+            <info>
+                <authors>
+                    <author>Hang Qi</author>
+                    <author>Evan R. Sparks</author>
+                    <author>Ameet Talwalkar</author>
+                </authors>
+                <title>Paleo - A Performance Model for Deep Neural Networks.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/QiST17</key>
+                <ee>https://openreview.net/forum?id=SyVVJ85lg</ee>
+                <url>https://dblp.org/rec/conf/iclr/QiST17</url>
+            </info>
+            <url>URL#602650</url>
+        </hit>
+        <hit score="1" id="602653">
+            <info>
+                <authors>
+                    <author>Janarthanan Rajendran</author>
+                    <author>Aravind S. Lakshminarayanan</author>
+                    <author>Mitesh M. Khapra</author>
+                    <author>P. Prasanna</author>
+                    <author>Balaraman Ravindran</author>
+                </authors>
+                <title>Attend, Adapt and Transfer - Attentive Deep Architecture for Adaptive Transfer from multiple
+                    sources in the same domain.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/RajendranLKPR17</key>
+                <ee>https://openreview.net/forum?id=Sy6iJDqlx</ee>
+                <url>https://dblp.org/rec/conf/iclr/RajendranLKPR17</url>
+            </info>
+            <url>URL#602653</url>
+        </hit>
+        <hit score="1" id="602654">
+            <info>
+                <authors>
+                    <author>Aravind Rajeswaran</author>
+                    <author>Sarvjeet Ghotra</author>
+                    <author>Balaraman Ravindran</author>
+                    <author>Sergey Levine</author>
+                </authors>
+                <title>EPOpt - Learning Robust Neural Network Policies Using Model Ensembles.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/RajeswaranGRL17</key>
+                <ee>https://openreview.net/forum?id=SyWvgP5el</ee>
+                <url>https://dblp.org/rec/conf/iclr/RajeswaranGRL17</url>
+            </info>
+            <url>URL#602654</url>
+        </hit>
+        <hit score="1" id="602658">
+            <info>
+                <authors>
+                    <author>Sachin Ravi</author>
+                    <author>Hugo Larochelle</author>
+                </authors>
+                <title>Optimization as a Model for Few-Shot Learning.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/RaviL17</key>
+                <ee>https://openreview.net/forum?id=rJY0-Kcll</ee>
+                <url>https://dblp.org/rec/conf/iclr/RaviL17</url>
+            </info>
+            <url>URL#602658</url>
+        </hit>
+        <hit score="1" id="602659">
+            <info>
+                <authors>
+                    <author>Mengye Ren</author>
+                    <author>Renjie Liao</author>
+                    <author>Raquel Urtasun</author>
+                    <author>Fabian H. Sinz</author>
+                    <author>Richard S. Zemel</author>
+                </authors>
+                <title>Normalizing the Normalizers - Comparing and Extending Network Normalization Schemes.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/RenLUSZ17</key>
+                <ee>https://openreview.net/forum?id=rk5upnsxe</ee>
+                <url>https://dblp.org/rec/conf/iclr/RenLUSZ17</url>
+            </info>
+            <url>URL#602659</url>
+        </hit>
+        <hit score="1" id="602660">
+            <info>
+                <authors>
+                    <author>Pau Rodríguez</author>
+                    <author>Jordi Gonzàlez 0001</author>
+                    <author>Guillem Cucurull</author>
+                    <author>Josep M. Gonfaus</author>
+                    <author>F. Xavier Roca</author>
+                </authors>
+                <title>Regularizing CNNs with Locally Constrained Decorrelations.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/Rodriguez0CGR17</key>
+                <ee>https://openreview.net/forum?id=ByOvsIqeg</ee>
+                <url>https://dblp.org/rec/conf/iclr/Rodriguez0CGR17</url>
+            </info>
+            <url>URL#602660</url>
+        </hit>
+        <hit score="1" id="602661">
+            <info>
+                <authors>
+                    <author>Jason Tyler Rolfe</author>
+                </authors>
+                <title>Discrete Variational Autoencoders.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/Rolfe17</key>
+                <ee>https://openreview.net/forum?id=ryMxXPFex</ee>
+                <url>https://dblp.org/rec/conf/iclr/Rolfe17</url>
+            </info>
+            <url>URL#602661</url>
+        </hit>
+        <hit score="1" id="602663">
+            <info>
+                <authors>
+                    <author>Adriana Romero</author>
+                    <author>Pierre Luc Carrier</author>
+                    <author>Akram Erraqabi</author>
+                    <author>Tristan Sylvain</author>
+                    <author>Alex Auvolat</author>
+                    <author>Etienne Dejoie</author>
+                    <author>Marc-André Legault</author>
+                    <author>Marie-Pierre Dubé</author>
+                    <author>Julie G. Hussin</author>
+                    <author>Yoshua Bengio</author>
+                </authors>
+                <title>Diet Networks - Thin Parameters for Fat Genomics.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/RomeroCESADLDHB17</key>
+                <ee>https://openreview.net/forum?id=Sk-oDY9ge</ee>
+                <url>https://dblp.org/rec/conf/iclr/RomeroCESADLDHB17</url>
+            </info>
+            <url>URL#602663</url>
+        </hit>
+        <hit score="1" id="602664">
+            <info>
+                <authors>
+                    <author>Nicolas Le Roux</author>
+                </authors>
+                <title>Tighter bounds lead to improved classifiers.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/Roux17</key>
+                <ee>https://openreview.net/forum?id=HyAbMKwxe</ee>
+                <url>https://dblp.org/rec/conf/iclr/Roux17</url>
+            </info>
+            <url>URL#602664</url>
+        </hit>
+        <hit score="1" id="602665">
+            <info>
+                <authors>
+                    <author>Tim Salimans</author>
+                    <author>Andrej Karpathy</author>
+                    <author>Xi Chen 0022</author>
+                    <author>Diederik P. Kingma</author>
+                </authors>
+                <title>PixelCNN++ - Improving the PixelCNN with Discretized Logistic Mixture Likelihood and Other
+                    Modifications.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/SalimansK0K17</key>
+                <ee>https://openreview.net/forum?id=BJrFC6ceg</ee>
+                <url>https://dblp.org/rec/conf/iclr/SalimansK0K17</url>
+            </info>
+            <url>URL#602665</url>
+        </hit>
+        <hit score="1" id="602667">
+            <info>
+                <authors>
+                    <author>Samuel S. Schoenholz</author>
+                    <author>Justin Gilmer</author>
+                    <author>Surya Ganguli</author>
+                    <author>Jascha Sohl-Dickstein</author>
+                </authors>
+                <title>Deep Information Propagation.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/SchoenholzGGS17</key>
+                <ee>https://openreview.net/forum?id=H1W1UN9gg</ee>
+                <url>https://dblp.org/rec/conf/iclr/SchoenholzGGS17</url>
+            </info>
+            <url>URL#602667</url>
+        </hit>
+        <hit score="1" id="602669">
+            <info>
+                <authors>
+                    <author>Min Joon Seo</author>
+                    <author>Aniruddha Kembhavi</author>
+                    <author>Ali Farhadi</author>
+                    <author>Hannaneh Hajishirzi</author>
+                </authors>
+                <title>Bidirectional Attention Flow for Machine Comprehension.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/SeoKFH17</key>
+                <ee>https://openreview.net/forum?id=HJ0UKP9ge</ee>
+                <url>https://dblp.org/rec/conf/iclr/SeoKFH17</url>
+            </info>
+            <url>URL#602669</url>
+        </hit>
+        <hit score="1" id="602670">
+            <info>
+                <authors>
+                    <author>Min Joon Seo</author>
+                    <author>Sewon Min</author>
+                    <author>Ali Farhadi</author>
+                    <author>Hannaneh Hajishirzi</author>
+                </authors>
+                <title>Query-Reduction Networks for Question Answering.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/SeoMFH17</key>
+                <ee>https://openreview.net/forum?id=B1MRcPclx</ee>
+                <url>https://dblp.org/rec/conf/iclr/SeoMFH17</url>
+            </info>
+            <url>URL#602670</url>
+        </hit>
+        <hit score="1" id="602674">
+            <info>
+                <authors>
+                    <author>Sahil Sharma</author>
+                    <author>Aravind S. Lakshminarayanan</author>
+                    <author>Balaraman Ravindran</author>
+                </authors>
+                <title>Learning to Repeat - Fine Grained Action Repetition for Deep Reinforcement Learning.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/SharmaLR17</key>
+                <ee>https://openreview.net/forum?id=B1GOWV5eg</ee>
+                <url>https://dblp.org/rec/conf/iclr/SharmaLR17</url>
+            </info>
+            <url>URL#602674</url>
+        </hit>
+        <hit score="1" id="602676">
+            <info>
+                <authors>
+                    <author>Noam Shazeer</author>
+                    <author>Azalia Mirhoseini</author>
+                    <author>Krzysztof Maziarz</author>
+                    <author>Andy Davis</author>
+                    <author>Quoc V. Le</author>
+                    <author>Geoffrey E. Hinton</author>
+                    <author>Jeff Dean</author>
+                </authors>
+                <title>Outrageously Large Neural Networks - The Sparsely-Gated Mixture-of-Experts Layer.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/ShazeerMMDLHD17</key>
+                <ee>https://openreview.net/forum?id=B1ckMDqlg</ee>
+                <url>https://dblp.org/rec/conf/iclr/ShazeerMMDLHD17</url>
+            </info>
+            <url>URL#602676</url>
+        </hit>
+        <hit score="1" id="602679">
+            <info>
+                <authors>
+                    <author>Abhishek Sinha</author>
+                    <author>Aahitagni Mukherjee</author>
+                    <author>Mausoom Sarkar</author>
+                    <author>Balaji Krishnamurthy</author>
+                </authors>
+                <title>Introspection - Accelerating Neural Network Training By Learning Weight Evolution.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/SinhaMSK17</key>
+                <ee>https://openreview.net/forum?id=Hkg8bDqee</ee>
+                <url>https://dblp.org/rec/conf/iclr/SinhaMSK17</url>
+            </info>
+            <url>URL#602679</url>
+        </hit>
+        <hit score="1" id="602681">
+            <info>
+                <authors>
+                    <author>Samuel L. Smith</author>
+                    <author>David H. P. Turban</author>
+                    <author>Steven Hamblin</author>
+                    <author>Nils Y. Hammerla</author>
+                </authors>
+                <title>Offline bilingual word vectors, orthogonal transformations and the inverted softmax.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/SmithTHH17</key>
+                <ee>https://openreview.net/forum?id=r1Aab85gg</ee>
+                <url>https://dblp.org/rec/conf/iclr/SmithTHH17</url>
+            </info>
+            <url>URL#602681</url>
+        </hit>
+        <hit score="1" id="602682">
+            <info>
+                <authors>
+                    <author>Casper Kaae Sønderby</author>
+                    <author>Jose Caballero</author>
+                    <author>Lucas Theis</author>
+                    <author>Wenzhe Shi</author>
+                    <author>Ferenc Huszár</author>
+                </authors>
+                <title>Amortised MAP Inference for Image Super-resolution.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/SonderbyCTSH17</key>
+                <ee>https://openreview.net/forum?id=S1RP6GLle</ee>
+                <url>https://dblp.org/rec/conf/iclr/SonderbyCTSH17</url>
+            </info>
+            <url>URL#602682</url>
+        </hit>
+        <hit score="1" id="602685">
+            <info>
+                <authors>
+                    <author>Akash Srivastava</author>
+                    <author>Charles A. Sutton</author>
+                </authors>
+                <title>Autoencoding Variational Inference For Topic Models.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/SrivastavaS17</key>
+                <ee>https://openreview.net/forum?id=BybtVK9lg</ee>
+                <url>https://dblp.org/rec/conf/iclr/SrivastavaS17</url>
+            </info>
+            <url>URL#602685</url>
+        </hit>
+        <hit score="1" id="602686">
+            <info>
+                <authors>
+                    <author>Bradly C. Stadie</author>
+                    <author>Pieter Abbeel</author>
+                    <author>Ilya Sutskever</author>
+                </authors>
+                <title>Third Person Imitation Learning.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/StadieAS17</key>
+                <ee>https://openreview.net/forum?id=B16dGcqlx</ee>
+                <url>https://dblp.org/rec/conf/iclr/StadieAS17</url>
+            </info>
+            <url>URL#602686</url>
+        </hit>
+        <hit score="1" id="602687">
+            <info>
+                <authors>
+                    <author>Dougal J. Sutherland</author>
+                    <author>Hsiao-Yu Tung</author>
+                    <author>Heiko Strathmann</author>
+                    <author>Soumyajit De</author>
+                    <author>Aaditya Ramdas</author>
+                    <author>Alexander J. Smola</author>
+                    <author>Arthur Gretton</author>
+                </authors>
+                <title>Generative Models and Model Criticism via Optimized Maximum Mean Discrepancy.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/SutherlandTSDRS17</key>
+                <ee>https://openreview.net/forum?id=HJWHIKqgl</ee>
+                <url>https://dblp.org/rec/conf/iclr/SutherlandTSDRS17</url>
+            </info>
+            <url>URL#602687</url>
+        </hit>
+        <hit score="1" id="602689">
+            <info>
+                <authors>
+                    <author>Yaniv Taigman</author>
+                    <author>Adam Polyak</author>
+                    <author>Lior Wolf</author>
+                </authors>
+                <title>Unsupervised Cross-Domain Image Generation.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/TaigmanPW17</key>
+                <ee>https://openreview.net/forum?id=Sk2Im59ex</ee>
+                <url>https://dblp.org/rec/conf/iclr/TaigmanPW17</url>
+            </info>
+            <url>URL#602689</url>
+        </hit>
+        <hit score="1" id="602691">
+            <info>
+                <authors>
+                    <author>Lucas Theis</author>
+                    <author>Wenzhe Shi</author>
+                    <author>Andrew Cunningham</author>
+                    <author>Ferenc Huszár</author>
+                </authors>
+                <title>Lossy Image Compression with Compressive Autoencoders.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/TheisSCH17</key>
+                <ee>https://openreview.net/forum?id=rJiNwv9gg</ee>
+                <url>https://dblp.org/rec/conf/iclr/TheisSCH17</url>
+            </info>
+            <url>URL#602691</url>
+        </hit>
+        <hit score="1" id="602692">
+            <info>
+                <authors>
+                    <author>John Thickstun</author>
+                    <author>Zaïd Harchaoui</author>
+                    <author>Sham Kakade</author>
+                </authors>
+                <title>Learning Features of Music From Scratch.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/ThickstunHK17</key>
+                <ee>https://openreview.net/forum?id=rkFBJv9gg</ee>
+                <url>https://dblp.org/rec/conf/iclr/ThickstunHK17</url>
+            </info>
+            <url>URL#602692</url>
+        </hit>
+        <hit score="1" id="602695">
+            <info>
+                <authors>
+                    <author>Dustin Tran</author>
+                    <author>Matthew D. Hoffman</author>
+                    <author>Rif A. Saurous</author>
+                    <author>Eugene Brevdo</author>
+                    <author>Kevin Murphy 0002</author>
+                    <author>David M. Blei</author>
+                </authors>
+                <title>Deep Probabilistic Programming.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/TranHSB0B17</key>
+                <ee>https://openreview.net/forum?id=Hy6b4Pqee</ee>
+                <url>https://dblp.org/rec/conf/iclr/TranHSB0B17</url>
+            </info>
+            <url>URL#602695</url>
+        </hit>
+        <hit score="1" id="602698">
+            <info>
+                <authors>
+                    <author>Karen Ullrich</author>
+                    <author>Edward Meeds</author>
+                    <author>Max Welling</author>
+                </authors>
+                <title>Soft Weight-Sharing for Neural Network Compression.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/UllrichMW17</key>
+                <ee>https://openreview.net/forum?id=HJGwcKclx</ee>
+                <url>https://dblp.org/rec/conf/iclr/UllrichMW17</url>
+            </info>
+            <url>URL#602698</url>
+        </hit>
+        <hit score="1" id="602699">
+            <info>
+                <authors>
+                    <author>Gregor Urban</author>
+                    <author>Krzysztof J. Geras</author>
+                    <author>Samira Ebrahimi Kahou</author>
+                    <author>Özlem Aslan</author>
+                    <author>Shengjie Wang</author>
+                    <author>Abdelrahman Mohamed</author>
+                    <author>Matthai Philipose</author>
+                    <author>Matthew Richardson</author>
+                    <author>Rich Caruana</author>
+                </authors>
+                <title>Do Deep Convolutional Nets Really Need to be Deep and Convolutional?</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/UrbanGKAWMPRC17</key>
+                <ee>https://openreview.net/forum?id=r10FA8Kxg</ee>
+                <url>https://dblp.org/rec/conf/iclr/UrbanGKAWMPRC17</url>
+            </info>
+            <url>URL#602699</url>
+        </hit>
+        <hit score="1" id="602700">
+            <info>
+                <authors>
+                    <author>Ivan Ustyuzhaninov</author>
+                    <author>Wieland Brendel</author>
+                    <author>Leon A. Gatys</author>
+                    <author>Matthias Bethge</author>
+                </authors>
+                <title>What does it take to generate natural textures?</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/UstyuzhaninovBG17</key>
+                <ee>https://openreview.net/forum?id=BJhZeLsxx</ee>
+                <url>https://dblp.org/rec/conf/iclr/UstyuzhaninovBG17</url>
+            </info>
+            <url>URL#602700</url>
+        </hit>
+        <hit score="1" id="602701">
+            <info>
+                <authors>
+                    <author>Nicolas Usunier</author>
+                    <author>Gabriel Synnaeve</author>
+                    <author>Zeming Lin</author>
+                    <author>Soumith Chintala</author>
+                </authors>
+                <title>Episodic Exploration for Deep Deterministic Policies for StarCraft Micromanagement.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/UsunierSLC17</key>
+                <ee>https://openreview.net/forum?id=r1LXit5ee</ee>
+                <url>https://dblp.org/rec/conf/iclr/UsunierSLC17</url>
+            </info>
+            <url>URL#602701</url>
+        </hit>
+        <hit score="1" id="602703">
+            <info>
+                <authors>
+                    <author>Ruben Villegas</author>
+                    <author>Jimei Yang</author>
+                    <author>Seunghoon Hong</author>
+                    <author>Xunyu Lin</author>
+                    <author>Honglak Lee</author>
+                </authors>
+                <title>Decomposing Motion and Content for Natural Video Sequence Prediction.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/VillegasYHLL17</key>
+                <ee>https://openreview.net/forum?id=rkEFLFqee</ee>
+                <url>https://dblp.org/rec/conf/iclr/VillegasYHLL17</url>
+            </info>
+            <url>URL#602703</url>
+        </hit>
+        <hit score="1" id="602705">
+            <info>
+                <authors>
+                    <author>Shuohang Wang</author>
+                    <author>Jing Jiang 0001</author>
+                </authors>
+                <title>A Compare-Aggregate Model for Matching Text Sequences.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/Wang017</key>
+                <ee>https://openreview.net/forum?id=HJTzHtqee</ee>
+                <url>https://dblp.org/rec/conf/iclr/Wang017</url>
+            </info>
+            <url>URL#602705</url>
+        </hit>
+        <hit score="1" id="602706">
+            <info>
+                <authors>
+                    <author>Shuohang Wang</author>
+                    <author>Jing Jiang 0001</author>
+                </authors>
+                <title>Machine Comprehension Using Match-LSTM and Answer Pointer.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/Wang017a</key>
+                <ee>https://openreview.net/forum?id=B1-q5Pqxl</ee>
+                <url>https://dblp.org/rec/conf/iclr/Wang017a</url>
+            </info>
+            <url>URL#602706</url>
+        </hit>
+        <hit score="1" id="602707">
+            <info>
+                <authors>
+                    <author>Shengjie Wang</author>
+                    <author>Haoran Cai</author>
+                    <author>Jeff A. Bilmes</author>
+                    <author>William S. Noble</author>
+                </authors>
+                <title>Training Compressed Fully-Connected Networks with a Density-Diversity Penalty.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/WangCBN17</key>
+                <ee>https://openreview.net/forum?id=Hku9NK5lx</ee>
+                <url>https://dblp.org/rec/conf/iclr/WangCBN17</url>
+            </info>
+            <url>URL#602707</url>
+        </hit>
+        <hit score="1" id="602709">
+            <info>
+                <authors>
+                    <author>David Warde-Farley</author>
+                    <author>Yoshua Bengio</author>
+                </authors>
+                <title>Improving Generative Adversarial Networks with Denoising Feature Matching.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/Warde-FarleyB17</key>
+                <ee>https://openreview.net/forum?id=S1X7nhsxl</ee>
+                <url>https://dblp.org/rec/conf/iclr/Warde-FarleyB17</url>
+            </info>
+            <url>URL#602709</url>
+        </hit>
+        <hit score="1" id="602711">
+            <info>
+                <authors>
+                    <author>Yuhuai Wu</author>
+                    <author>Yuri Burda</author>
+                    <author>Ruslan Salakhutdinov</author>
+                    <author>Roger Grosse</author>
+                </authors>
+                <title>On the Quantitative Analysis of Decoder-Based Generative Models.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/WuBSG17</key>
+                <ee>https://openreview.net/forum?id=B1M8JF9xx</ee>
+                <url>https://dblp.org/rec/conf/iclr/WuBSG17</url>
+            </info>
+            <url>URL#602711</url>
+        </hit>
+        <hit score="1" id="602712">
+            <info>
+                <authors>
+                    <author>Yuxin Wu</author>
+                    <author>Yuandong Tian</author>
+                </authors>
+                <title>Training Agent for First-Person Shooter Game with Actor-Critic Curriculum Learning.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/WuT17</key>
+                <ee>https://openreview.net/forum?id=Hk3mPK5gg</ee>
+                <url>https://dblp.org/rec/conf/iclr/WuT17</url>
+            </info>
+            <url>URL#602712</url>
+        </hit>
+        <hit score="1" id="602713">
+            <info>
+                <authors>
+                    <author>Ziang Xie</author>
+                    <author>Sida I. Wang</author>
+                    <author>Jiwei Li</author>
+                    <author>Daniel Lévy</author>
+                    <author>Aiming Nie</author>
+                    <author>Dan Jurafsky</author>
+                    <author>Andrew Y. Ng</author>
+                </authors>
+                <title>Data Noising as Smoothing in Neural Network Language Models.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/XieWLLNJN17</key>
+                <ee>https://openreview.net/forum?id=H1VyHY9gg</ee>
+                <url>https://dblp.org/rec/conf/iclr/XieWLLNJN17</url>
+            </info>
+            <url>URL#602713</url>
+        </hit>
+        <hit score="1" id="602714">
+            <info>
+                <authors>
+                    <author>Caiming Xiong</author>
+                    <author>Victor Zhong</author>
+                    <author>Richard Socher</author>
+                </authors>
+                <title>Dynamic Coattention Networks For Question Answering.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/XiongZS17</key>
+                <ee>https://openreview.net/forum?id=rJeKjwvclx</ee>
+                <url>https://dblp.org/rec/conf/iclr/XiongZS17</url>
+            </info>
+            <url>URL#602714</url>
+        </hit>
+        <hit score="1" id="602716">
+            <info>
+                <authors>
+                    <author>Zhilin Yang</author>
+                    <author>Bhuwan Dhingra</author>
+                    <author>Ye Yuan</author>
+                    <author>Junjie Hu</author>
+                    <author>William W. Cohen</author>
+                    <author>Ruslan Salakhutdinov</author>
+                </authors>
+                <title>Words or Characters? Fine-grained Gating for Reading Comprehension.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/YangDYHCS17</key>
+                <ee>https://openreview.net/forum?id=B1hdzd5lg</ee>
+                <url>https://dblp.org/rec/conf/iclr/YangDYHCS17</url>
+            </info>
+            <url>URL#602716</url>
+        </hit>
+        <hit score="1" id="602717">
+            <info>
+                <authors>
+                    <author>Yongxin Yang</author>
+                    <author>Timothy M. Hospedales</author>
+                </authors>
+                <title>Deep Multi-task Representation Learning - A Tensor Factorisation Approach.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/YangH17</key>
+                <ee>https://openreview.net/forum?id=SkhU2fcll</ee>
+                <url>https://dblp.org/rec/conf/iclr/YangH17</url>
+            </info>
+            <url>URL#602717</url>
+        </hit>
+        <hit score="1" id="602719">
+            <info>
+                <authors>
+                    <author>Jianwei Yang</author>
+                    <author>Anitha Kannan</author>
+                    <author>Dhruv Batra</author>
+                    <author>Devi Parikh</author>
+                </authors>
+                <title>LR-GAN - Layered Recursive Generative Adversarial Networks for Image Generation.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/YangKBP17</key>
+                <ee>https://openreview.net/forum?id=HJ1kmv9xx</ee>
+                <url>https://dblp.org/rec/conf/iclr/YangKBP17</url>
+            </info>
+            <url>URL#602719</url>
+        </hit>
+        <hit score="1" id="602720">
+            <info>
+                <authors>
+                    <author>Greg Yang</author>
+                    <author>Alexander M. Rush</author>
+                </authors>
+                <title>Lie-Access Neural Turing Machines.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/YangR17</key>
+                <ee>https://openreview.net/forum?id=Byiy-Pqlx</ee>
+                <url>https://dblp.org/rec/conf/iclr/YangR17</url>
+            </info>
+            <url>URL#602720</url>
+        </hit>
+        <hit score="1" id="602721">
+            <info>
+                <authors>
+                    <author>Zhilin Yang</author>
+                    <author>Ruslan Salakhutdinov</author>
+                    <author>William W. Cohen</author>
+                </authors>
+                <title>Transfer Learning for Sequence Tagging with Hierarchical Recurrent Networks.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/YangSC17</key>
+                <ee>https://openreview.net/forum?id=ByxpMd9lx</ee>
+                <url>https://dblp.org/rec/conf/iclr/YangSC17</url>
+            </info>
+            <url>URL#602721</url>
+        </hit>
+        <hit score="1" id="602722">
+            <info>
+                <authors>
+                    <author>Yingzhen Yang</author>
+                    <author>Jiahui Yu</author>
+                    <author>Pushmeet Kohli</author>
+                    <author>Jianchao Yang</author>
+                    <author>Thomas S. Huang</author>
+                </authors>
+                <title>Support Regularized Sparse Coding and Its Fast Encoder.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/YangYKYH17</key>
+                <ee>https://openreview.net/forum?id=HkljfjFee</ee>
+                <url>https://dblp.org/rec/conf/iclr/YangYKYH17</url>
+            </info>
+            <url>URL#602722</url>
+        </hit>
+        <hit score="1" id="602723">
+            <info>
+                <authors>
+                    <author>Dani Yogatama</author>
+                    <author>Phil Blunsom</author>
+                    <author>Chris Dyer</author>
+                    <author>Edward Grefenstette</author>
+                    <author>Wang Ling</author>
+                </authors>
+                <title>Learning to Compose Words into Sentences with Reinforcement Learning.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/YogatamaBDGL17</key>
+                <ee>https://openreview.net/forum?id=Skvgqgqxe</ee>
+                <url>https://dblp.org/rec/conf/iclr/YogatamaBDGL17</url>
+            </info>
+            <url>URL#602723</url>
+        </hit>
+        <hit score="1" id="602724">
+            <info>
+                <authors>
+                    <author>Lei Yu</author>
+                    <author>Phil Blunsom</author>
+                    <author>Chris Dyer</author>
+                    <author>Edward Grefenstette</author>
+                    <author>Tomás Kociský</author>
+                </authors>
+                <title>The Neural Noisy Channel.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/YuBDGK17</key>
+                <ee>https://openreview.net/forum?id=SJ25-B5eg</ee>
+                <url>https://dblp.org/rec/conf/iclr/YuBDGK17</url>
+            </info>
+            <url>URL#602724</url>
+        </hit>
+        <hit score="1" id="602725">
+            <info>
+                <authors>
+                    <author>Haizi Yu</author>
+                    <author>Lav R. Varshney</author>
+                </authors>
+                <title>Towards Deep Interpretability (MUS-ROVER II) - Learning Hierarchical Representations of Tonal
+                    Music.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/YuV17</key>
+                <ee>https://openreview.net/forum?id=ryhqQFKgl</ee>
+                <url>https://dblp.org/rec/conf/iclr/YuV17</url>
+            </info>
+            <url>URL#602725</url>
+        </hit>
+        <hit score="1" id="602726">
+            <info>
+                <authors>
+                    <author>Sergey Zagoruyko</author>
+                    <author>Nikos Komodakis</author>
+                </authors>
+                <title>Paying More Attention to Attention - Improving the Performance of Convolutional Neural Networks
+                    via Attention Transfer.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/ZagoruykoK17</key>
+                <ee>https://openreview.net/forum?id=Sks9_ajex</ee>
+                <url>https://dblp.org/rec/conf/iclr/ZagoruykoK17</url>
+            </info>
+            <url>URL#602726</url>
+        </hit>
+        <hit score="1" id="602727">
+            <info>
+                <authors>
+                    <author>Werner Zellinger</author>
+                    <author>Thomas Grubinger</author>
+                    <author>Edwin Lughofer</author>
+                    <author>Thomas Natschläger</author>
+                    <author>Susanne Saminger-Platz</author>
+                </authors>
+                <title>Central Moment Discrepancy (CMD) for Domain-Invariant Representation Learning.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/ZellingerGLNS17</key>
+                <ee>https://openreview.net/forum?id=SkB-_mcel</ee>
+                <url>https://dblp.org/rec/conf/iclr/ZellingerGLNS17</url>
+            </info>
+            <url>URL#602727</url>
+        </hit>
+        <hit score="1" id="602728">
+            <info>
+                <authors>
+                    <author>Chiyuan Zhang</author>
+                    <author>Samy Bengio</author>
+                    <author>Moritz Hardt</author>
+                    <author>Benjamin Recht</author>
+                    <author>Oriol Vinyals</author>
+                </authors>
+                <title>Understanding deep learning requires rethinking generalization.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/ZhangBHRV17</key>
+                <ee>https://openreview.net/forum?id=Sy8gdB9xx</ee>
+                <url>https://dblp.org/rec/conf/iclr/ZhangBHRV17</url>
+            </info>
+            <url>URL#602728</url>
+        </hit>
+        <hit score="1" id="602729">
+            <info>
+                <authors>
+                    <author>Tian Zhao</author>
+                    <author>Xiaobing Huang</author>
+                    <author>Yu Cao</author>
+                </authors>
+                <title>DeepDSL - A Compilation-based Domain-Specific Language for Deep Learning.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/ZhaoHC17</key>
+                <ee>https://openreview.net/forum?id=Bks8cPcxe</ee>
+                <url>https://dblp.org/rec/conf/iclr/ZhaoHC17</url>
+            </info>
+            <url>URL#602729</url>
+        </hit>
+        <hit score="1" id="602730">
+            <info>
+                <authors>
+                    <author>Junbo Jake Zhao</author>
+                    <author>Michaël Mathieu</author>
+                    <author>Yann LeCun</author>
+                </authors>
+                <title>Energy-based Generative Adversarial Networks.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/ZhaoML17</key>
+                <ee>https://openreview.net/forum?id=ryh9pmcee</ee>
+                <url>https://dblp.org/rec/conf/iclr/ZhaoML17</url>
+            </info>
+            <url>URL#602730</url>
+        </hit>
+        <hit score="1" id="602731">
+            <info>
+                <authors>
+                    <author>Aojun Zhou</author>
+                    <author>Anbang Yao</author>
+                    <author>Yiwen Guo</author>
+                    <author>Lin Xu</author>
+                    <author>Yurong Chen</author>
+                </authors>
+                <title>Incremental Network Quantization - Towards Lossless CNNs with Low-precision Weights.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/ZhouYGXC17</key>
+                <ee>https://openreview.net/forum?id=HyQJ-mclg</ee>
+                <url>https://dblp.org/rec/conf/iclr/ZhouYGXC17</url>
+            </info>
+            <url>URL#602731</url>
+        </hit>
+        <hit score="1" id="602732">
+            <info>
+                <authors>
+                    <author>Chenzhuo Zhu</author>
+                    <author>Song Han</author>
+                    <author>Huizi Mao</author>
+                    <author>William J. Dally</author>
+                </authors>
+                <title>Trained Ternary Quantization.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/ZhuHMD17</key>
+                <ee>https://openreview.net/forum?id=S1_pAu9xl</ee>
+                <url>https://dblp.org/rec/conf/iclr/ZhuHMD17</url>
+            </info>
+            <url>URL#602732</url>
+        </hit>
+        <hit score="1" id="602734">
+            <info>
+                <authors>
+                    <author>Luisa M. Zintgraf</author>
+                    <author>Taco S. Cohen</author>
+                    <author>Tameem Adel</author>
+                    <author>Max Welling</author>
+                </authors>
+                <title>Visualizing Deep Neural Network Decisions - Prediction Difference Analysis.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/ZintgrafCAW17</key>
+                <ee>https://openreview.net/forum?id=BJ5UeU9xx</ee>
+                <url>https://dblp.org/rec/conf/iclr/ZintgrafCAW17</url>
+            </info>
+            <url>URL#602734</url>
+        </hit>
+        <hit score="1" id="602735">
+            <info>
+                <authors>
+                    <author>Barret Zoph</author>
+                    <author>Quoc V. Le</author>
+                </authors>
+                <title>Neural Architecture Search with Reinforcement Learning.</title>
+                <venue>ICLR</venue>
+                <year>2017</year>
+                <type>Conference and Workshop Papers</type>
+                <key>conf/iclr/ZophL17</key>
+                <ee>https://openreview.net/forum?id=r1Ue8Hcxg</ee>
+                <url>https://dblp.org/rec/conf/iclr/ZophL17</url>
+            </info>
+            <url>URL#602735</url>
+        </hit>
+        <hit score="1" id="681108">
+            <info>
+                <title>5th International Conference on Learning Representations, ICLR 2017, Toulon, France, April 24-26,
+                    2017, Conference Track Proceedings</title>
+                <venue>ICLR</venue>
+                <publisher>OpenReview.net</publisher>
+                <year>2017</year>
+                <type>Editorship</type>
+                <key>conf/iclr/2017</key>
+                <ee>https://openreview.net/group?id=ICLR.cc/2017/conference</ee>
+                <url>https://dblp.org/rec/conf/iclr/2017</url>
+            </info>
+            <url>URL#681108</url>
+        </hit>
+    </hits>
+</result>

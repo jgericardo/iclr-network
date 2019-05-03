@@ -1,0 +1,80 @@
+2016,Poster,Auxiliary Image Regularization for Deep CNNs with Noisy Labels.,Samaneh Azadi; Jiashi Feng; Stefanie Jegelka; Trevor Darrell
+2016,Poster,Digging Deep into the Layers of CNNs - In Search of How CNNs Achieve View Invariance.,Amr Bakry; Mohamed Elhoseiny; Tarek El-Gaaly; Ahmed M. Elgammal
+2016,Poster,Delving Deeper into Convolutional Networks for Learning Video Representations.,Nicolas Ballas; Li Yao; Chris Pal; Aaron C. Courville
+2016,Oral,Density Modeling of Images using a Generalized Normalization Transformation.,Johannes Ballé; Valero Laparra; Eero P. Simoncelli
+2016,Poster,Learning Representations from EEG with Deep Recurrent-Convolutional Neural Networks.,Pouya Bashivan; Irina Rish; Mohammed Yeasin; Noel Codella
+2016,Poster,A Test of Relative Similarity For Model Selection in Generative Models.,Wacha Bounliphone; Eugene Belilovsky; Matthew B. Blaschko; Ioannis Antonoglou; Arthur Gretton
+2016,Poster,An Exploration of Softmax Alternatives Belonging to the Spherical Loss Family.,Alexandre de Brébisson; Pascal Vincent
+2016,Poster,Super-Resolution with Deep Convolutional Sufficient Statistics.,Joan Bruna; Pablo Sprechmann; Yann LeCun
+2016,Poster,Importance Weighted Autoencoders.,Yuri Burda; Roger B. Grosse; Ruslan Salakhutdinov
+2016,Oral,Net2Net - Accelerating Learning via Knowledge Transfer.,Tianqi Chen; Ian J. Goodfellow; Jonathon Shlens
+2016,Poster,Fast and Accurate Deep Network Learning by Exponential Linear Units (ELUs).,Djork-Arné Clevert; Thomas Unterthiner; Sepp Hochreiter
+2016,Poster,Reducing Overfitting in Deep Networks by Decorrelating Representations.,Michael Cogswell; Faruk Ahmed; Ross B. Girshick; Larry Zitnick; Dhruv Batra
+2016,Poster,Variational Auto-encoded Deep Gaussian Processes.,Zhenwen Dai; Andreas C. Damianou; Javier González; Neil D. Lawrence
+2016,Poster,Predicting distributions with Linearizing Belief Networks.,Yann N. Dauphin; David Grangier
+2016,Poster,8-Bit Approximations for Parallelism in Deep Learning.,Tim Dettmers
+2016,Poster,Evaluating Prerequisite Qualities for Learning End-to-End Dialog Systems.,Jesse Dodge; Andreea Gane; Xiang Zhang; Antoine Bordes; Sumit Chopra; Alexander H. Miller; Arthur Szlam; Jason Weston
+2016,Poster,Deep Linear Discriminant Analysis.,Matthias Dorfer; Rainer Kelz; Gerhard Widmer
+2016,Poster,Censoring Representations with an Adversary.,Harrison Edwards; Amos J. Storkey
+2016,Poster,Learning Visual Predictive Models of Physics for Playing Billiards.,Katerina Fragkiadaki; Pulkit Agrawal; Sergey Levine; Jitendra Malik
+2016,Poster,MuProp - Unbiased Backpropagation for Stochastic Neural Networks.,Shixiang Gu; Sergey Levine; Ilya Sutskever; Andriy Mnih
+2016,Oral,"Deep Compression - Compressing Deep Neural Network with Pruning, Trained Quantization and Huffman Coding.",Song Han; Huizi Mao; William J. Dally
+2016,Poster,Deep Reinforcement Learning in Parameterized Action Space.,Matthew J. Hausknecht; Peter Stone
+2016,Poster,Geodesics of learned representations.,Olivier J. Hénaff; Eero P. Simoncelli
+2016,Poster,Session-based Recommendations with Recurrent Neural Networks.,Balázs Hidasi; Alexandros Karatzoglou; Linas Baltrunas; Domonkos Tikk
+2016,Oral,The Goldilocks Principle - Reading Children's Books with Explicit Memory Representations.,Felix Hill; Antoine Bordes; Sumit Chopra; Jason Weston
+2016,Poster,Training CNNs with Low-Rank Filters for Efficient Image Classification.,Yani Ioannou; Duncan P. Robertson; Jamie Shotton; Roberto Cipolla; Antonio Criminisi
+2016,Oral,BlackOut - Speeding up Recurrent Neural Network Language Models With Very Large Vocabularies.,Shihao Ji; S. V. N. Vishwanathan; Nadathur Satish; Michael J. Anderson; Pradeep Dubey
+2016,Poster,Neural GPUs Learn Algorithms.,Lukasz Kaiser; Ilya Sutskever
+2016,Poster,Grid Long Short-Term Memory.,Nal Kalchbrenner; Ivo Danihelka; Alex Graves
+2016,Poster,When crowds hold privileges - Bayesian unsupervised representation learning with oracle constraints.,Theofanis Karaletsos; Serge J. Belongie; Gunnar Rätsch
+2016,Poster,Compression of Deep Convolutional Neural Networks for Fast and Low Power Mobile Applications.,Yong-Deok Kim; Eunhyeok Park; Sungjoo Yoo; Taelim Choi; Lu Yang; Dongjun Shin
+2016,Poster,Surpassing Humans in Boundary Detection using Deep Learning.,Iasonas Kokkinos
+2016,Poster,Segmental Recurrent Neural Networks.,Lingpeng Kong; Chris Dyer; Noah A. Smith
+2016,Poster,Data-dependent Initializations of Convolutional Neural Networks.,Philipp Krähenbühl; Carl Doersch; Jeff Donahue; Trevor Darrell
+2016,Oral,Regularizing RNNs by Stabilizing Activations.,David Krueger; Roland Memisevic
+2016,Poster,Neural Random-Access Machines.,Karol Kurach; Marcin Andrychowicz; Ilya Sutskever
+2016,Poster,Reasoning in Vector Space - An Exploratory Study of Question Answering.,Moontae Lee; Xiaodong He; Wen-tau Yih; Jianfeng Gao; Li Deng; Paul Smolensky
+2016,Poster,Gated Graph Sequence Neural Networks.,Yujia Li; Daniel Tarlow; Marc Brockschmidt; Richard S. Zemel
+2016,Oral,Convergent Learning - Do different neural networks learn the same representations?,Yixuan Li; Jason Yosinski; Jeff Clune; Hod Lipson; John E. Hopcroft
+2016,Poster,Continuous control with deep reinforcement learning.,Timothy P. Lillicrap; Jonathan J. Hunt; Alexander Pritzel; Nicolas Heess; Tom Erez; Yuval Tassa; David Silver; Daan Wierstra
+2016,Oral,Neural Networks with Few Multiplications.,Zhouhan Lin; Matthieu Courbariaux; Roland Memisevic; Yoshua Bengio
+2016,Poster,Learning to Diagnose with LSTM Recurrent Neural Networks.,Zachary Chase Lipton; David C. Kale; Charles Elkan; Randall C. Wetzel
+2016,Poster,Unifying distillation and privileged information.,David Lopez-Paz; Léon Bottou; Bernhard Schölkopf; Vladimir Vapnik
+2016,Oral,The Variational Fair Autoencoder.,Christos Louizos; Kevin Swersky; Yujia Li; Max Welling; Richard S. Zemel
+2016,Poster,Multi-task Sequence to Sequence Learning.,Minh-Thang Luong; Quoc V. Le; Ilya Sutskever; Oriol Vinyals; Lukasz Kaiser
+2016,Oral,Generating Images from Captions with Attention.,Elman Mansimov; Emilio Parisotto; Lei Jimmy Ba; Ruslan Salakhutdinov
+2016,Poster,Diversity Networks.,Zelda Mariet; Suvrit Sra
+2016,Poster,Deep multi-scale video prediction beyond mean square error.,Michaël Mathieu; Camille Couprie; Yann LeCun
+2016,Poster,Recurrent Gaussian Processes.,César Lincoln C. Mattos; Zhenwen Dai; Andreas C. Damianou; Jeremy Forth; Guilherme A. Barreto; Neil D. Lawrence
+2016,Poster,All you need is a good init.,Dmytro Mishkin; Jiri Matas
+2016,Poster,Distributional Smoothing by Virtual Adversarial Examples.,Takeru Miyato; Shin-ichi Maeda; Masanori Koyama; Ken Nakae; Shin Ishii
+2016,Poster,ACDC - A Structured Efficient Linear Layer.,Marcin Moczulski; Misha Denil; Jeremy Appleyard; Nando de Freitas
+2016,Poster,SparkNet - Training Deep Networks in Spark.,Philipp Moritz; Robert Nishihara; Ion Stoica; Michael I. Jordan
+2016,Oral,Neural Programmer - Inducing Latent Programs with Gradient Descent.,Arvind Neelakantan; Quoc V. Le; Ilya Sutskever
+2016,Poster,Data-Dependent Path Normalization in Neural Networks.,Behnam Neyshabur; Ryota Tomioka; Ruslan Salakhutdinov; Nathan Srebro
+2016,Poster,Actor-Mimic - Deep Multitask and Transfer Reinforcement Learning.,Emilio Parisotto; Lei Jimmy Ba; Ruslan Salakhutdinov
+2016,Poster,Data Representation and Compression Using Linear-Programming Approximations.,Hristo S. Paskov; John C. Mitchell; Trevor J. Hastie
+2016,Poster,Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks.,Alec Radford; Luke Metz; Soumith Chintala
+2016,Poster,Sequence Level Training with Recurrent Neural Networks.,Marc'Aurelio Ranzato; Sumit Chopra; Michael Auli; Wojciech Zaremba
+2016,Poster,Neural Programmer-Interpreters.,Scott E. Reed; Nando de Freitas
+2016,Poster,Metric Learning with Adaptive Density Discrimination.,Oren Rippel; Manohar Paluri; Piotr Dollár; Lubomir D. Bourdev
+2016,Poster,Reasoning about Entailment with Neural Attention.,Tim Rocktäschel; Edward Grefenstette; Karl Moritz Hermann; Tomás Kociský; Phil Blunsom
+2016,Poster,Policy Distillation.,Andrei A. Rusu; Sergio Gomez Colmenarejo; Çaglar Gülçehre; Guillaume Desjardins; James Kirkpatrick; Razvan Pascanu; Volodymyr Mnih; Koray Kavukcuoglu; Raia Hadsell
+2016,Poster,Adversarial Manipulation of Deep Representations.,Sara Sabour; Yanshuai Cao; Fartash Faghri; David J. Fleet
+2016,Poster,Prioritized Experience Replay.,Tom Schaul; John Quan; Ioannis Antonoglou; David Silver
+2016,Poster,High-Dimensional Continuous Control Using Generalized Advantage Estimation.,John Schulman; Philipp Moritz; Sergey Levine; Michael I. Jordan; Pieter Abbeel
+2016,Poster,Modeling Visual Representations - Defining Properties and Deep Approximations,Stefano Soatto; Alessandro Chiuso
+2016,Poster,Unsupervised and Semi-supervised Learning with Categorical Generative Adversarial Networks.,Jost Tobias Springenberg
+2016,Poster,Convolutional neural networks with low-rank regularization.,Cheng Tai; Tong Xiao; Xiaogang Wang; Weinan E
+2016,Oral,A note on the evaluation of generative models.,Lucas Theis; Aäron van den Oord; Matthias Bethge
+2016,Poster,Better Computer Go Player with Neural Network and Long-term Prediction.,Yuandong Tian; Yan Zhu
+2016,Poster,Variable Rate Image Compression with Recurrent Neural Networks.,George Toderici; Sean M. O'Malley; Sung Jin Hwang; Damien Vincent; David Minnen; Shumeet Baluja; Michele Covell; Rahul Sukthankar
+2016,Poster,Particular object retrieval with integral max-pooling of CNN activations.,Giorgos Tolias; Ronan Sicre; Hervé Jégou
+2016,Poster,Variational Gaussian Process.,Dustin Tran; Rajesh Ranganath; David M. Blei
+2016,Oral,Order-Embeddings of Images and Language.,Ivan Vendrov; Ryan Kiros; Sanja Fidler; Raquel Urtasun
+2016,Poster,Order Matters - Sequence to sequence for sets.,Oriol Vinyals; Samy Bengio; Manjunath Kudlur
+2016,Poster,Large-Scale Approximate Kernel Canonical Correlation Analysis.,Weiran Wang; Karen Livescu
+2016,Poster,Towards AI-Complete Question Answering - A Set of Prerequisite Toy Tasks.,Jason Weston; Antoine Bordes; Sumit Chopra; Tomas Mikolov
+2016,Oral,Towards Universal Paraphrastic Sentence Embeddings.,John Wieting; Mohit Bansal; Kevin Gimpel; Karen Livescu
+2016,Poster,Multi-Scale Context Aggregation by Dilated Convolutions.,Fisher Yu; Vladlen Koltun
